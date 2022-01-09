@@ -49,6 +49,11 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 * 您可自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈，並請勿使用字型的保留名稱。
 * 依照 [SIL OFL](https://scripts.sil.org/OFL) 規定，**禁止單獨出售字型檔(ttf/otf)**。
 
+## 芫荽家族
+
+- [注音芫荽](https://github.com/ButTaiwan/bpmfvs) 芫荽的注音字型。
+- [字咍芫荽](https://github.com/ButTaiwan/taigivs) 台語標音字型家族。
+
 ## 致謝
 
 - [Fontworks 株式会社](http://fontworks.co.jp) 提供原版字型： [Klee GitHub Page](https://github.com/fontworks-fonts/)

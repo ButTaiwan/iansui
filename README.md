@@ -26,7 +26,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 本字型**盡可能**調整字形貼近教育部標準字體，包括印刷體形式的斷筆，也都調整為一筆劃。
 保留與 Klee 原封不動的字符約僅 3000 字（含調整過異體映射者），超過 4000 字符經過修改，並補字超過 1500 字。
 
-開發時參考《國字標準字體研訂原則》之規定，但《國字標準字體教師手冊》部分所述之部分規定不見於通則與分則，先不考慮處理。
+開發時參考《[國字標準字體研訂原則](https://language.moe.gov.tw/001/upload/files/site_content/m0001/biau/c12.htm?open)》之規定，但《[國字標準字體教師手冊](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/STD/c4.htm?open)》部分所述之部分規定不見於通則與分則，先不考慮處理。
 因個人審美、人力等因素，以下細節目前決定不修改，或可能與標楷體有些許差異。
 
 * 「又」字不閉口。（標準字體研訂原則規定又字閉口，但又字數量太多，且又第二筆做點時，閉口造形難以處理又不美觀。）
@@ -59,7 +59,9 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 - [注音芫荽](https://github.com/ButTaiwan/bpmfvs) 芫荽的注音字型。
 - [字咍芫荽](https://github.com/ButTaiwan/taigivs) 台語標音字型家族。
 
-## 致謝
+## 相關資料
 
 - [Fontworks 株式会社](http://fontworks.co.jp) 提供原版字型： [Klee GitHub Page](https://github.com/fontworks-fonts/)
-- 陳建中協助測試。
+- [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
+- [國字標準字體研訂原則](https://language.moe.gov.tw/001/upload/files/site_content/m0001/biau/c12.htm?open)
+- [國字標準字體教師手冊](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/STD/c4.htm?open)

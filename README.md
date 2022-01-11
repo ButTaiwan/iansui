@@ -65,3 +65,9 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 - [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 - [國字標準字體研訂原則](https://language.moe.gov.tw/001/upload/files/site_content/m0001/biau/c12.htm?open)
 - [國字標準字體教師手冊](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/STD/c4.htm?open)
+
+## 請斗內QQ
+
+![請斗內](img/banks.png)
+
+個人維護開源字型工程浩大，若您覺得此字型能幫助到您，麻煩贊助一下吧XD

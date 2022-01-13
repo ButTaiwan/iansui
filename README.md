@@ -1,6 +1,6 @@
-![Iansui/芫荽](img/cover.png)
+![芫荽/iansui](img/cover.png)
 
-# Iansui / 芫荽
+# 芫荽 / iansui
 An open source Chinese font derived from Klee One (Fontworks). 基於 Fontworks 的 Klee One 衍生的開源繁體中文字型。  
 
 ## 簡介

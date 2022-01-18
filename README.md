@@ -68,8 +68,10 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 
 ## 請斗內QQ
 
+個人維護開源字型工程浩大，若您覺得此字型能幫助到您，麻煩贊助一下吧XD
+
 ![請斗內](img/banks.png)
 
-信用卡（含國際信用卡）、超商代收，請 [點這裡](https://p.ecpay.com.tw/930AED7) 。
+信用卡（含國際信用卡）、ATM轉帳、超商條碼、超商代收，請 [點這裡](https://p.ecpay.com.tw/930AED7) 。
 
-個人維護開源字型工程浩大，若您覺得此字型能幫助到您，麻煩贊助一下吧XD
+![綠界](https://payment.ecpay.com.tw/Upload/QRCode/202201/QRCode_8c75f13a-f5df-4ea6-81e0-902353b50c6a.png)

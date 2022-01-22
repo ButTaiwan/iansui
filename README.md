@@ -1,7 +1,9 @@
 ![芫荽/iansui](img/cover.png)
 
 # 芫荽 / iansui
-An open source Chinese font derived from Klee One (Fontworks). 基於 Fontworks 的 Klee One 衍生的開源繁體中文字型。  
+An open source Chinese font derived from Klee One (Fontworks). 
+
+基於 Fontworks 的 Klee One 衍生的開源繁體中文字型。  
 
 ## 簡介
 
@@ -38,7 +40,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 * **不嚴格處理筆劃是否接觸**，如宀、立、羊等字的點是否與下橫接觸等。「𧘇」部件亦保留 Klee 的左右接觸設計。
 * 日、目、田⋯⋯等字的右下角閉口方式，目前均保留 Klee 原始設計（比照「口」），相關文字實在太多，無法全面修改。
 * 「糹」做為左偏旁時，最左點的方向與標楷體不同，此為美觀考量。此字體中宮鬆較正方，三點均朝右難以站穩。如同「灬」，連續的點，最左方點朝左或朝右，應視為審美選擇。
-* Klee One 原有收錄的字，但在 Big5 範圍外且非台客語漢字者，原則上保留原日文字形不進行調整。
+* Klee One 原有收錄的字，但在 Big5 範圍外且非台客語漢字者，原則上先視為日文異體，保留原字形不進行調整。
 
 即本專案以較寬鬆的方式解釋教育部標準字體的規定，如同思源宋體、思源黑體、蘋方等其他字型。
 這樣的寫法是否已足夠應付學齡教學使用，盼大眾能提供反饋。
@@ -59,6 +61,10 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 * 您可自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈，並請勿使用字型的保留名稱。
 * 依照 [SIL OFL](https://scripts.sil.org/OFL) 規定，**禁止單獨出售字型檔(ttf/otf)**。
 
+## 如何下載
+
+請點選本頁面右側「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 iansui.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
+
 ## 芫荽家族
 
 - [注音芫荽](https://github.com/ButTaiwan/bpmfvs) 芫荽的注音字型。
@@ -73,7 +79,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 
 ## 請斗內QQ
 
-個人維護開源字型工程浩大，若您覺得此字型能幫助到您，麻煩贊助一下吧Q_Q
+個人維護開源字型工程浩大，有足夠的支持，才有持續改版、精進的空間。若您覺得此字型能幫助到您，麻煩贊助一下吧Q_Q
 
 ![請斗內](img/donatation220118.png)
 

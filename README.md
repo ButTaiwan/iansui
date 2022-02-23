@@ -17,7 +17,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 
 ## 最新版本與下載方式
 
-目前最新版本為 0.940，請[點此](ChangeLog.md)查看詳細異動紀錄。
+目前最新版本為 0.941，請[點此](ChangeLog.md)查看詳細異動紀錄。
 
 請點選本頁面右側「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 iansui.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
 

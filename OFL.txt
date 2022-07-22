@@ -1,5 +1,5 @@
-Copyright (c) 2022, But Ko (https://github.com/ButTaiwan/iansui),
-with Reserved Font Name "iansui" and "ʹ�h".
+﻿Copyright (c) 2022, But Ko (https://github.com/ButTaiwan/iansui),
+with Reserved Font Name "iansui" and "芫荽".
 
 Copyright (c) 2020, The Klee Project Authors (https://github.com/fontworks-fonts/Klee).
 

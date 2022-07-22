@@ -1,5 +1,7 @@
-Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
-Copyright 2022 But Ko (https://github.com/ButTaiwan/iansui)
+Copyright (c) 2022, But Ko (https://github.com/ButTaiwan/iansui),
+with Reserved Font Name "iansui" and "Í´×h".
+
+Copyright (c) 2020, The Klee Project Authors (https://github.com/fontworks-fonts/Klee).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

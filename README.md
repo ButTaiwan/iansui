@@ -34,7 +34,6 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 	- KK: ɑæɛəɪɔᴜʌɚɝ aɪaᴜ θʃðʒŋḷṃṇ ‵ʹ͵
 	- DJ: ɑæəɜɪɔʊʌː aɪaʊ θʃðʒŋ ˈˌ
 	- 注意因為芫荽的 a 預設是單層，而 Unicode 沒有兩層 a 的字碼，故以標準連字方式來實作。當 a 出現在 ɪᴜʊ 之前時顯示為兩層。故單層 a 也可以不用刻意輸入 ɑ。
-	- ![KK音標](img/kksymbol.png)
 	
 ![芫荽範例字/iansui](img/iansui_sample.jpg)
 

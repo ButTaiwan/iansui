@@ -1,4 +1,4 @@
-![芫荽/iansui](img/cover.png)
+![芫荽/iansui](img/iansui_cover.jpg)
 
 # 芫荽 / iansui
 An open source Chinese font derived from Klee One (Fontworks). 
@@ -17,13 +17,14 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 
 ## 最新版本與下載方式
 
-目前最新版本為 0.943，請[點此](ChangeLog.md)查看詳細異動紀錄。
+目前最新版本為 1.000，請[點此](ChangeLog.md)查看詳細異動紀錄。
 
 請點選本頁面右側「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 iansui.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
 
 ## 收錄字數
 
-* Big5範圍內約7,800字。**注意並沒有包含Big5完整的13,560字。**
+* Big5範圍內約8,170字。**注意並沒有包含Big5完整的13,560字。**
+* 支援jf當務字集基本包與擴充包所有文字。
 * 台、客語漢字（教育部《[臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/)》《[臺灣客家語常用詞辭典](https://hakkadict.moe.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&cache=1641872312920)》內所有推薦用字。原則上不收錄異用字。）、常用粵語字。
 * 注音符號與方音符號。
 * 支援台羅拼音、台語白話字拼音、客語拼音、客語白話字拼音、原住名族語拼音、漢語拼音、馬祖福州話拼音編排。
@@ -34,11 +35,13 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 	- DJ: ɑæəɜɪɔʊʌː aɪaʊ θʃðʒŋ ˈˌ
 	- 注意因為芫荽的 a 預設是單層，而 Unicode 沒有兩層 a 的字碼，故以標準連字方式來實作。當 a 出現在 ɪᴜʊ 之前時顯示為兩層。故單層 a 也可以不用刻意輸入 ɑ。
 	- ![KK音標](img/kksymbol.png)
+	
+![芫荽範例字/iansui](img/iansui_sample.jpg)
 
 ## 字形調整原則
 
 本字型**盡可能**調整字形貼近教育部標準字體，包括印刷體形式的斷筆，也都調整為一筆劃。
-保留與 Klee 原封不動的字符約僅 3000 字（含調整過異體映射者），超過 4000 字符經過修改，並補字超過 1600 字。
+保留與 Klee 原封不動的字符約僅 3000 字（含調整過異體映射者），超過 4000 字符經過修改，並補字超過 2000 字。
 
 開發時參考《[國字標準字體研訂原則](https://language.moe.gov.tw/001/upload/files/site_content/m0001/biau/c12.htm?open)》之規定，但《[國字標準字體教師手冊](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/STD/c4.htm?open)》部分所述之部分規定不見於通則與分則，先不考慮處理。
 因個人審美、人力等因素，以下細節目前決定不修改，或可能與標楷體有些許差異。
@@ -53,11 +56,12 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 即本專案以較寬鬆的方式解釋教育部標準字體的規定，如同思源宋體、思源黑體、蘋方等其他字型。
 這樣的寫法是否已足夠應付學齡教學使用，盼大眾能提供反饋。
 
-## 注意
+## 備註
 
 1. 本字型目前尚為 Beta 測試版本，若發現有字符出現外框錯誤，請在 issues 回報，謝謝。
 2. 部分文字是否符合教育部標準字體標準可能見仁見智。
 3. 因人力有限，目前沒有計畫製作完整 Big5 字集甚至更多 Unicode 漢字。若有缺字，可考慮與 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 等其他 Klee One 的中文補字專案混排使用。但無法保證為標準字體。
+4. 本頁面圖片提供：王皓梅、陳建中
 
 ## 開源授權規定
 

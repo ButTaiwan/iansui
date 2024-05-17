@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF09.ruby.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <outline>
+    <contour>
+      <point x="864" y="654"/>
+      <point x="619" y="552"/>
+      <point x="500" y="552" type="qcurve"/>
+      <point x="381" y="552"/>
+      <point x="136" y="654"/>
+      <point x="53" y="744" type="qcurve"/>
+      <point x="44" y="753"/>
+      <point x="44" y="766" type="qcurve"/>
+      <point x="44" y="777"/>
+      <point x="58" y="792"/>
+      <point x="69" y="792" type="qcurve"/>
+      <point x="78" y="792"/>
+      <point x="86" y="785" type="qcurve"/>
+      <point x="170" y="714"/>
+      <point x="393" y="636"/>
+      <point x="500" y="636" type="qcurve"/>
+      <point x="607" y="636"/>
+      <point x="830" y="714"/>
+      <point x="914" y="785" type="qcurve"/>
+      <point x="922" y="792"/>
+      <point x="931" y="792" type="qcurve"/>
+      <point x="942" y="792"/>
+      <point x="956" y="777"/>
+      <point x="956" y="766" type="qcurve"/>
+      <point x="956" y="753"/>
+      <point x="947" y="744" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>d30aed447869bc3417504ae211a748dd3c180dfb03ba5356233513f8c8e5c3d9e38f21138fbf5837594cb113bcc84c17dcd4290aa6b6fc1263e754534bad6478</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

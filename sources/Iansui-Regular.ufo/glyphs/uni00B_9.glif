@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B9" format="2">
+  <advance height="1000" width="380"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="236" y="319"/>
+      <point x="225" y="311"/>
+      <point x="216" y="311" type="qcurve"/>
+      <point x="201" y="311"/>
+      <point x="173" y="328"/>
+      <point x="173" y="341" type="qcurve"/>
+      <point x="173" y="342" type="line"/>
+      <point x="175" y="412" type="line"/>
+      <point x="175" y="603" type="line"/>
+      <point x="159" y="593"/>
+      <point x="136" y="582"/>
+      <point x="124" y="580" type="qcurve"/>
+      <point x="122" y="579"/>
+      <point x="118" y="579" type="qcurve"/>
+      <point x="106" y="579"/>
+      <point x="83" y="597"/>
+      <point x="83" y="606" type="qcurve"/>
+      <point x="83" y="613"/>
+      <point x="92" y="617" type="qcurve"/>
+      <point x="110" y="624"/>
+      <point x="140" y="645"/>
+      <point x="165" y="664" type="qcurve"/>
+      <point x="169" y="668"/>
+      <point x="191" y="695"/>
+      <point x="200" y="695" type="qcurve"/>
+      <point x="211" y="695"/>
+      <point x="238" y="673"/>
+      <point x="238" y="661" type="qcurve"/>
+      <point x="238" y="656"/>
+      <point x="236" y="640" type="qcurve"/>
+      <point x="234" y="620"/>
+      <point x="234" y="604" type="qcurve"/>
+      <point x="234" y="417" type="line"/>
+      <point x="234" y="356"/>
+      <point x="236" y="327" type="qcurve"/>
+      <point x="236" y="326" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1f4f1ba306a92d9a4010b1f54782528ba4d01997201c7e5f4a6ea35092cf3e08898122323ed741ddd5924f150bd7e14d744841ab197d63e005cc66770f367ca1</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

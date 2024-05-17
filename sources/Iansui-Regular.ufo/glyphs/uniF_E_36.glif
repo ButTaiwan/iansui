@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE36" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FE36"/>
+  <outline>
+    <contour>
+      <point x="858" y="526"/>
+      <point x="617" y="427"/>
+      <point x="499" y="427" type="qcurve"/>
+      <point x="381" y="427"/>
+      <point x="140" y="526"/>
+      <point x="58" y="615" type="qcurve"/>
+      <point x="51" y="622"/>
+      <point x="51" y="632" type="qcurve"/>
+      <point x="51" y="640"/>
+      <point x="60" y="650"/>
+      <point x="67" y="650" type="qcurve"/>
+      <point x="72" y="650"/>
+      <point x="79" y="645" type="qcurve"/>
+      <point x="163" y="574"/>
+      <point x="387" y="501"/>
+      <point x="499" y="501" type="qcurve"/>
+      <point x="611" y="501"/>
+      <point x="835" y="574"/>
+      <point x="919" y="645" type="qcurve"/>
+      <point x="926" y="650"/>
+      <point x="931" y="650" type="qcurve"/>
+      <point x="938" y="650"/>
+      <point x="947" y="640"/>
+      <point x="947" y="632" type="qcurve"/>
+      <point x="947" y="622"/>
+      <point x="940" y="615" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>bdf04416e6f587291b37137b23afc9f4f5dd62e0fbb023c660696e8b29552ed6244e9a4e7ae6d1f0678883a13ceb298a24703155238113e06d27c897a739c076</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotenleader" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="802" y="351"/>
+      <point x="776" y="326"/>
+      <point x="750" y="326" type="qcurve"/>
+      <point x="730" y="326"/>
+      <point x="697" y="366"/>
+      <point x="697" y="386" type="qcurve"/>
+      <point x="697" y="409"/>
+      <point x="726" y="434"/>
+      <point x="750" y="434" type="qcurve"/>
+      <point x="769" y="434"/>
+      <point x="802" y="393"/>
+      <point x="802" y="372" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="303" y="351"/>
+      <point x="277" y="326"/>
+      <point x="251" y="326" type="qcurve"/>
+      <point x="231" y="326"/>
+      <point x="198" y="366"/>
+      <point x="198" y="386" type="qcurve"/>
+      <point x="198" y="409"/>
+      <point x="227" y="434"/>
+      <point x="251" y="434" type="qcurve"/>
+      <point x="270" y="434"/>
+      <point x="303" y="393"/>
+      <point x="303" y="372" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2f2646dd4aa1b0b3a3e6642b0f9a0b8d575aaeac1ff7c7db416983bb27a00191bda70bb92ff691e2bd0f1c425611c625a67c2638bcb1d5b47864f44dc193b806</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

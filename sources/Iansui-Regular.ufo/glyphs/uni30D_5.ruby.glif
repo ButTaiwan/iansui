@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30D5.ruby" format="2">
+  <advance height="1000" width="1000"/>
+  <outline>
+    <contour>
+      <point x="271" y="608"/>
+      <point x="382" y="622" type="qcurve"/>
+      <point x="639" y="655"/>
+      <point x="750" y="663" type="qcurve"/>
+      <point x="763" y="663"/>
+      <point x="799" y="641"/>
+      <point x="799" y="630" type="qcurve"/>
+      <point x="799" y="626"/>
+      <point x="791" y="609"/>
+      <point x="788" y="601" type="qcurve"/>
+      <point x="726" y="421"/>
+      <point x="502" y="136"/>
+      <point x="287" y="-29"/>
+      <point x="248" y="-29" type="qcurve"/>
+      <point x="231" y="-29"/>
+      <point x="231" y="-16" type="qcurve"/>
+      <point x="231" y="1"/>
+      <point x="262" y="22" type="qcurve"/>
+      <point x="324" y="62"/>
+      <point x="496" y="228"/>
+      <point x="662" y="465"/>
+      <point x="710" y="598" type="qcurve"/>
+      <point x="654" y="595"/>
+      <point x="466" y="572"/>
+      <point x="377" y="559" type="qcurve"/>
+      <point x="257" y="542" type="line"/>
+      <point x="251" y="541"/>
+      <point x="242" y="541" type="qcurve"/>
+      <point x="220" y="541"/>
+      <point x="192" y="580"/>
+      <point x="192" y="598" type="qcurve"/>
+      <point x="192" y="613"/>
+      <point x="204" y="614" type="qcurve"/>
+      <point x="207" y="614" type="line"/>
+      <point x="212" y="614"/>
+      <point x="235" y="606"/>
+      <point x="246" y="606" type="qcurve"/>
+      <point x="254" y="606" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>0bf83c02f5984e9e6308c8ae85ebf44d9899efd3150a5f1f83340ec535eeff69a22d78ec2e0c17d7eeb918b3fac81c59a6b9b6518cc494ed4ef9a48f9a1a5b06</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

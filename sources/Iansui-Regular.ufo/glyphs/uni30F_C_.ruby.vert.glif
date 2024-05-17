@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30FC.ruby.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <outline>
+    <contour>
+      <point x="468" y="654"/>
+      <point x="458" y="676"/>
+      <point x="458" y="678" type="qcurve"/>
+      <point x="458" y="692"/>
+      <point x="473" y="692" type="qcurve"/>
+      <point x="486" y="692"/>
+      <point x="504" y="684" type="qcurve"/>
+      <point x="525" y="673"/>
+      <point x="534" y="655"/>
+      <point x="534" y="628" type="qcurve"/>
+      <point x="534" y="482" type="line"/>
+      <point x="534" y="215"/>
+      <point x="535" y="47" type="qcurve"/>
+      <point x="535" y="24"/>
+      <point x="516" y="-39"/>
+      <point x="501" y="-39" type="qcurve"/>
+      <point x="486" y="-39"/>
+      <point x="468" y="22"/>
+      <point x="468" y="48" type="qcurve"/>
+      <point x="468" y="636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4ef32a02a2a8718843ea5032b22303a18ee8fc292dda2843ce93230058af8781815054a57b4c07c7b1acd585732aaa46bfd4c36c09864b9477817357b460ed2c</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

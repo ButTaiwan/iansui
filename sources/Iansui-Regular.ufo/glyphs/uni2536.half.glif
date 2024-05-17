@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2536.half" format="2">
+  <advance height="1000" width="500"/>
+  <outline>
+    <contour>
+      <point x="233" y="348" type="line"/>
+      <point x="0" y="348" type="line"/>
+      <point x="0" y="382" type="line"/>
+      <point x="233" y="382" type="line"/>
+      <point x="233" y="865" type="line"/>
+      <point x="267" y="865" type="line"/>
+      <point x="267" y="410" type="line"/>
+      <point x="500" y="410" type="line"/>
+      <point x="500" y="320" type="line"/>
+      <point x="233" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l233+348l0+348l0+382l233+382l233+865l267+865l267+410l500+410l500+320l233+320|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

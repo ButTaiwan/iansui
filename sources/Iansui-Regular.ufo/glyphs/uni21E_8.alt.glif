@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21E8.alt" format="2">
+  <advance height="1000" width="1000"/>
+  <outline>
+    <contour>
+      <point x="624" y="294" type="line"/>
+      <point x="110" y="294" type="line"/>
+      <point x="110" y="435" type="line"/>
+      <point x="624" y="435" type="line"/>
+      <point x="624" y="603" type="line"/>
+      <point x="958" y="365" type="line"/>
+      <point x="624" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="669" y="390" type="line"/>
+      <point x="155" y="390" type="line"/>
+      <point x="155" y="339" type="line"/>
+      <point x="669" y="339" type="line"/>
+      <point x="669" y="218" type="line"/>
+      <point x="877" y="365" type="line"/>
+      <point x="669" y="512" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l624+294l110+294l110+435l624+435l624+603l958+365l624+126|l669+390l155+390l155+339l669+339l669+218l877+365l669+512|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

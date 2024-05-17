@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute.italic" format="2">
+  <advance height="1000" width="286"/>
+  <outline>
+    <contour>
+      <point x="131" y="797"/>
+      <point x="155" y="808"/>
+      <point x="170" y="808" type="qcurve"/>
+      <point x="184" y="808"/>
+      <point x="203" y="798"/>
+      <point x="203" y="789" type="qcurve"/>
+      <point x="203" y="786" type="line"/>
+      <point x="152" y="575" type="line"/>
+      <point x="150" y="567"/>
+      <point x="130" y="559"/>
+      <point x="117" y="559" type="qcurve"/>
+      <point x="105" y="559"/>
+      <point x="90" y="566"/>
+      <point x="90" y="573" type="qcurve"/>
+      <point x="90" y="575" type="line"/>
+      <point x="129" y="786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>acad67926b1d6385574ab40cd22ec51eacfef5735aaca54093dc32ea4ec64a1b4ee3e21042d0d5ee5d9268009e33e9ae57cf2db0590d639a6232e1c7f894d982</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

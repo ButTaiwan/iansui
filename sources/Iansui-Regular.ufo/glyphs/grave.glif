@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance height="1000" width="350"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="85" y="667"/>
+      <point x="85" y="677" type="qcurve"/>
+      <point x="85" y="691"/>
+      <point x="115" y="717"/>
+      <point x="131" y="717" type="qcurve"/>
+      <point x="145" y="717"/>
+      <point x="153" y="708" type="qcurve"/>
+      <point x="256" y="602" type="line"/>
+      <point x="263" y="595"/>
+      <point x="263" y="585" type="qcurve"/>
+      <point x="263" y="572"/>
+      <point x="243" y="549"/>
+      <point x="230" y="549" type="qcurve"/>
+      <point x="220" y="549"/>
+      <point x="213" y="556" type="qcurve"/>
+      <point x="93" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>b0f4cfbd3b1295727cce67b264663e567e7f1e265356b16019eaa17350931fc29d2b0c9606f1ec552b29315e26bf01dd02c2179a96ac3dedaa9852baceba82bc</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash.italic" format="2">
+  <advance height="1000" width="1000"/>
+  <outline>
+    <contour>
+      <point x="1" y="210"/>
+      <point x="1" y="227" type="qcurve"/>
+      <point x="1" y="241"/>
+      <point x="19" y="268"/>
+      <point x="30" y="268" type="qcurve"/>
+      <point x="1020" y="268" type="line"/>
+      <point x="1033" y="268"/>
+      <point x="1033" y="251" type="qcurve"/>
+      <point x="1033" y="237"/>
+      <point x="1015" y="210"/>
+      <point x="1004" y="210" type="qcurve"/>
+      <point x="14" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000o1+210q1+227o1+241o19+268q30+268l1020+268o1033+268q1033+251o1033+237o1015+210q1004+210l14+210|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

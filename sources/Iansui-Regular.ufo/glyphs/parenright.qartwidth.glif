@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.qartwidth" format="2">
+  <advance height="1000" width="250"/>
+  <outline>
+    <contour>
+      <point x="25" y="-174"/>
+      <point x="17" y="-163"/>
+      <point x="17" y="-155" type="qcurve"/>
+      <point x="17" y="-144"/>
+      <point x="25" y="-136" type="qcurve"/>
+      <point x="65" y="-96"/>
+      <point x="125" y="48"/>
+      <point x="157" y="212"/>
+      <point x="157" y="281" type="qcurve"/>
+      <point x="157" y="353"/>
+      <point x="123" y="530"/>
+      <point x="58" y="694"/>
+      <point x="14" y="746" type="qcurve"/>
+      <point x="9" y="751"/>
+      <point x="9" y="759" type="qcurve"/>
+      <point x="9" y="766"/>
+      <point x="20" y="776"/>
+      <point x="28" y="776" type="qcurve"/>
+      <point x="49" y="776"/>
+      <point x="151" y="629"/>
+      <point x="232" y="403"/>
+      <point x="232" y="281" type="qcurve"/>
+      <point x="232" y="160"/>
+      <point x="151" y="-47"/>
+      <point x="51" y="-174"/>
+      <point x="32" y="-174" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1fa645fc11a4d428c33ed7d471853dcd17271a1760a4daed56cf0855e420aaa6b4748b0eb83adf342ac15b64048f9500c8ce450369eba1b04f1af4344111d258</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

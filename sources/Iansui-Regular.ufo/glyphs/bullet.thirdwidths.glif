@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet.thirdwidths" format="2">
+  <advance height="1000" width="333"/>
+  <outline>
+    <contour>
+      <point x="150" y="259"/>
+      <point x="105" y="292"/>
+      <point x="77" y="342"/>
+      <point x="77" y="365" type="qcurve"/>
+      <point x="77" y="404"/>
+      <point x="119" y="450"/>
+      <point x="157" y="450" type="qcurve"/>
+      <point x="179" y="450"/>
+      <point x="224" y="417"/>
+      <point x="253" y="366"/>
+      <point x="253" y="341" type="qcurve"/>
+      <point x="253" y="303"/>
+      <point x="210" y="259"/>
+      <point x="174" y="259" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w333o150+259o105+292o77+342q77+365o77+404o119+450q157+450o179+450o224+417o253+366q253+341o253+303o210+259q174+259|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

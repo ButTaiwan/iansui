@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.half" format="2">
+  <advance height="1000" width="500"/>
+  <outline>
+    <contour>
+      <point x="313" y="745" type="line"/>
+      <point x="302" y="741"/>
+      <point x="239" y="718"/>
+      <point x="193" y="698"/>
+      <point x="177" y="688" type="qcurve"/>
+      <point x="171" y="685"/>
+      <point x="166" y="685" type="qcurve"/>
+      <point x="159" y="685"/>
+      <point x="149" y="695"/>
+      <point x="149" y="702" type="qcurve"/>
+      <point x="149" y="722"/>
+      <point x="299" y="823" type="qcurve"/>
+      <point x="301" y="824"/>
+      <point x="305" y="824" type="qcurve"/>
+      <point x="320" y="824"/>
+      <point x="364" y="784"/>
+      <point x="364" y="770" type="qcurve"/>
+      <point x="364" y="763"/>
+      <point x="357" y="760" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>981ad2ce09b841a6d7a60f18f8f7934564c2886e993558ad237a43efaf173362453768609500a7bfca6792cf2433542ba7c2245d52f713748482bb41e9dffcff</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

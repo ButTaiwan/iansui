@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash.half" format="2">
+  <advance height="1000" width="500"/>
+  <outline>
+    <contour>
+      <point x="-4" y="335"/>
+      <point x="-14" y="352"/>
+      <point x="-14" y="364" type="qcurve"/>
+      <point x="-14" y="376"/>
+      <point x="-4" y="393"/>
+      <point x="5" y="393" type="qcurve"/>
+      <point x="495" y="393" type="line"/>
+      <point x="504" y="393"/>
+      <point x="514" y="376"/>
+      <point x="514" y="364" type="qcurve"/>
+      <point x="514" y="352"/>
+      <point x="504" y="335"/>
+      <point x="495" y="335" type="qcurve"/>
+      <point x="5" y="335" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500o-4+335o-14+352q-14+364o-14+376o-4+393q5+393l495+393o504+393o514+376q514+364o514+352o504+335q495+335l5+335|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

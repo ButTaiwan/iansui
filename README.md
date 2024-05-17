@@ -66,7 +66,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 
 * 本字型基於 SIL Open Font License 1.1，改造 Fontworks 發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源專案。
 * Klee 是 Fontworks 的商標。
-* Iansui、芫荽 是本專案的保留名稱。
+* 芫荽 是本專案的保留名稱。
 * 任何人可以無償使用此字型，包含商用。無須告知原作者。
 * 您可自由傳送、分享此字型，或與其他軟體綑綁發行、銷售。捆包中必須同時包含授權文件檔（OFL.txt）。
 * 您可自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈，並請勿使用字型的保留名稱。

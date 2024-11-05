@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ygrave" format="2">
-  <advance height="1000" width="500"/>
+  <advance width="500"/>
   <unicode hex="1EF3"/>
   <outline>
     <component base="y" identifier="component0"/>

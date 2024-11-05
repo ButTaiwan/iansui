@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1E730300" format="2">
-  <advance height="1000" width="590"/>
+  <advance width="590"/>
   <outline>
     <component base="uni1E73" identifier="component0"/>
     <component base="gravecomb" xOffset="511" yOffset="15" identifier="component1"/>

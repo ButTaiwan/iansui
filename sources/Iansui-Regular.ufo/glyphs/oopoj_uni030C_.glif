@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oopoj_uni030C" format="2">
-  <advance height="1000" width="562"/>
+  <advance width="562"/>
   <outline>
     <component base="oopoj" identifier="component0"/>
     <component base="uni030C" xOffset="530" yOffset="15" identifier="component1"/>

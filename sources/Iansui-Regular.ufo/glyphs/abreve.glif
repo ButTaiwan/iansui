@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreve" format="2">
-  <advance height="1000" width="575"/>
+  <advance width="575"/>
   <unicode hex="0103"/>
   <outline>
     <component base="a" identifier="component0"/>

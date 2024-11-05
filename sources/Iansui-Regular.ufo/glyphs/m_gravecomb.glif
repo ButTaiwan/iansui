@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m_gravecomb" format="2">
-  <advance height="1000" width="816"/>
+  <advance width="816"/>
   <outline>
     <component base="m" identifier="component0"/>
     <component base="gravecomb" xOffset="631" yOffset="15" identifier="component1"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni3095" format="2">
-  <advance height="1000" width="1000"/>
+  <advance width="1000" height="1000"/>
   <unicode hex="3095"/>
   <outline>
     <contour>
@@ -108,10 +108,6 @@
     <dict>
       <key>public.truetype.instructions</key>
       <dict>
-        <key>assembly</key>
-        <string>
-
-</string>
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>

@@ -1,10 +1,15 @@
+@class1 = [ eight five four nine one seven six three two zero ];
+
+@markFilteringSet1 = [ uni0308 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni0304 uni030D ];
+
+# Prefix: Prefix
 table GDEF {
     GlyphClassDef [], [], [], [];
 } GDEF;
 
     markClass uni0308 <anchor 249 471> @Anchor11__Anchor11;
     markClass gravecomb <anchor -217 471> @Anchor11__Anchor11;
-    markClass [acutecomb uni0306] <anchor -247 471> @Anchor11__Anchor11;
+    
     markClass uni030B <anchor -257 471> @Anchor11__Anchor11;
     markClass uni0302 <anchor -207 471> @Anchor11__Anchor11;
     markClass uni030C <anchor -248 471> @Anchor11__Anchor11;
@@ -15,15 +20,12 @@ table GDEF {
 
     markClass uni0308 <anchor 249 471> @Anchor14_Anchor14_;
     markClass gravecomb <anchor -217 471> @Anchor14_Anchor14_;
-    markClass [acutecomb uni0306] <anchor -247 471> @Anchor14_Anchor14_;
+    
     markClass uni030B <anchor -257 471> @Anchor14_Anchor14_;
     markClass uni0302 <anchor -207 471> @Anchor14_Anchor14_;
     markClass uni030C <anchor -248 471> @Anchor14_Anchor14_;
     markClass uni0304 <anchor -227 471> @Anchor14_Anchor14_;
     markClass uni030D <anchor -245 471> @Anchor14_Anchor14_;
-
-@class1 = [eight five four nine one seven six three two zero];
-@markFilteringSet1 = [uni0308 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni0304 uni030D];
 
 lookup AlternateSubstitution1 {
     lookupflag 0;
@@ -14134,16 +14136,13 @@ lookup MarkToBase10 {
             <anchor 239 486> mark @Anchor11__Anchor11;
         pos base [Ecircumflex uni00CA030C uni00CA0304 uni1EBE]
             <anchor 334 823> mark @Anchor11__Anchor11;
-        pos base Idieresis
-            <anchor 184 804> mark @Anchor11__Anchor11;
+        
         pos base [uni01D7 uni01D9 uni01DB uni01D5]
             <anchor 355 805> mark @Anchor11__Anchor11;
         pos base [i_verticallineabovecomb dotlessi i_hungarumlautcomb ibreve]
             <anchor 133 484> mark @Anchor11__Anchor11;
-        pos base uniFF29
-            <anchor 495 652> mark @Anchor11__Anchor11;
-        pos base I.half
-            <anchor 246 652> mark @Anchor11__Anchor11;
+        
+        
         pos base [ecircumflex uni00EA030C uni00EA0304]
             <anchor 284 653> mark @Anchor11__Anchor11;
         pos base [uni01D8 uni01DA uni01DC uni01D6]
@@ -14167,22 +14166,12 @@ lookup MarkToMark13 {
 
 } MarkToMark13;
 
-feature aalt {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup AlternateSubstitution1;
-
-} aalt;
-
 feature afrc {
     script DFLT;
     language dflt;
             script DFLT;
         language dflt;
         lookup LigatureSubstitution2;
-
 } afrc;
 
 feature ccmp {
@@ -14191,7 +14180,6 @@ feature ccmp {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution3;
-
 } ccmp;
 
 feature dlig {
@@ -14200,7 +14188,6 @@ feature dlig {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution4;
-
 } dlig;
 
 feature dnom {
@@ -14209,7 +14196,6 @@ feature dnom {
             script DFLT;
         language dflt;
         lookup SingleSubstitution5;
-
 } dnom;
 
 feature frac {
@@ -14218,7 +14204,6 @@ feature frac {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution6;
-
 } frac;
 
 feature fwid {
@@ -14227,7 +14212,6 @@ feature fwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution7;
-
 } fwid;
 
 feature hkna {
@@ -14236,7 +14220,6 @@ feature hkna {
             script DFLT;
         language dflt;
         lookup SingleSubstitution8;
-
 } hkna;
 
 feature hwid {
@@ -14245,7 +14228,6 @@ feature hwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution9;
-
 } hwid;
 
 feature ital {
@@ -14254,7 +14236,6 @@ feature ital {
             script DFLT;
         language dflt;
         lookup SingleSubstitution10;
-
 } ital;
 
 feature liga {
@@ -14263,25 +14244,11 @@ feature liga {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution11;
-
 } liga;
 
 feature nalt {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup SingleSubstitution12;
-
-} nalt;
-
-feature nalt {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup AlternateSubstitution13;
-
+lookup AlternateSubstitution13;
+lookup SingleSubstitution12;
 } nalt;
 
 feature numr {
@@ -14290,25 +14257,11 @@ feature numr {
             script DFLT;
         language dflt;
         lookup SingleSubstitution14;
-
 } numr;
 
 feature ordn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup ChainedContextualGSUB25;
-
-} ordn;
-
-feature ordn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution26;
-
+lookup ChainedContextualGSUB25;
+lookup LigatureSubstitution26;
 } ordn;
 
 feature pwid {
@@ -14317,7 +14270,6 @@ feature pwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution15;
-
 } pwid;
 
 feature qwid {
@@ -14326,7 +14278,6 @@ feature qwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution16;
-
 } qwid;
 
 feature ruby {
@@ -14335,7 +14286,6 @@ feature ruby {
             script DFLT;
         language dflt;
         lookup SingleSubstitution17;
-
 } ruby;
 
 feature salt {
@@ -14344,7 +14294,6 @@ feature salt {
             script DFLT;
         language dflt;
         lookup SingleSubstitution27;
-
 } salt;
 
 feature sinf {
@@ -14353,7 +14302,6 @@ feature sinf {
             script DFLT;
         language dflt;
         lookup SingleSubstitution18;
-
 } sinf;
 
 feature subs {
@@ -14362,7 +14310,6 @@ feature subs {
             script DFLT;
         language dflt;
         lookup SingleSubstitution19;
-
 } subs;
 
 feature sups {
@@ -14371,7 +14318,6 @@ feature sups {
             script DFLT;
         language dflt;
         lookup SingleSubstitution20;
-
 } sups;
 
 feature twid {
@@ -14380,7 +14326,6 @@ feature twid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution21;
-
 } twid;
 
 feature vert {
@@ -14389,7 +14334,6 @@ feature vert {
             script DFLT;
         language dflt;
         lookup SingleSubstitution22;
-
 } vert;
 
 feature vkna {
@@ -14398,7 +14342,6 @@ feature vkna {
             script DFLT;
         language dflt;
         lookup SingleSubstitution23;
-
 } vkna;
 
 feature zero {
@@ -14407,7 +14350,6 @@ feature zero {
             script DFLT;
         language dflt;
         lookup SingleSubstitution24;
-
 } zero;
 
 feature halt {
@@ -14416,35 +14358,7 @@ feature halt {
             script DFLT;
         language dflt;
         lookup SinglePositioning1;
-
 } halt;
-
-feature kern {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning6;
-
-} kern;
-
-feature kern {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning7;
-
-} kern;
-
-feature kern {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning8;
-
-} kern;
 
 feature mark {
     script DFLT;
@@ -14452,7 +14366,6 @@ feature mark {
             script DFLT;
         language dflt;
         lookup MarkToBase10;
-
 } mark;
 
 feature mkmk {
@@ -14461,7 +14374,6 @@ feature mkmk {
             script DFLT;
         language dflt;
         lookup MarkToMark13;
-
 } mkmk;
 
 feature palt {
@@ -14470,7 +14382,6 @@ feature palt {
             script DFLT;
         language dflt;
         lookup SinglePositioning2;
-
 } palt;
 
 feature vhal {
@@ -14479,25 +14390,11 @@ feature vhal {
             script DFLT;
         language dflt;
         lookup SinglePositioning3;
-
 } vhal;
 
 feature vkrn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning5;
-
-} vkrn;
-
-feature vkrn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning9;
-
+lookup PairPositioning5;
+lookup PairPositioning9;
 } vkrn;
 
 feature vpal {
@@ -14506,5 +14403,5 @@ feature vpal {
             script DFLT;
         language dflt;
         lookup SinglePositioning4;
-
 } vpal;
+

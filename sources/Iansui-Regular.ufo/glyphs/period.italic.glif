@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period.italic" format="2">
-  <advance width="350" height="1000"/>
+  <advance height="1000" width="350"/>
   <outline>
     <contour>
       <point x="213" y="16"/>

@@ -353,8 +353,6 @@
       <integer>-20</integer>
       <key>O.italic</key>
       <integer>-20</integer>
-      <key>O_ring.italic</key>
-      <integer>-20</integer>
       <key>Oacute.italic</key>
       <integer>-20</integer>
       <key>Ocircumflex.italic</key>
@@ -423,8 +421,6 @@
     </dict>
     <key>Lslash.italic</key>
     <dict>
-      <key>O_ring.italic</key>
-      <integer>-20</integer>
       <key>Oacute.italic</key>
       <integer>-20</integer>
       <key>Ocircumflex.italic</key>
@@ -464,13 +460,6 @@
     <dict>
       <key>Y.italic</key>
       <integer>-20</integer>
-      <key>Yacute.italic</key>
-      <integer>-20</integer>
-      <key>Ydieresis.italic</key>
-      <integer>-20</integer>
-    </dict>
-    <key>O_ring.italic</key>
-    <dict>
       <key>Yacute.italic</key>
       <integer>-20</integer>
       <key>Ydieresis.italic</key>
@@ -999,8 +988,6 @@
       <integer>-20</integer>
       <key>O.italic</key>
       <integer>-20</integer>
-      <key>O_ring.italic</key>
-      <integer>-20</integer>
       <key>Oacute.italic</key>
       <integer>-20</integer>
       <key>Ocircumflex.italic</key>
@@ -1037,8 +1024,6 @@
       <integer>-50</integer>
       <key>e.italic</key>
       <integer>-50</integer>
-      <key>e_ring.italic</key>
-      <integer>-50</integer>
       <key>eacute.italic</key>
       <integer>-50</integer>
       <key>ecaron.italic</key>
@@ -1051,8 +1036,6 @@
       <integer>-50</integer>
       <key>emacron.italic</key>
       <integer>-50</integer>
-      <key>i_ring.italic</key>
-      <integer>40</integer>
       <key>iacute.italic</key>
       <integer>20</integer>
       <key>icircumflex.italic</key>
@@ -1066,8 +1049,6 @@
       <key>itilde.italic</key>
       <integer>40</integer>
       <key>o.italic</key>
-      <integer>-50</integer>
-      <key>o_ring.italic</key>
       <integer>-50</integer>
       <key>oacute.italic</key>
       <integer>-50</integer>
@@ -1173,8 +1154,6 @@
       <integer>-20</integer>
       <key>Atilde.italic</key>
       <integer>-20</integer>
-      <key>O_ring.italic</key>
-      <integer>-20</integer>
       <key>Oacute.italic</key>
       <integer>-20</integer>
       <key>Ocircumflex.italic</key>
@@ -1201,8 +1180,6 @@
       <integer>-50</integer>
       <key>atilde.italic</key>
       <integer>-50</integer>
-      <key>e_ring.italic</key>
-      <integer>-50</integer>
       <key>eacute.italic</key>
       <integer>-50</integer>
       <key>ecaron.italic</key>
@@ -1215,8 +1192,6 @@
       <integer>-50</integer>
       <key>emacron.italic</key>
       <integer>-50</integer>
-      <key>i_ring.italic</key>
-      <integer>40</integer>
       <key>iacute.italic</key>
       <integer>20</integer>
       <key>icircumflex.italic</key>
@@ -1229,8 +1204,6 @@
       <integer>40</integer>
       <key>itilde.italic</key>
       <integer>40</integer>
-      <key>o_ring.italic</key>
-      <integer>-50</integer>
       <key>oacute.italic</key>
       <integer>-50</integer>
       <key>ocircumflex.italic</key>
@@ -1329,8 +1302,6 @@
       <integer>-20</integer>
       <key>Atilde.italic</key>
       <integer>-20</integer>
-      <key>O_ring.italic</key>
-      <integer>-20</integer>
       <key>Oacute.italic</key>
       <integer>-20</integer>
       <key>Ocircumflex.italic</key>
@@ -1357,8 +1328,6 @@
       <integer>-50</integer>
       <key>atilde.italic</key>
       <integer>-50</integer>
-      <key>e_ring.italic</key>
-      <integer>-50</integer>
       <key>eacute.italic</key>
       <integer>-50</integer>
       <key>ecaron.italic</key>
@@ -1371,8 +1340,6 @@
       <integer>-50</integer>
       <key>emacron.italic</key>
       <integer>-50</integer>
-      <key>i_ring.italic</key>
-      <integer>40</integer>
       <key>iacute.italic</key>
       <integer>20</integer>
       <key>icircumflex.italic</key>
@@ -1385,8 +1352,6 @@
       <integer>40</integer>
       <key>itilde.italic</key>
       <integer>40</integer>
-      <key>o_ring.italic</key>
-      <integer>-50</integer>
       <key>oacute.italic</key>
       <integer>-50</integer>
       <key>ocircumflex.italic</key>

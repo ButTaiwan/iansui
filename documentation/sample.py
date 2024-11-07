@@ -21,12 +21,12 @@ FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 48
 
-LINE_ONE = "Iansui"
-LINE_TWO = "芫荽"
-LINE_THREE = "若欲媠,食芫荽!"
-LINE_FOUR = "Nā beh suí, tsia̍h iân-sui!"
-BIG_TEXT_FONT_SIZE = 140
-BIG_TEXT_SIDE_MARGIN = MARGIN * 1.5
+LINE_ONE = "我愛芫荽，芫荽愛我。"
+LINE_TWO = "南去經三國，東來過五湖。"
+LINE_THREE = "無路，咱蹽溪過嶺。"
+LINE_FOUR = "It kiam jī kòo, bong lâ-á kiam sé khòo."
+BIG_TEXT_FONT_SIZE = 90
+BIG_TEXT_SIDE_MARGIN = MARGIN * 1.4
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.45
 
 GRID_VIEW = False # Toggle this for a grid overlay

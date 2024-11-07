@@ -1,5 +1,11 @@
 # 異動紀錄
 
+## 2024/11/7 v1.003
+- Changed metrics to follow GF guidelines
+- Updated config.yaml and added makefile build system
+- Added documentation folder with description files
+- Removed unreachable glpyhs, and cleared out related OT features
+
 ## 2023/6/13 v1.002
 
 - 新增雙線表格等符號

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni300E.half" format="2">
-  <advance width="500" height="1000"/>
+  <advance height="1000" width="500"/>
   <outline>
     <contour>
       <point x="314" y="145"/>

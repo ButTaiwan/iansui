@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
-  <advance width="500" height="1000"/>
+  <advance height="1000" width="500"/>
   <unicode hex="02DA"/>
   <unicode hex="030A"/>
   <outline>

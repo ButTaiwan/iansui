@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z.italic" format="2">
-  <advance width="490" height="1000"/>
+  <advance height="1000" width="490"/>
   <outline>
     <contour>
       <point x="407" y="61"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="atilde" format="2">
-  <advance width="575" height="1000"/>
+  <advance height="1000" width="575"/>
   <unicode hex="00E3"/>
   <outline>
     <contour>

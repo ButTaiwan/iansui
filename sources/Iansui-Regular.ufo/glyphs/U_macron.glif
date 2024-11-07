@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Umacron" format="2">
-  <advance width="710" height="1000"/>
+  <advance height="1000" width="710"/>
   <unicode hex="016A"/>
   <outline>
     <contour>

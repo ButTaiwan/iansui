@@ -104,10 +104,6 @@
     <string>E_.italic.glif</string>
     <key>E.roundBox</key>
     <string>E_.roundB_ox.glif</string>
-    <key>E_ring</key>
-    <string>E__ring.glif</string>
-    <key>E_ring.italic</key>
-    <string>E__ring.italic.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
     <key>Eacute.italic</key>
@@ -190,10 +186,6 @@
     <string>I_.italic.glif</string>
     <key>I.roundBox</key>
     <string>I_.roundB_ox.glif</string>
-    <key>I_ring</key>
-    <string>I__ring.glif</string>
-    <key>I_ring.italic</key>
-    <string>I__ring.italic.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
     <key>Iacute.italic</key>
@@ -244,10 +236,6 @@
     <string>K_.italic.glif</string>
     <key>K.roundBox</key>
     <string>K_.roundB_ox.glif</string>
-    <key>K_K</key>
-    <string>K__K_.glif</string>
-    <key>K_K_period</key>
-    <string>K__K__period.glif</string>
     <key>Kappa</key>
     <string>K_appa.glif</string>
     <key>L</key>
@@ -290,8 +278,6 @@
     <string>N_.italic.glif</string>
     <key>N.roundBox</key>
     <string>N_.roundB_ox.glif</string>
-    <key>N_o</key>
-    <string>N__o.glif</string>
     <key>Nacute</key>
     <string>N_acute.glif</string>
     <key>Ncaron</key>
@@ -336,10 +322,6 @@
     <string>O_O_poj_uni030C_.glif</string>
     <key>OOpoj_uni030D</key>
     <string>O_O_poj_uni030D_.glif</string>
-    <key>O_ring</key>
-    <string>O__ring.glif</string>
-    <key>O_ring.italic</key>
-    <string>O__ring.italic.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
     <key>Oacute.italic</key>
@@ -448,8 +430,6 @@
     <string>T__B_.glif</string>
     <key>T_E_L</key>
     <string>T__E__L_.glif</string>
-    <key>T_E_L.alt</key>
-    <string>T__E__L_.alt.glif</string>
     <key>Tau</key>
     <string>T_au.glif</string>
     <key>Theta</key>
@@ -652,8 +632,6 @@
     <string>ampersand.italic.glif</string>
     <key>angle.full</key>
     <string>angle.full.glif</string>
-    <key>angle.mac</key>
-    <string>angle.mac.glif</string>
     <key>angleleft</key>
     <string>angleleft.glif</string>
     <key>angleright</key>
@@ -736,8 +714,6 @@
     <string>backslash.half.glif</string>
     <key>backslash.italic</key>
     <string>backslash.italic.glif</string>
-    <key>backslashdouble</key>
-    <string>backslashdouble.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
     <key>bar.italic</key>
@@ -798,16 +774,12 @@
     <string>brokenbar.italic.glif</string>
     <key>bullet</key>
     <string>bullet.glif</string>
-    <key>bullet.full</key>
-    <string>bullet.full.glif</string>
     <key>bullet.full.ruby</key>
     <string>bullet.full.ruby.glif</string>
     <key>bullet.italic</key>
     <string>bullet.italic.glif</string>
     <key>bullet.thirdwidths</key>
     <string>bullet.thirdwidths.glif</string>
-    <key>bulletCircled.alt</key>
-    <string>bulletC_ircled.alt.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>c.blackBox</key>
@@ -824,8 +796,6 @@
     <string>c.roundB_lackB_ox.glif</string>
     <key>c.roundBox</key>
     <string>c.roundB_ox.glif</string>
-    <key>c_period_c_period</key>
-    <string>c_period_c_period.glif</string>
     <key>c_slash_c</key>
     <string>c_slash_c.glif</string>
     <key>caron</key>
@@ -850,44 +820,8 @@
     <string>cent.italic.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
-    <key>cid12193</key>
-    <string>cid12193.glif</string>
-    <key>cid12230</key>
-    <string>cid12230.glif</string>
-    <key>cid12231</key>
-    <string>cid12231.glif</string>
-    <key>cid12234</key>
-    <string>cid12234.glif</string>
-    <key>cid12235</key>
-    <string>cid12235.glif</string>
-    <key>cid12240</key>
-    <string>cid12240.glif</string>
-    <key>cid12242</key>
-    <string>cid12242.glif</string>
-    <key>cid12243</key>
-    <string>cid12243.glif</string>
-    <key>cid12245</key>
-    <string>cid12245.glif</string>
-    <key>cid12246</key>
-    <string>cid12246.glif</string>
-    <key>cid12257</key>
-    <string>cid12257.glif</string>
-    <key>cid12258</key>
-    <string>cid12258.glif</string>
-    <key>cid12260</key>
-    <string>cid12260.glif</string>
-    <key>cid12263</key>
-    <string>cid12263.glif</string>
-    <key>cid12264</key>
-    <string>cid12264.glif</string>
-    <key>cid12267</key>
-    <string>cid12267.glif</string>
-    <key>cid12268</key>
-    <string>cid12268.glif</string>
     <key>circle</key>
     <string>circle.glif</string>
-    <key>circle.alt</key>
-    <string>circle.alt.glif</string>
     <key>circle.ruby</key>
     <string>circle.ruby.glif</string>
     <key>circlemultiply</key>
@@ -962,22 +896,6 @@
     <string>daggerdbl.italic.glif</string>
     <key>daggerdbl.prop</key>
     <string>daggerdbl.prop.glif</string>
-    <key>decor1horz</key>
-    <string>decor1horz.glif</string>
-    <key>decor1vert</key>
-    <string>decor1vert.glif</string>
-    <key>decor2horz</key>
-    <string>decor2horz.glif</string>
-    <key>decor2vert</key>
-    <string>decor2vert.glif</string>
-    <key>decor3horz</key>
-    <string>decor3horz.glif</string>
-    <key>decor3vert</key>
-    <string>decor3vert.glif</string>
-    <key>decor4horz</key>
-    <string>decor4horz.glif</string>
-    <key>decor4vert</key>
-    <string>decor4vert.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>degree.full</key>
@@ -1028,10 +946,6 @@
     <string>dotlessi.glif</string>
     <key>dotlessi.italic</key>
     <string>dotlessi.italic.glif</string>
-    <key>dottedhorz</key>
-    <string>dottedhorz.glif</string>
-    <key>dottedvert</key>
-    <string>dottedvert.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>e.blackBox</key>
@@ -1048,10 +962,6 @@
     <string>e.roundB_lackB_ox.glif</string>
     <key>e.roundBox</key>
     <string>e.roundB_ox.glif</string>
-    <key>e_ring</key>
-    <string>e_ring.glif</string>
-    <key>e_ring.italic</key>
-    <string>e_ring.italic.glif</string>
     <key>eacute</key>
     <string>eacute.glif</string>
     <key>eacute.half</key>
@@ -1092,8 +1002,6 @@
     <string>eight.half.glif</string>
     <key>eight.italic</key>
     <string>eight.italic.glif</string>
-    <key>eight.narrow</key>
-    <string>eight.narrow.glif</string>
     <key>eight.qartwidth</key>
     <string>eight.qartwidth.glif</string>
     <key>eight.roundBlackBox</key>
@@ -1102,42 +1010,6 @@
     <string>eight.roundB_ox.glif</string>
     <key>eight.thirdwidths</key>
     <string>eight.thirdwidths.glif</string>
-    <key>eight_eight.blackBox</key>
-    <string>eight_eight.blackB_ox.glif</string>
-    <key>eight_eight.box</key>
-    <string>eight_eight.box.glif</string>
-    <key>eight_eight.circled</key>
-    <string>eight_eight.circled.glif</string>
-    <key>eight_eight.paren</key>
-    <string>eight_eight.paren.glif</string>
-    <key>eight_eight.roundBlackBox</key>
-    <string>eight_eight.roundB_lackB_ox.glif</string>
-    <key>eight_eight.roundBox</key>
-    <string>eight_eight.roundB_ox.glif</string>
-    <key>eight_five.blackBox</key>
-    <string>eight_five.blackB_ox.glif</string>
-    <key>eight_five.box</key>
-    <string>eight_five.box.glif</string>
-    <key>eight_five.circled</key>
-    <string>eight_five.circled.glif</string>
-    <key>eight_five.paren</key>
-    <string>eight_five.paren.glif</string>
-    <key>eight_five.roundBlackBox</key>
-    <string>eight_five.roundB_lackB_ox.glif</string>
-    <key>eight_five.roundBox</key>
-    <string>eight_five.roundB_ox.glif</string>
-    <key>eight_four.blackBox</key>
-    <string>eight_four.blackB_ox.glif</string>
-    <key>eight_four.box</key>
-    <string>eight_four.box.glif</string>
-    <key>eight_four.circled</key>
-    <string>eight_four.circled.glif</string>
-    <key>eight_four.paren</key>
-    <string>eight_four.paren.glif</string>
-    <key>eight_four.roundBlackBox</key>
-    <string>eight_four.roundB_lackB_ox.glif</string>
-    <key>eight_four.roundBox</key>
-    <string>eight_four.roundB_ox.glif</string>
     <key>eight_fraction_nine</key>
     <string>eight_fraction_nine.glif</string>
     <key>eight_fraction_nine.nut</key>
@@ -1146,30 +1018,6 @@
     <string>eight_fraction_one_one.glif</string>
     <key>eight_fraction_one_one.nut</key>
     <string>eight_fraction_one_one.nut.glif</string>
-    <key>eight_nine.blackBox</key>
-    <string>eight_nine.blackB_ox.glif</string>
-    <key>eight_nine.box</key>
-    <string>eight_nine.box.glif</string>
-    <key>eight_nine.circled</key>
-    <string>eight_nine.circled.glif</string>
-    <key>eight_nine.paren</key>
-    <string>eight_nine.paren.glif</string>
-    <key>eight_nine.roundBlackBox</key>
-    <string>eight_nine.roundB_lackB_ox.glif</string>
-    <key>eight_nine.roundBox</key>
-    <string>eight_nine.roundB_ox.glif</string>
-    <key>eight_one.blackBox</key>
-    <string>eight_one.blackB_ox.glif</string>
-    <key>eight_one.box</key>
-    <string>eight_one.box.glif</string>
-    <key>eight_one.circled</key>
-    <string>eight_one.circled.glif</string>
-    <key>eight_one.paren</key>
-    <string>eight_one.paren.glif</string>
-    <key>eight_one.roundBlackBox</key>
-    <string>eight_one.roundB_lackB_ox.glif</string>
-    <key>eight_one.roundBox</key>
-    <string>eight_one.roundB_ox.glif</string>
     <key>eight_parenlefthan.vert</key>
     <string>eight_parenlefthan.vert.glif</string>
     <key>eight_parenleftsmallhan.vert</key>
@@ -1180,66 +1028,6 @@
     <string>eight_parenrighthan.vert.glif</string>
     <key>eight_parenrightsmallhan.vert</key>
     <string>eight_parenrightsmallhan.vert.glif</string>
-    <key>eight_seven.blackBox</key>
-    <string>eight_seven.blackB_ox.glif</string>
-    <key>eight_seven.box</key>
-    <string>eight_seven.box.glif</string>
-    <key>eight_seven.circled</key>
-    <string>eight_seven.circled.glif</string>
-    <key>eight_seven.paren</key>
-    <string>eight_seven.paren.glif</string>
-    <key>eight_seven.roundBlackBox</key>
-    <string>eight_seven.roundB_lackB_ox.glif</string>
-    <key>eight_seven.roundBox</key>
-    <string>eight_seven.roundB_ox.glif</string>
-    <key>eight_six.blackBox</key>
-    <string>eight_six.blackB_ox.glif</string>
-    <key>eight_six.box</key>
-    <string>eight_six.box.glif</string>
-    <key>eight_six.circled</key>
-    <string>eight_six.circled.glif</string>
-    <key>eight_six.paren</key>
-    <string>eight_six.paren.glif</string>
-    <key>eight_six.roundBlackBox</key>
-    <string>eight_six.roundB_lackB_ox.glif</string>
-    <key>eight_six.roundBox</key>
-    <string>eight_six.roundB_ox.glif</string>
-    <key>eight_three.blackBox</key>
-    <string>eight_three.blackB_ox.glif</string>
-    <key>eight_three.box</key>
-    <string>eight_three.box.glif</string>
-    <key>eight_three.circled</key>
-    <string>eight_three.circled.glif</string>
-    <key>eight_three.paren</key>
-    <string>eight_three.paren.glif</string>
-    <key>eight_three.roundBlackBox</key>
-    <string>eight_three.roundB_lackB_ox.glif</string>
-    <key>eight_three.roundBox</key>
-    <string>eight_three.roundB_ox.glif</string>
-    <key>eight_two.blackBox</key>
-    <string>eight_two.blackB_ox.glif</string>
-    <key>eight_two.box</key>
-    <string>eight_two.box.glif</string>
-    <key>eight_two.circled</key>
-    <string>eight_two.circled.glif</string>
-    <key>eight_two.paren</key>
-    <string>eight_two.paren.glif</string>
-    <key>eight_two.roundBlackBox</key>
-    <string>eight_two.roundB_lackB_ox.glif</string>
-    <key>eight_two.roundBox</key>
-    <string>eight_two.roundB_ox.glif</string>
-    <key>eight_zero.blackBox</key>
-    <string>eight_zero.blackB_ox.glif</string>
-    <key>eight_zero.box</key>
-    <string>eight_zero.box.glif</string>
-    <key>eight_zero.circled</key>
-    <string>eight_zero.circled.glif</string>
-    <key>eight_zero.paren</key>
-    <string>eight_zero.paren.glif</string>
-    <key>eight_zero.roundBlackBox</key>
-    <string>eight_zero.roundB_lackB_ox.glif</string>
-    <key>eight_zero.roundBox</key>
-    <string>eight_zero.roundB_ox.glif</string>
     <key>eighthan.half.vert</key>
     <string>eighthan.half.vert.glif</string>
     <key>ekusaleftjust</key>
@@ -1268,8 +1056,6 @@
     <string>emdash.qartwidth.glif</string>
     <key>emdash.thirdwidths</key>
     <string>emdash.thirdwidths.glif</string>
-    <key>emptyBlock</key>
-    <string>emptyB_lock.glif</string>
     <key>emptyset.full</key>
     <string>emptyset.full.glif</string>
     <key>endash</key>
@@ -1306,12 +1092,8 @@
     <string>exclam.half.glif</string>
     <key>exclam.italic</key>
     <string>exclam.italic.glif</string>
-    <key>exclam.slant</key>
-    <string>exclam.slant.glif</string>
     <key>exclamdbl</key>
     <string>exclamdbl.glif</string>
-    <key>exclamdbl.slant</key>
-    <string>exclamdbl.slant.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
     <key>exclamdown.half</key>
@@ -1366,10 +1148,6 @@
     <string>fi.italic.glif</string>
     <key>filledbox</key>
     <string>filledbox.glif</string>
-    <key>filledbox.blackBox</key>
-    <string>filledbox.blackB_ox.glif</string>
-    <key>filledbox.roundBlackBox</key>
-    <string>filledbox.roundB_lackB_ox.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>five.blackBox</key>
@@ -1380,8 +1158,6 @@
     <string>five.half.glif</string>
     <key>five.italic</key>
     <string>five.italic.glif</string>
-    <key>five.narrow</key>
-    <string>five.narrow.glif</string>
     <key>five.qartwidth</key>
     <string>five.qartwidth.glif</string>
     <key>five.roundBlackBox</key>
@@ -1390,42 +1166,6 @@
     <string>five.roundB_ox.glif</string>
     <key>five.thirdwidths</key>
     <string>five.thirdwidths.glif</string>
-    <key>five_eight.blackBox</key>
-    <string>five_eight.blackB_ox.glif</string>
-    <key>five_eight.box</key>
-    <string>five_eight.box.glif</string>
-    <key>five_eight.circled</key>
-    <string>five_eight.circled.glif</string>
-    <key>five_eight.paren</key>
-    <string>five_eight.paren.glif</string>
-    <key>five_eight.roundBlackBox</key>
-    <string>five_eight.roundB_lackB_ox.glif</string>
-    <key>five_eight.roundBox</key>
-    <string>five_eight.roundB_ox.glif</string>
-    <key>five_five.blackBox</key>
-    <string>five_five.blackB_ox.glif</string>
-    <key>five_five.box</key>
-    <string>five_five.box.glif</string>
-    <key>five_five.circled</key>
-    <string>five_five.circled.glif</string>
-    <key>five_five.paren</key>
-    <string>five_five.paren.glif</string>
-    <key>five_five.roundBlackBox</key>
-    <string>five_five.roundB_lackB_ox.glif</string>
-    <key>five_five.roundBox</key>
-    <string>five_five.roundB_ox.glif</string>
-    <key>five_four.blackBox</key>
-    <string>five_four.blackB_ox.glif</string>
-    <key>five_four.box</key>
-    <string>five_four.box.glif</string>
-    <key>five_four.circled</key>
-    <string>five_four.circled.glif</string>
-    <key>five_four.paren</key>
-    <string>five_four.paren.glif</string>
-    <key>five_four.roundBlackBox</key>
-    <string>five_four.roundB_lackB_ox.glif</string>
-    <key>five_four.roundBox</key>
-    <string>five_four.roundB_ox.glif</string>
     <key>five_fraction_eight.nut</key>
     <string>five_fraction_eight.nut.glif</string>
     <key>five_fraction_nine</key>
@@ -1446,30 +1186,6 @@
     <string>five_fraction_seven.nut.glif</string>
     <key>five_fraction_six.nut</key>
     <string>five_fraction_six.nut.glif</string>
-    <key>five_nine.blackBox</key>
-    <string>five_nine.blackB_ox.glif</string>
-    <key>five_nine.box</key>
-    <string>five_nine.box.glif</string>
-    <key>five_nine.circled</key>
-    <string>five_nine.circled.glif</string>
-    <key>five_nine.paren</key>
-    <string>five_nine.paren.glif</string>
-    <key>five_nine.roundBlackBox</key>
-    <string>five_nine.roundB_lackB_ox.glif</string>
-    <key>five_nine.roundBox</key>
-    <string>five_nine.roundB_ox.glif</string>
-    <key>five_one.blackBox</key>
-    <string>five_one.blackB_ox.glif</string>
-    <key>five_one.box</key>
-    <string>five_one.box.glif</string>
-    <key>five_one.circled</key>
-    <string>five_one.circled.glif</string>
-    <key>five_one.paren</key>
-    <string>five_one.paren.glif</string>
-    <key>five_one.roundBlackBox</key>
-    <string>five_one.roundB_lackB_ox.glif</string>
-    <key>five_one.roundBox</key>
-    <string>five_one.roundB_ox.glif</string>
     <key>five_parenlefthan.vert</key>
     <string>five_parenlefthan.vert.glif</string>
     <key>five_parenleftsmallhan.vert</key>
@@ -1480,64 +1196,6 @@
     <string>five_parenrighthan.vert.glif</string>
     <key>five_parenrightsmallhan.vert</key>
     <string>five_parenrightsmallhan.vert.glif</string>
-    <key>five_seven.blackBox</key>
-    <string>five_seven.blackB_ox.glif</string>
-    <key>five_seven.box</key>
-    <string>five_seven.box.glif</string>
-    <key>five_seven.circled</key>
-    <string>five_seven.circled.glif</string>
-    <key>five_seven.paren</key>
-    <string>five_seven.paren.glif</string>
-    <key>five_seven.roundBlackBox</key>
-    <string>five_seven.roundB_lackB_ox.glif</string>
-    <key>five_seven.roundBox</key>
-    <string>five_seven.roundB_ox.glif</string>
-    <key>five_six.blackBox</key>
-    <string>five_six.blackB_ox.glif</string>
-    <key>five_six.box</key>
-    <string>five_six.box.glif</string>
-    <key>five_six.circled</key>
-    <string>five_six.circled.glif</string>
-    <key>five_six.paren</key>
-    <string>five_six.paren.glif</string>
-    <key>five_six.roundBlackBox</key>
-    <string>five_six.roundB_lackB_ox.glif</string>
-    <key>five_six.roundBox</key>
-    <string>five_six.roundB_ox.glif</string>
-    <key>five_three.blackBox</key>
-    <string>five_three.blackB_ox.glif</string>
-    <key>five_three.box</key>
-    <string>five_three.box.glif</string>
-    <key>five_three.circled</key>
-    <string>five_three.circled.glif</string>
-    <key>five_three.paren</key>
-    <string>five_three.paren.glif</string>
-    <key>five_three.roundBlackBox</key>
-    <string>five_three.roundB_lackB_ox.glif</string>
-    <key>five_three.roundBox</key>
-    <string>five_three.roundB_ox.glif</string>
-    <key>five_two.blackBox</key>
-    <string>five_two.blackB_ox.glif</string>
-    <key>five_two.box</key>
-    <string>five_two.box.glif</string>
-    <key>five_two.circled</key>
-    <string>five_two.circled.glif</string>
-    <key>five_two.paren</key>
-    <string>five_two.paren.glif</string>
-    <key>five_two.roundBlackBox</key>
-    <string>five_two.roundB_lackB_ox.glif</string>
-    <key>five_two.roundBox</key>
-    <string>five_two.roundB_ox.glif</string>
-    <key>five_zero.blackBox</key>
-    <string>five_zero.blackB_ox.glif</string>
-    <key>five_zero.box</key>
-    <string>five_zero.box.glif</string>
-    <key>five_zero.paren</key>
-    <string>five_zero.paren.glif</string>
-    <key>five_zero.roundBlackBox</key>
-    <string>five_zero.roundB_lackB_ox.glif</string>
-    <key>five_zero.roundBox</key>
-    <string>five_zero.roundB_ox.glif</string>
     <key>fiveeighths</key>
     <string>fiveeighths.glif</string>
     <key>fiveeighths.full</key>
@@ -1564,8 +1222,6 @@
     <string>four.half.glif</string>
     <key>four.italic</key>
     <string>four.italic.glif</string>
-    <key>four.narrow</key>
-    <string>four.narrow.glif</string>
     <key>four.qartwidth</key>
     <string>four.qartwidth.glif</string>
     <key>four.roundBlackBox</key>
@@ -1574,36 +1230,6 @@
     <string>four.roundB_ox.glif</string>
     <key>four.thirdwidths</key>
     <string>four.thirdwidths.glif</string>
-    <key>four_eight.blackBox</key>
-    <string>four_eight.blackB_ox.glif</string>
-    <key>four_eight.box</key>
-    <string>four_eight.box.glif</string>
-    <key>four_eight.paren</key>
-    <string>four_eight.paren.glif</string>
-    <key>four_eight.roundBlackBox</key>
-    <string>four_eight.roundB_lackB_ox.glif</string>
-    <key>four_eight.roundBox</key>
-    <string>four_eight.roundB_ox.glif</string>
-    <key>four_five.blackBox</key>
-    <string>four_five.blackB_ox.glif</string>
-    <key>four_five.box</key>
-    <string>four_five.box.glif</string>
-    <key>four_five.paren</key>
-    <string>four_five.paren.glif</string>
-    <key>four_five.roundBlackBox</key>
-    <string>four_five.roundB_lackB_ox.glif</string>
-    <key>four_five.roundBox</key>
-    <string>four_five.roundB_ox.glif</string>
-    <key>four_four.blackBox</key>
-    <string>four_four.blackB_ox.glif</string>
-    <key>four_four.box</key>
-    <string>four_four.box.glif</string>
-    <key>four_four.paren</key>
-    <string>four_four.paren.glif</string>
-    <key>four_four.roundBlackBox</key>
-    <string>four_four.roundB_lackB_ox.glif</string>
-    <key>four_four.roundBox</key>
-    <string>four_four.roundB_ox.glif</string>
     <key>four_fraction_five.nut</key>
     <string>four_fraction_five.nut.glif</string>
     <key>four_fraction_nine</key>
@@ -1618,26 +1244,6 @@
     <string>four_fraction_seven.glif</string>
     <key>four_fraction_seven.nut</key>
     <string>four_fraction_seven.nut.glif</string>
-    <key>four_nine.blackBox</key>
-    <string>four_nine.blackB_ox.glif</string>
-    <key>four_nine.box</key>
-    <string>four_nine.box.glif</string>
-    <key>four_nine.paren</key>
-    <string>four_nine.paren.glif</string>
-    <key>four_nine.roundBlackBox</key>
-    <string>four_nine.roundB_lackB_ox.glif</string>
-    <key>four_nine.roundBox</key>
-    <string>four_nine.roundB_ox.glif</string>
-    <key>four_one.blackBox</key>
-    <string>four_one.blackB_ox.glif</string>
-    <key>four_one.box</key>
-    <string>four_one.box.glif</string>
-    <key>four_one.paren</key>
-    <string>four_one.paren.glif</string>
-    <key>four_one.roundBlackBox</key>
-    <string>four_one.roundB_lackB_ox.glif</string>
-    <key>four_one.roundBox</key>
-    <string>four_one.roundB_ox.glif</string>
     <key>four_parenlefthan.vert</key>
     <string>four_parenlefthan.vert.glif</string>
     <key>four_parenleftsmallhan.vert</key>
@@ -1648,56 +1254,6 @@
     <string>four_parenrighthan.vert.glif</string>
     <key>four_parenrightsmallhan.vert</key>
     <string>four_parenrightsmallhan.vert.glif</string>
-    <key>four_seven.blackBox</key>
-    <string>four_seven.blackB_ox.glif</string>
-    <key>four_seven.box</key>
-    <string>four_seven.box.glif</string>
-    <key>four_seven.paren</key>
-    <string>four_seven.paren.glif</string>
-    <key>four_seven.roundBlackBox</key>
-    <string>four_seven.roundB_lackB_ox.glif</string>
-    <key>four_seven.roundBox</key>
-    <string>four_seven.roundB_ox.glif</string>
-    <key>four_six.blackBox</key>
-    <string>four_six.blackB_ox.glif</string>
-    <key>four_six.box</key>
-    <string>four_six.box.glif</string>
-    <key>four_six.paren</key>
-    <string>four_six.paren.glif</string>
-    <key>four_six.roundBlackBox</key>
-    <string>four_six.roundB_lackB_ox.glif</string>
-    <key>four_six.roundBox</key>
-    <string>four_six.roundB_ox.glif</string>
-    <key>four_three.blackBox</key>
-    <string>four_three.blackB_ox.glif</string>
-    <key>four_three.box</key>
-    <string>four_three.box.glif</string>
-    <key>four_three.paren</key>
-    <string>four_three.paren.glif</string>
-    <key>four_three.roundBlackBox</key>
-    <string>four_three.roundB_lackB_ox.glif</string>
-    <key>four_three.roundBox</key>
-    <string>four_three.roundB_ox.glif</string>
-    <key>four_two.blackBox</key>
-    <string>four_two.blackB_ox.glif</string>
-    <key>four_two.box</key>
-    <string>four_two.box.glif</string>
-    <key>four_two.paren</key>
-    <string>four_two.paren.glif</string>
-    <key>four_two.roundBlackBox</key>
-    <string>four_two.roundB_lackB_ox.glif</string>
-    <key>four_two.roundBox</key>
-    <string>four_two.roundB_ox.glif</string>
-    <key>four_zero.blackBox</key>
-    <string>four_zero.blackB_ox.glif</string>
-    <key>four_zero.box</key>
-    <string>four_zero.box.glif</string>
-    <key>four_zero.paren</key>
-    <string>four_zero.paren.glif</string>
-    <key>four_zero.roundBlackBox</key>
-    <string>four_zero.roundB_lackB_ox.glif</string>
-    <key>four_zero.roundBox</key>
-    <string>four_zero.roundB_ox.glif</string>
     <key>fourhan.half.vert</key>
     <string>fourhan.half.vert.glif</string>
     <key>fraction</key>
@@ -1792,10 +1348,6 @@
     <string>h.roundB_lackB_ox.glif</string>
     <key>h.roundBox</key>
     <string>h.roundB_ox.glif</string>
-    <key>haitsu</key>
-    <string>haitsu.glif</string>
-    <key>haitsu.vert</key>
-    <string>haitsu.vert.glif</string>
     <key>heart</key>
     <string>heart.glif</string>
     <key>hekutoleftjust</key>
@@ -1806,14 +1358,6 @@
     <string>hekutopasukaru.glif</string>
     <key>hekutopasukaru.vert</key>
     <string>hekutopasukaru.vert.glif</string>
-    <key>herutsu</key>
-    <string>herutsu.glif</string>
-    <key>herutsu.vert</key>
-    <string>herutsu.vert.glif</string>
-    <key>hoon</key>
-    <string>hoon.glif</string>
-    <key>hoon.vert</key>
-    <string>hoon.vert.glif</string>
     <key>hungarumlaut.italic</key>
     <string>hungarumlaut.italic.glif</string>
     <key>hyphen</key>
@@ -1844,10 +1388,6 @@
     <string>i.roundB_ox.glif</string>
     <key>i_hungarumlautcomb</key>
     <string>i_hungarumlautcomb.glif</string>
-    <key>i_ring</key>
-    <string>i_ring.glif</string>
-    <key>i_ring.italic</key>
-    <string>i_ring.italic.glif</string>
     <key>i_verticallineabovecomb</key>
     <string>i_verticallineabovecomb.glif</string>
     <key>iacute</key>
@@ -1878,16 +1418,10 @@
     <string>imacron.glif</string>
     <key>imacron.italic</key>
     <string>imacron.italic.glif</string>
-    <key>inchi</key>
-    <string>inchi.glif</string>
-    <key>inchi.vert</key>
-    <string>inchi.vert.glif</string>
     <key>infinity.full</key>
     <string>infinity.full.glif</string>
     <key>integral.full</key>
     <string>integral.full.glif</string>
-    <key>intersection.alt</key>
-    <string>intersection.alt.glif</string>
     <key>intersection.full</key>
     <string>intersection.full.glif</string>
     <key>iota</key>
@@ -1938,46 +1472,10 @@
     <string>kappuleftjust.glif</string>
     <key>kappuleftjust.vert</key>
     <string>kappuleftjust.vert.glif</string>
-    <key>kikkooleftbottom</key>
-    <string>kikkooleftbottom.glif</string>
-    <key>kikkooleftbottom.vert</key>
-    <string>kikkooleftbottom.vert.glif</string>
-    <key>kikkoolefttop</key>
-    <string>kikkoolefttop.glif</string>
-    <key>kikkoolefttop.vert</key>
-    <string>kikkoolefttop.vert.glif</string>
-    <key>kikkoorightbottom</key>
-    <string>kikkoorightbottom.glif</string>
-    <key>kikkoorightbottom.vert</key>
-    <string>kikkoorightbottom.vert.glif</string>
-    <key>kikkoorighttop</key>
-    <string>kikkoorighttop.glif</string>
-    <key>kikkoorighttop.vert</key>
-    <string>kikkoorighttop.vert.glif</string>
     <key>kirorittoru</key>
     <string>kirorittoru.glif</string>
     <key>kirorittoru.vert</key>
     <string>kirorittoru.vert.glif</string>
-    <key>koopo</key>
-    <string>koopo.glif</string>
-    <key>koopo.vert</key>
-    <string>koopo.vert.glif</string>
-    <key>kosmallhira</key>
-    <string>kosmallhira.glif</string>
-    <key>kosmallhira.hori</key>
-    <string>kosmallhira.hori.glif</string>
-    <key>kosmallhira.vert</key>
-    <string>kosmallhira.vert.glif</string>
-    <key>kosmallhira.vert.001</key>
-    <string>kosmallhira.vert.001.glif</string>
-    <key>kosmallkata</key>
-    <string>kosmallkata.glif</string>
-    <key>kosmallkata.hori</key>
-    <string>kosmallkata.hori.glif</string>
-    <key>kosmallkata.vert</key>
-    <string>kosmallkata.vert.glif</string>
-    <key>kosmallkata.vert.001</key>
-    <string>kosmallkata.vert.001.glif</string>
     <key>kuruzaado</key>
     <string>kuruzaado.glif</string>
     <key>kuruzaado.vert</key>
@@ -2006,14 +1504,8 @@
     <string>l.roundB_lackB_ox.glif</string>
     <key>l.roundBox</key>
     <string>l.roundB_ox.glif</string>
-    <key>lSquare</key>
-    <string>lS_quare.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
-    <key>largeBlackCircle</key>
-    <string>largeB_lackC_ircle.glif</string>
-    <key>leftparenextension.vert</key>
-    <string>leftparenextension.vert.glif</string>
     <key>less</key>
     <string>less.glif</string>
     <key>less.half</key>
@@ -2066,14 +1558,10 @@
     <string>macron.italic.glif</string>
     <key>male</key>
     <string>male.glif</string>
-    <key>male.alt</key>
-    <string>male.alt.glif</string>
     <key>male.half</key>
     <string>male.half.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
-    <key>minus.italic</key>
-    <string>minus.italic.glif</string>
     <key>minute</key>
     <string>minute.glif</string>
     <key>minute.full</key>
@@ -2122,8 +1610,6 @@
     <string>nine.half.glif</string>
     <key>nine.italic</key>
     <string>nine.italic.glif</string>
-    <key>nine.narrow</key>
-    <string>nine.narrow.glif</string>
     <key>nine.qartwidth</key>
     <string>nine.qartwidth.glif</string>
     <key>nine.roundBlackBox</key>
@@ -2132,42 +1618,6 @@
     <string>nine.roundB_ox.glif</string>
     <key>nine.thirdwidths</key>
     <string>nine.thirdwidths.glif</string>
-    <key>nine_eight.blackBox</key>
-    <string>nine_eight.blackB_ox.glif</string>
-    <key>nine_eight.box</key>
-    <string>nine_eight.box.glif</string>
-    <key>nine_eight.circled</key>
-    <string>nine_eight.circled.glif</string>
-    <key>nine_eight.paren</key>
-    <string>nine_eight.paren.glif</string>
-    <key>nine_eight.roundBlackBox</key>
-    <string>nine_eight.roundB_lackB_ox.glif</string>
-    <key>nine_eight.roundBox</key>
-    <string>nine_eight.roundB_ox.glif</string>
-    <key>nine_five.blackBox</key>
-    <string>nine_five.blackB_ox.glif</string>
-    <key>nine_five.box</key>
-    <string>nine_five.box.glif</string>
-    <key>nine_five.circled</key>
-    <string>nine_five.circled.glif</string>
-    <key>nine_five.paren</key>
-    <string>nine_five.paren.glif</string>
-    <key>nine_five.roundBlackBox</key>
-    <string>nine_five.roundB_lackB_ox.glif</string>
-    <key>nine_five.roundBox</key>
-    <string>nine_five.roundB_ox.glif</string>
-    <key>nine_four.blackBox</key>
-    <string>nine_four.blackB_ox.glif</string>
-    <key>nine_four.box</key>
-    <string>nine_four.box.glif</string>
-    <key>nine_four.circled</key>
-    <string>nine_four.circled.glif</string>
-    <key>nine_four.paren</key>
-    <string>nine_four.paren.glif</string>
-    <key>nine_four.roundBlackBox</key>
-    <string>nine_four.roundB_lackB_ox.glif</string>
-    <key>nine_four.roundBox</key>
-    <string>nine_four.roundB_ox.glif</string>
     <key>nine_fraction_one_one</key>
     <string>nine_fraction_one_one.glif</string>
     <key>nine_fraction_one_one.nut</key>
@@ -2176,30 +1626,6 @@
     <string>nine_fraction_one_zero.glif</string>
     <key>nine_fraction_one_zero.nut</key>
     <string>nine_fraction_one_zero.nut.glif</string>
-    <key>nine_nine.blackBox</key>
-    <string>nine_nine.blackB_ox.glif</string>
-    <key>nine_nine.box</key>
-    <string>nine_nine.box.glif</string>
-    <key>nine_nine.circled</key>
-    <string>nine_nine.circled.glif</string>
-    <key>nine_nine.paren</key>
-    <string>nine_nine.paren.glif</string>
-    <key>nine_nine.roundBlackBox</key>
-    <string>nine_nine.roundB_lackB_ox.glif</string>
-    <key>nine_nine.roundBox</key>
-    <string>nine_nine.roundB_ox.glif</string>
-    <key>nine_one.blackBox</key>
-    <string>nine_one.blackB_ox.glif</string>
-    <key>nine_one.box</key>
-    <string>nine_one.box.glif</string>
-    <key>nine_one.circled</key>
-    <string>nine_one.circled.glif</string>
-    <key>nine_one.paren</key>
-    <string>nine_one.paren.glif</string>
-    <key>nine_one.roundBlackBox</key>
-    <string>nine_one.roundB_lackB_ox.glif</string>
-    <key>nine_one.roundBox</key>
-    <string>nine_one.roundB_ox.glif</string>
     <key>nine_parenlefthan.vert</key>
     <string>nine_parenlefthan.vert.glif</string>
     <key>nine_parenleftsmallhan.vert</key>
@@ -2210,74 +1636,12 @@
     <string>nine_parenrighthan.vert.glif</string>
     <key>nine_parenrightsmallhan.vert</key>
     <string>nine_parenrightsmallhan.vert.glif</string>
-    <key>nine_seven.blackBox</key>
-    <string>nine_seven.blackB_ox.glif</string>
-    <key>nine_seven.box</key>
-    <string>nine_seven.box.glif</string>
-    <key>nine_seven.circled</key>
-    <string>nine_seven.circled.glif</string>
-    <key>nine_seven.paren</key>
-    <string>nine_seven.paren.glif</string>
-    <key>nine_seven.roundBlackBox</key>
-    <string>nine_seven.roundB_lackB_ox.glif</string>
-    <key>nine_seven.roundBox</key>
-    <string>nine_seven.roundB_ox.glif</string>
-    <key>nine_six.blackBox</key>
-    <string>nine_six.blackB_ox.glif</string>
-    <key>nine_six.box</key>
-    <string>nine_six.box.glif</string>
-    <key>nine_six.circled</key>
-    <string>nine_six.circled.glif</string>
-    <key>nine_six.paren</key>
-    <string>nine_six.paren.glif</string>
-    <key>nine_six.roundBlackBox</key>
-    <string>nine_six.roundB_lackB_ox.glif</string>
-    <key>nine_six.roundBox</key>
-    <string>nine_six.roundB_ox.glif</string>
-    <key>nine_three.blackBox</key>
-    <string>nine_three.blackB_ox.glif</string>
-    <key>nine_three.box</key>
-    <string>nine_three.box.glif</string>
-    <key>nine_three.circled</key>
-    <string>nine_three.circled.glif</string>
-    <key>nine_three.paren</key>
-    <string>nine_three.paren.glif</string>
-    <key>nine_three.roundBlackBox</key>
-    <string>nine_three.roundB_lackB_ox.glif</string>
-    <key>nine_three.roundBox</key>
-    <string>nine_three.roundB_ox.glif</string>
-    <key>nine_two.blackBox</key>
-    <string>nine_two.blackB_ox.glif</string>
-    <key>nine_two.box</key>
-    <string>nine_two.box.glif</string>
-    <key>nine_two.circled</key>
-    <string>nine_two.circled.glif</string>
-    <key>nine_two.paren</key>
-    <string>nine_two.paren.glif</string>
-    <key>nine_two.roundBlackBox</key>
-    <string>nine_two.roundB_lackB_ox.glif</string>
-    <key>nine_two.roundBox</key>
-    <string>nine_two.roundB_ox.glif</string>
-    <key>nine_zero.blackBox</key>
-    <string>nine_zero.blackB_ox.glif</string>
-    <key>nine_zero.box</key>
-    <string>nine_zero.box.glif</string>
-    <key>nine_zero.circled</key>
-    <string>nine_zero.circled.glif</string>
-    <key>nine_zero.paren</key>
-    <string>nine_zero.paren.glif</string>
-    <key>nine_zero.roundBlackBox</key>
-    <string>nine_zero.roundB_lackB_ox.glif</string>
-    <key>nine_zero.roundBox</key>
-    <string>nine_zero.roundB_ox.glif</string>
     <key>ninehan.half.vert</key>
     <string>ninehan.half.vert.glif</string>
     <key>nonmarkingreturn</key>
     <string>nonmarkingreturn.glif</string>
     <key>notequal.full</key>
     <string>notequal.full.glif</string>
-    <key>notequalreverse</key>
-    <string>notequalreverse.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
     <key>ntilde.half</key>
@@ -2308,10 +1672,6 @@
     <string>o.roundB_lackB_ox.glif</string>
     <key>o.roundBox</key>
     <string>o.roundB_ox.glif</string>
-    <key>o_ring</key>
-    <string>o_ring.glif</string>
-    <key>o_ring.italic</key>
-    <string>o_ring.italic.glif</string>
     <key>oacute</key>
     <string>oacute.glif</string>
     <key>oacute.half</key>
@@ -2362,8 +1722,6 @@
     <string>one.half.glif</string>
     <key>one.italic</key>
     <string>one.italic.glif</string>
-    <key>one.narrow</key>
-    <string>one.narrow.glif</string>
     <key>one.qartwidth</key>
     <string>one.qartwidth.glif</string>
     <key>one.roundBlackBox</key>
@@ -2372,36 +1730,12 @@
     <string>one.roundB_ox.glif</string>
     <key>one.thirdwidths</key>
     <string>one.thirdwidths.glif</string>
-    <key>one_eight.blackBox</key>
-    <string>one_eight.blackB_ox.glif</string>
-    <key>one_eight.box</key>
-    <string>one_eight.box.glif</string>
     <key>one_eight.paren</key>
     <string>one_eight.paren.glif</string>
-    <key>one_eight.roundBlackBox</key>
-    <string>one_eight.roundB_lackB_ox.glif</string>
-    <key>one_eight.roundBox</key>
-    <string>one_eight.roundB_ox.glif</string>
-    <key>one_five.blackBox</key>
-    <string>one_five.blackB_ox.glif</string>
-    <key>one_five.box</key>
-    <string>one_five.box.glif</string>
     <key>one_five.paren</key>
     <string>one_five.paren.glif</string>
-    <key>one_five.roundBlackBox</key>
-    <string>one_five.roundB_lackB_ox.glif</string>
-    <key>one_five.roundBox</key>
-    <string>one_five.roundB_ox.glif</string>
-    <key>one_four.blackBox</key>
-    <string>one_four.blackB_ox.glif</string>
-    <key>one_four.box</key>
-    <string>one_four.box.glif</string>
     <key>one_four.paren</key>
     <string>one_four.paren.glif</string>
-    <key>one_four.roundBlackBox</key>
-    <string>one_four.roundB_lackB_ox.glif</string>
-    <key>one_four.roundBox</key>
-    <string>one_four.roundB_ox.glif</string>
     <key>one_fraction_eight.nut</key>
     <string>one_fraction_eight.nut.glif</string>
     <key>one_fraction_five.nut</key>
@@ -2434,26 +1768,10 @@
     <string>one_fraction_two.nut.glif</string>
     <key>one_fraction_two.nut.half</key>
     <string>one_fraction_two.nut.half.glif</string>
-    <key>one_nine.blackBox</key>
-    <string>one_nine.blackB_ox.glif</string>
-    <key>one_nine.box</key>
-    <string>one_nine.box.glif</string>
     <key>one_nine.paren</key>
     <string>one_nine.paren.glif</string>
-    <key>one_nine.roundBlackBox</key>
-    <string>one_nine.roundB_lackB_ox.glif</string>
-    <key>one_nine.roundBox</key>
-    <string>one_nine.roundB_ox.glif</string>
-    <key>one_one.blackBox</key>
-    <string>one_one.blackB_ox.glif</string>
-    <key>one_one.box</key>
-    <string>one_one.box.glif</string>
     <key>one_one.paren</key>
     <string>one_one.paren.glif</string>
-    <key>one_one.roundBlackBox</key>
-    <string>one_one.roundB_lackB_ox.glif</string>
-    <key>one_one.roundBox</key>
-    <string>one_one.roundB_ox.glif</string>
     <key>one_one_fraction_one_two</key>
     <string>one_one_fraction_one_two.glif</string>
     <key>one_parenlefthan.vert</key>
@@ -2466,68 +1784,16 @@
     <string>one_parenrighthan.vert.glif</string>
     <key>one_parenrightsmallhan.vert</key>
     <string>one_parenrightsmallhan.vert.glif</string>
-    <key>one_seven.blackBox</key>
-    <string>one_seven.blackB_ox.glif</string>
-    <key>one_seven.box</key>
-    <string>one_seven.box.glif</string>
     <key>one_seven.paren</key>
     <string>one_seven.paren.glif</string>
-    <key>one_seven.roundBlackBox</key>
-    <string>one_seven.roundB_lackB_ox.glif</string>
-    <key>one_seven.roundBox</key>
-    <string>one_seven.roundB_ox.glif</string>
-    <key>one_six.blackBox</key>
-    <string>one_six.blackB_ox.glif</string>
-    <key>one_six.box</key>
-    <string>one_six.box.glif</string>
     <key>one_six.paren</key>
     <string>one_six.paren.glif</string>
-    <key>one_six.roundBlackBox</key>
-    <string>one_six.roundB_lackB_ox.glif</string>
-    <key>one_six.roundBox</key>
-    <string>one_six.roundB_ox.glif</string>
-    <key>one_three.blackBox</key>
-    <string>one_three.blackB_ox.glif</string>
-    <key>one_three.box</key>
-    <string>one_three.box.glif</string>
     <key>one_three.paren</key>
     <string>one_three.paren.glif</string>
-    <key>one_three.roundBlackBox</key>
-    <string>one_three.roundB_lackB_ox.glif</string>
-    <key>one_three.roundBox</key>
-    <string>one_three.roundB_ox.glif</string>
-    <key>one_two.blackBox</key>
-    <string>one_two.blackB_ox.glif</string>
-    <key>one_two.box</key>
-    <string>one_two.box.glif</string>
     <key>one_two.paren</key>
     <string>one_two.paren.glif</string>
-    <key>one_two.roundBlackBox</key>
-    <string>one_two.roundB_lackB_ox.glif</string>
-    <key>one_two.roundBox</key>
-    <string>one_two.roundB_ox.glif</string>
-    <key>one_zero.blackBox</key>
-    <string>one_zero.blackB_ox.glif</string>
-    <key>one_zero.box</key>
-    <string>one_zero.box.glif</string>
-    <key>one_zero.roundBlackBox</key>
-    <string>one_zero.roundB_lackB_ox.glif</string>
-    <key>one_zero.roundBox</key>
-    <string>one_zero.roundB_ox.glif</string>
     <key>one_zero_fraction_one_one</key>
     <string>one_zero_fraction_one_one.glif</string>
-    <key>one_zero_zero.blackBox</key>
-    <string>one_zero_zero.blackB_ox.glif</string>
-    <key>one_zero_zero.box</key>
-    <string>one_zero_zero.box.glif</string>
-    <key>one_zero_zero.circled</key>
-    <string>one_zero_zero.circled.glif</string>
-    <key>one_zero_zero.paren</key>
-    <string>one_zero_zero.paren.glif</string>
-    <key>one_zero_zero.roundBlackBox</key>
-    <string>one_zero_zero.roundB_lackB_ox.glif</string>
-    <key>one_zero_zero.roundBox</key>
-    <string>one_zero_zero.roundB_ox.glif</string>
     <key>oneeighth</key>
     <string>oneeighth.glif</string>
     <key>oneeighth.full</key>
@@ -2636,8 +1902,6 @@
     <string>parenleft_nine.glif</string>
     <key>parenleft_one</key>
     <string>parenleft_one.glif</string>
-    <key>parenleft_parenright</key>
-    <string>parenleft_parenright.glif</string>
     <key>parenleft_seven</key>
     <string>parenleft_seven.glif</string>
     <key>parenleft_six</key>
@@ -2664,10 +1928,6 @@
     <string>pasukaru.glif</string>
     <key>pasukaru.vert</key>
     <string>pasukaru.vert.glif</string>
-    <key>peeji</key>
-    <string>peeji.glif</string>
-    <key>peeji.vert</key>
-    <string>peeji.vert.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
     <key>percent.half</key>
@@ -2754,10 +2014,6 @@
     <string>questiondown.half.glif</string>
     <key>questiondown.italic</key>
     <string>questiondown.italic.glif</string>
-    <key>quotebottomleft</key>
-    <string>quotebottomleft.glif</string>
-    <key>quotebottomright</key>
-    <string>quotebottomright.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
     <key>quotedbl.half</key>
@@ -2770,10 +2026,6 @@
     <string>quotedblbase.full.glif</string>
     <key>quotedblbase.italic</key>
     <string>quotedblbase.italic.glif</string>
-    <key>quotedblbottomleft</key>
-    <string>quotedblbottomleft.glif</string>
-    <key>quotedblbottomright</key>
-    <string>quotedblbottomright.glif</string>
     <key>quotedblleft</key>
     <string>quotedblleft.glif</string>
     <key>quotedblleft.full</key>
@@ -2782,10 +2034,6 @@
     <string>quotedblleft.half.glif</string>
     <key>quotedblleft.italic</key>
     <string>quotedblleft.italic.glif</string>
-    <key>quotedblprimeleft</key>
-    <string>quotedblprimeleft.glif</string>
-    <key>quotedblprimeright</key>
-    <string>quotedblprimeright.glif</string>
     <key>quotedblright</key>
     <string>quotedblright.glif</string>
     <key>quotedblright.full</key>
@@ -2800,30 +2048,20 @@
     <string>quotedblsharpleft.half.glif</string>
     <key>quotedblsharpright.half</key>
     <string>quotedblsharpright.half.glif</string>
-    <key>quotedbltopleft</key>
-    <string>quotedbltopleft.glif</string>
     <key>quoteleft.full</key>
     <string>quoteleft.full.glif</string>
     <key>quoteleft.half</key>
     <string>quoteleft.half.glif</string>
     <key>quoteleft.italic</key>
     <string>quoteleft.italic.glif</string>
-    <key>quoteprimeleft</key>
-    <string>quoteprimeleft.glif</string>
-    <key>quoteprimeright</key>
-    <string>quoteprimeright.glif</string>
     <key>quoteright.full</key>
     <string>quoteright.full.glif</string>
     <key>quoteright.half</key>
     <string>quoteright.half.glif</string>
     <key>quoteright.italic</key>
     <string>quoteright.italic.glif</string>
-    <key>quotesharpleft</key>
-    <string>quotesharpleft.glif</string>
     <key>quotesharpleft.vert</key>
     <string>quotesharpleft.vert.glif</string>
-    <key>quotesharpright</key>
-    <string>quotesharpright.glif</string>
     <key>quotesharpright.vert</key>
     <string>quotesharpright.vert.glif</string>
     <key>quotesinglbase</key>
@@ -2836,10 +2074,6 @@
     <string>quotesingle.half.glif</string>
     <key>quotesingle.italic</key>
     <string>quotesingle.italic.glif</string>
-    <key>quotetopleft</key>
-    <string>quotetopleft.glif</string>
-    <key>quotetopright</key>
-    <string>quotetopright.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>r.blackBox</key>
@@ -2858,8 +2092,6 @@
     <string>r.roundB_ox.glif</string>
     <key>radical.full</key>
     <string>radical.full.glif</string>
-    <key>radical.mac</key>
-    <string>radical.mac.glif</string>
     <key>rado</key>
     <string>rado.glif</string>
     <key>rado.vert</key>
@@ -2948,10 +2180,6 @@
     <string>semicolon.qartwidth.glif</string>
     <key>semicolon.thirdwidths</key>
     <string>semicolon.thirdwidths.glif</string>
-    <key>sento</key>
-    <string>sento.glif</string>
-    <key>sento.vert</key>
-    <string>sento.vert.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
     <key>seven.blackBox</key>
@@ -2962,8 +2190,6 @@
     <string>seven.half.glif</string>
     <key>seven.italic</key>
     <string>seven.italic.glif</string>
-    <key>seven.narrow</key>
-    <string>seven.narrow.glif</string>
     <key>seven.qartwidth</key>
     <string>seven.qartwidth.glif</string>
     <key>seven.roundBlackBox</key>
@@ -2972,42 +2198,6 @@
     <string>seven.roundB_ox.glif</string>
     <key>seven.thirdwidths</key>
     <string>seven.thirdwidths.glif</string>
-    <key>seven_eight.blackBox</key>
-    <string>seven_eight.blackB_ox.glif</string>
-    <key>seven_eight.box</key>
-    <string>seven_eight.box.glif</string>
-    <key>seven_eight.circled</key>
-    <string>seven_eight.circled.glif</string>
-    <key>seven_eight.paren</key>
-    <string>seven_eight.paren.glif</string>
-    <key>seven_eight.roundBlackBox</key>
-    <string>seven_eight.roundB_lackB_ox.glif</string>
-    <key>seven_eight.roundBox</key>
-    <string>seven_eight.roundB_ox.glif</string>
-    <key>seven_five.blackBox</key>
-    <string>seven_five.blackB_ox.glif</string>
-    <key>seven_five.box</key>
-    <string>seven_five.box.glif</string>
-    <key>seven_five.circled</key>
-    <string>seven_five.circled.glif</string>
-    <key>seven_five.paren</key>
-    <string>seven_five.paren.glif</string>
-    <key>seven_five.roundBlackBox</key>
-    <string>seven_five.roundB_lackB_ox.glif</string>
-    <key>seven_five.roundBox</key>
-    <string>seven_five.roundB_ox.glif</string>
-    <key>seven_four.blackBox</key>
-    <string>seven_four.blackB_ox.glif</string>
-    <key>seven_four.box</key>
-    <string>seven_four.box.glif</string>
-    <key>seven_four.circled</key>
-    <string>seven_four.circled.glif</string>
-    <key>seven_four.paren</key>
-    <string>seven_four.paren.glif</string>
-    <key>seven_four.roundBlackBox</key>
-    <string>seven_four.roundB_lackB_ox.glif</string>
-    <key>seven_four.roundBox</key>
-    <string>seven_four.roundB_ox.glif</string>
     <key>seven_fraction_eight.nut</key>
     <string>seven_fraction_eight.nut.glif</string>
     <key>seven_fraction_nine</key>
@@ -3026,30 +2216,6 @@
     <string>seven_fraction_one_zero.glif</string>
     <key>seven_fraction_one_zero.nut</key>
     <string>seven_fraction_one_zero.nut.glif</string>
-    <key>seven_nine.blackBox</key>
-    <string>seven_nine.blackB_ox.glif</string>
-    <key>seven_nine.box</key>
-    <string>seven_nine.box.glif</string>
-    <key>seven_nine.circled</key>
-    <string>seven_nine.circled.glif</string>
-    <key>seven_nine.paren</key>
-    <string>seven_nine.paren.glif</string>
-    <key>seven_nine.roundBlackBox</key>
-    <string>seven_nine.roundB_lackB_ox.glif</string>
-    <key>seven_nine.roundBox</key>
-    <string>seven_nine.roundB_ox.glif</string>
-    <key>seven_one.blackBox</key>
-    <string>seven_one.blackB_ox.glif</string>
-    <key>seven_one.box</key>
-    <string>seven_one.box.glif</string>
-    <key>seven_one.circled</key>
-    <string>seven_one.circled.glif</string>
-    <key>seven_one.paren</key>
-    <string>seven_one.paren.glif</string>
-    <key>seven_one.roundBlackBox</key>
-    <string>seven_one.roundB_lackB_ox.glif</string>
-    <key>seven_one.roundBox</key>
-    <string>seven_one.roundB_ox.glif</string>
     <key>seven_parenlefthan.vert</key>
     <string>seven_parenlefthan.vert.glif</string>
     <key>seven_parenleftsmallhan.vert</key>
@@ -3060,66 +2226,6 @@
     <string>seven_parenrighthan.vert.glif</string>
     <key>seven_parenrightsmallhan.vert</key>
     <string>seven_parenrightsmallhan.vert.glif</string>
-    <key>seven_seven.blackBox</key>
-    <string>seven_seven.blackB_ox.glif</string>
-    <key>seven_seven.box</key>
-    <string>seven_seven.box.glif</string>
-    <key>seven_seven.circled</key>
-    <string>seven_seven.circled.glif</string>
-    <key>seven_seven.paren</key>
-    <string>seven_seven.paren.glif</string>
-    <key>seven_seven.roundBlackBox</key>
-    <string>seven_seven.roundB_lackB_ox.glif</string>
-    <key>seven_seven.roundBox</key>
-    <string>seven_seven.roundB_ox.glif</string>
-    <key>seven_six.blackBox</key>
-    <string>seven_six.blackB_ox.glif</string>
-    <key>seven_six.box</key>
-    <string>seven_six.box.glif</string>
-    <key>seven_six.circled</key>
-    <string>seven_six.circled.glif</string>
-    <key>seven_six.paren</key>
-    <string>seven_six.paren.glif</string>
-    <key>seven_six.roundBlackBox</key>
-    <string>seven_six.roundB_lackB_ox.glif</string>
-    <key>seven_six.roundBox</key>
-    <string>seven_six.roundB_ox.glif</string>
-    <key>seven_three.blackBox</key>
-    <string>seven_three.blackB_ox.glif</string>
-    <key>seven_three.box</key>
-    <string>seven_three.box.glif</string>
-    <key>seven_three.circled</key>
-    <string>seven_three.circled.glif</string>
-    <key>seven_three.paren</key>
-    <string>seven_three.paren.glif</string>
-    <key>seven_three.roundBlackBox</key>
-    <string>seven_three.roundB_lackB_ox.glif</string>
-    <key>seven_three.roundBox</key>
-    <string>seven_three.roundB_ox.glif</string>
-    <key>seven_two.blackBox</key>
-    <string>seven_two.blackB_ox.glif</string>
-    <key>seven_two.box</key>
-    <string>seven_two.box.glif</string>
-    <key>seven_two.circled</key>
-    <string>seven_two.circled.glif</string>
-    <key>seven_two.paren</key>
-    <string>seven_two.paren.glif</string>
-    <key>seven_two.roundBlackBox</key>
-    <string>seven_two.roundB_lackB_ox.glif</string>
-    <key>seven_two.roundBox</key>
-    <string>seven_two.roundB_ox.glif</string>
-    <key>seven_zero.blackBox</key>
-    <string>seven_zero.blackB_ox.glif</string>
-    <key>seven_zero.box</key>
-    <string>seven_zero.box.glif</string>
-    <key>seven_zero.circled</key>
-    <string>seven_zero.circled.glif</string>
-    <key>seven_zero.paren</key>
-    <string>seven_zero.paren.glif</string>
-    <key>seven_zero.roundBlackBox</key>
-    <string>seven_zero.roundB_lackB_ox.glif</string>
-    <key>seven_zero.roundBox</key>
-    <string>seven_zero.roundB_ox.glif</string>
     <key>seveneighths</key>
     <string>seveneighths.glif</string>
     <key>seveneighths.full</key>
@@ -3148,8 +2254,6 @@
     <string>six.half.glif</string>
     <key>six.italic</key>
     <string>six.italic.glif</string>
-    <key>six.narrow</key>
-    <string>six.narrow.glif</string>
     <key>six.qartwidth</key>
     <string>six.qartwidth.glif</string>
     <key>six.roundBlackBox</key>
@@ -3158,42 +2262,6 @@
     <string>six.roundB_ox.glif</string>
     <key>six.thirdwidths</key>
     <string>six.thirdwidths.glif</string>
-    <key>six_eight.blackBox</key>
-    <string>six_eight.blackB_ox.glif</string>
-    <key>six_eight.box</key>
-    <string>six_eight.box.glif</string>
-    <key>six_eight.circled</key>
-    <string>six_eight.circled.glif</string>
-    <key>six_eight.paren</key>
-    <string>six_eight.paren.glif</string>
-    <key>six_eight.roundBlackBox</key>
-    <string>six_eight.roundB_lackB_ox.glif</string>
-    <key>six_eight.roundBox</key>
-    <string>six_eight.roundB_ox.glif</string>
-    <key>six_five.blackBox</key>
-    <string>six_five.blackB_ox.glif</string>
-    <key>six_five.box</key>
-    <string>six_five.box.glif</string>
-    <key>six_five.circled</key>
-    <string>six_five.circled.glif</string>
-    <key>six_five.paren</key>
-    <string>six_five.paren.glif</string>
-    <key>six_five.roundBlackBox</key>
-    <string>six_five.roundB_lackB_ox.glif</string>
-    <key>six_five.roundBox</key>
-    <string>six_five.roundB_ox.glif</string>
-    <key>six_four.blackBox</key>
-    <string>six_four.blackB_ox.glif</string>
-    <key>six_four.box</key>
-    <string>six_four.box.glif</string>
-    <key>six_four.circled</key>
-    <string>six_four.circled.glif</string>
-    <key>six_four.paren</key>
-    <string>six_four.paren.glif</string>
-    <key>six_four.roundBlackBox</key>
-    <string>six_four.roundB_lackB_ox.glif</string>
-    <key>six_four.roundBox</key>
-    <string>six_four.roundB_ox.glif</string>
     <key>six_fraction_one_one</key>
     <string>six_fraction_one_one.glif</string>
     <key>six_fraction_one_one.nut</key>
@@ -3202,30 +2270,6 @@
     <string>six_fraction_seven.glif</string>
     <key>six_fraction_seven.nut</key>
     <string>six_fraction_seven.nut.glif</string>
-    <key>six_nine.blackBox</key>
-    <string>six_nine.blackB_ox.glif</string>
-    <key>six_nine.box</key>
-    <string>six_nine.box.glif</string>
-    <key>six_nine.circled</key>
-    <string>six_nine.circled.glif</string>
-    <key>six_nine.paren</key>
-    <string>six_nine.paren.glif</string>
-    <key>six_nine.roundBlackBox</key>
-    <string>six_nine.roundB_lackB_ox.glif</string>
-    <key>six_nine.roundBox</key>
-    <string>six_nine.roundB_ox.glif</string>
-    <key>six_one.blackBox</key>
-    <string>six_one.blackB_ox.glif</string>
-    <key>six_one.box</key>
-    <string>six_one.box.glif</string>
-    <key>six_one.circled</key>
-    <string>six_one.circled.glif</string>
-    <key>six_one.paren</key>
-    <string>six_one.paren.glif</string>
-    <key>six_one.roundBlackBox</key>
-    <string>six_one.roundB_lackB_ox.glif</string>
-    <key>six_one.roundBox</key>
-    <string>six_one.roundB_ox.glif</string>
     <key>six_parenlefthan.vert</key>
     <string>six_parenlefthan.vert.glif</string>
     <key>six_parenleftsmallhan.vert</key>
@@ -3236,66 +2280,6 @@
     <string>six_parenrighthan.vert.glif</string>
     <key>six_parenrightsmallhan.vert</key>
     <string>six_parenrightsmallhan.vert.glif</string>
-    <key>six_seven.blackBox</key>
-    <string>six_seven.blackB_ox.glif</string>
-    <key>six_seven.box</key>
-    <string>six_seven.box.glif</string>
-    <key>six_seven.circled</key>
-    <string>six_seven.circled.glif</string>
-    <key>six_seven.paren</key>
-    <string>six_seven.paren.glif</string>
-    <key>six_seven.roundBlackBox</key>
-    <string>six_seven.roundB_lackB_ox.glif</string>
-    <key>six_seven.roundBox</key>
-    <string>six_seven.roundB_ox.glif</string>
-    <key>six_six.blackBox</key>
-    <string>six_six.blackB_ox.glif</string>
-    <key>six_six.box</key>
-    <string>six_six.box.glif</string>
-    <key>six_six.circled</key>
-    <string>six_six.circled.glif</string>
-    <key>six_six.paren</key>
-    <string>six_six.paren.glif</string>
-    <key>six_six.roundBlackBox</key>
-    <string>six_six.roundB_lackB_ox.glif</string>
-    <key>six_six.roundBox</key>
-    <string>six_six.roundB_ox.glif</string>
-    <key>six_three.blackBox</key>
-    <string>six_three.blackB_ox.glif</string>
-    <key>six_three.box</key>
-    <string>six_three.box.glif</string>
-    <key>six_three.circled</key>
-    <string>six_three.circled.glif</string>
-    <key>six_three.paren</key>
-    <string>six_three.paren.glif</string>
-    <key>six_three.roundBlackBox</key>
-    <string>six_three.roundB_lackB_ox.glif</string>
-    <key>six_three.roundBox</key>
-    <string>six_three.roundB_ox.glif</string>
-    <key>six_two.blackBox</key>
-    <string>six_two.blackB_ox.glif</string>
-    <key>six_two.box</key>
-    <string>six_two.box.glif</string>
-    <key>six_two.circled</key>
-    <string>six_two.circled.glif</string>
-    <key>six_two.paren</key>
-    <string>six_two.paren.glif</string>
-    <key>six_two.roundBlackBox</key>
-    <string>six_two.roundB_lackB_ox.glif</string>
-    <key>six_two.roundBox</key>
-    <string>six_two.roundB_ox.glif</string>
-    <key>six_zero.blackBox</key>
-    <string>six_zero.blackB_ox.glif</string>
-    <key>six_zero.box</key>
-    <string>six_zero.box.glif</string>
-    <key>six_zero.circled</key>
-    <string>six_zero.circled.glif</string>
-    <key>six_zero.paren</key>
-    <string>six_zero.paren.glif</string>
-    <key>six_zero.roundBlackBox</key>
-    <string>six_zero.roundB_lackB_ox.glif</string>
-    <key>six_zero.roundBox</key>
-    <string>six_zero.roundB_ox.glif</string>
     <key>sixhan.half.vert</key>
     <string>sixhan.half.vert.glif</string>
     <key>slash</key>
@@ -3308,18 +2292,10 @@
     <string>slash.qartwidth.glif</string>
     <key>slash.thirdwidths</key>
     <string>slash.thirdwidths.glif</string>
-    <key>slashdouble</key>
-    <string>slashdouble.glif</string>
     <key>space</key>
     <string>space.glif</string>
-    <key>space.half</key>
-    <string>space.half.glif</string>
     <key>space.italic</key>
     <string>space.italic.glif</string>
-    <key>spacehira.half</key>
-    <string>spacehira.half.glif</string>
-    <key>spacekata.half</key>
-    <string>spacekata.half.glif</string>
     <key>spade</key>
     <string>spade.glif</string>
     <key>sterling</key>
@@ -3380,8 +2356,6 @@
     <string>three.half.glif</string>
     <key>three.italic</key>
     <string>three.italic.glif</string>
-    <key>three.narrow</key>
-    <string>three.narrow.glif</string>
     <key>three.qartwidth</key>
     <string>three.qartwidth.glif</string>
     <key>three.roundBlackBox</key>
@@ -3390,36 +2364,6 @@
     <string>three.roundB_ox.glif</string>
     <key>three.thirdwidths</key>
     <string>three.thirdwidths.glif</string>
-    <key>three_eight.blackBox</key>
-    <string>three_eight.blackB_ox.glif</string>
-    <key>three_eight.box</key>
-    <string>three_eight.box.glif</string>
-    <key>three_eight.paren</key>
-    <string>three_eight.paren.glif</string>
-    <key>three_eight.roundBlackBox</key>
-    <string>three_eight.roundB_lackB_ox.glif</string>
-    <key>three_eight.roundBox</key>
-    <string>three_eight.roundB_ox.glif</string>
-    <key>three_five.blackBox</key>
-    <string>three_five.blackB_ox.glif</string>
-    <key>three_five.box</key>
-    <string>three_five.box.glif</string>
-    <key>three_five.paren</key>
-    <string>three_five.paren.glif</string>
-    <key>three_five.roundBlackBox</key>
-    <string>three_five.roundB_lackB_ox.glif</string>
-    <key>three_five.roundBox</key>
-    <string>three_five.roundB_ox.glif</string>
-    <key>three_four.blackBox</key>
-    <string>three_four.blackB_ox.glif</string>
-    <key>three_four.box</key>
-    <string>three_four.box.glif</string>
-    <key>three_four.paren</key>
-    <string>three_four.paren.glif</string>
-    <key>three_four.roundBlackBox</key>
-    <string>three_four.roundB_lackB_ox.glif</string>
-    <key>three_four.roundBox</key>
-    <string>three_four.roundB_ox.glif</string>
     <key>three_fraction_eight.nut</key>
     <string>three_fraction_eight.nut.glif</string>
     <key>three_fraction_five.nut</key>
@@ -3438,26 +2382,6 @@
     <string>three_fraction_seven.glif</string>
     <key>three_fraction_seven.nut</key>
     <string>three_fraction_seven.nut.glif</string>
-    <key>three_nine.blackBox</key>
-    <string>three_nine.blackB_ox.glif</string>
-    <key>three_nine.box</key>
-    <string>three_nine.box.glif</string>
-    <key>three_nine.paren</key>
-    <string>three_nine.paren.glif</string>
-    <key>three_nine.roundBlackBox</key>
-    <string>three_nine.roundB_lackB_ox.glif</string>
-    <key>three_nine.roundBox</key>
-    <string>three_nine.roundB_ox.glif</string>
-    <key>three_one.blackBox</key>
-    <string>three_one.blackB_ox.glif</string>
-    <key>three_one.box</key>
-    <string>three_one.box.glif</string>
-    <key>three_one.paren</key>
-    <string>three_one.paren.glif</string>
-    <key>three_one.roundBlackBox</key>
-    <string>three_one.roundB_lackB_ox.glif</string>
-    <key>three_one.roundBox</key>
-    <string>three_one.roundB_ox.glif</string>
     <key>three_parenlefthan.vert</key>
     <string>three_parenlefthan.vert.glif</string>
     <key>three_parenleftsmallhan.vert</key>
@@ -3468,56 +2392,6 @@
     <string>three_parenrighthan.vert.glif</string>
     <key>three_parenrightsmallhan.vert</key>
     <string>three_parenrightsmallhan.vert.glif</string>
-    <key>three_seven.blackBox</key>
-    <string>three_seven.blackB_ox.glif</string>
-    <key>three_seven.box</key>
-    <string>three_seven.box.glif</string>
-    <key>three_seven.paren</key>
-    <string>three_seven.paren.glif</string>
-    <key>three_seven.roundBlackBox</key>
-    <string>three_seven.roundB_lackB_ox.glif</string>
-    <key>three_seven.roundBox</key>
-    <string>three_seven.roundB_ox.glif</string>
-    <key>three_six.blackBox</key>
-    <string>three_six.blackB_ox.glif</string>
-    <key>three_six.box</key>
-    <string>three_six.box.glif</string>
-    <key>three_six.paren</key>
-    <string>three_six.paren.glif</string>
-    <key>three_six.roundBlackBox</key>
-    <string>three_six.roundB_lackB_ox.glif</string>
-    <key>three_six.roundBox</key>
-    <string>three_six.roundB_ox.glif</string>
-    <key>three_three.blackBox</key>
-    <string>three_three.blackB_ox.glif</string>
-    <key>three_three.box</key>
-    <string>three_three.box.glif</string>
-    <key>three_three.paren</key>
-    <string>three_three.paren.glif</string>
-    <key>three_three.roundBlackBox</key>
-    <string>three_three.roundB_lackB_ox.glif</string>
-    <key>three_three.roundBox</key>
-    <string>three_three.roundB_ox.glif</string>
-    <key>three_two.blackBox</key>
-    <string>three_two.blackB_ox.glif</string>
-    <key>three_two.box</key>
-    <string>three_two.box.glif</string>
-    <key>three_two.paren</key>
-    <string>three_two.paren.glif</string>
-    <key>three_two.roundBlackBox</key>
-    <string>three_two.roundB_lackB_ox.glif</string>
-    <key>three_two.roundBox</key>
-    <string>three_two.roundB_ox.glif</string>
-    <key>three_zero.blackBox</key>
-    <string>three_zero.blackB_ox.glif</string>
-    <key>three_zero.box</key>
-    <string>three_zero.box.glif</string>
-    <key>three_zero.paren</key>
-    <string>three_zero.paren.glif</string>
-    <key>three_zero.roundBlackBox</key>
-    <string>three_zero.roundB_lackB_ox.glif</string>
-    <key>three_zero.roundBox</key>
-    <string>three_zero.roundB_ox.glif</string>
     <key>threeeighths</key>
     <string>threeeighths.glif</string>
     <key>threeeighths.full</key>
@@ -3568,8 +2442,6 @@
     <string>two.half.glif</string>
     <key>two.italic</key>
     <string>two.italic.glif</string>
-    <key>two.narrow</key>
-    <string>two.narrow.glif</string>
     <key>two.qartwidth</key>
     <string>two.qartwidth.glif</string>
     <key>two.roundBlackBox</key>
@@ -3578,36 +2450,6 @@
     <string>two.roundB_ox.glif</string>
     <key>two.thirdwidths</key>
     <string>two.thirdwidths.glif</string>
-    <key>two_eight.blackBox</key>
-    <string>two_eight.blackB_ox.glif</string>
-    <key>two_eight.box</key>
-    <string>two_eight.box.glif</string>
-    <key>two_eight.paren</key>
-    <string>two_eight.paren.glif</string>
-    <key>two_eight.roundBlackBox</key>
-    <string>two_eight.roundB_lackB_ox.glif</string>
-    <key>two_eight.roundBox</key>
-    <string>two_eight.roundB_ox.glif</string>
-    <key>two_five.blackBox</key>
-    <string>two_five.blackB_ox.glif</string>
-    <key>two_five.box</key>
-    <string>two_five.box.glif</string>
-    <key>two_five.paren</key>
-    <string>two_five.paren.glif</string>
-    <key>two_five.roundBlackBox</key>
-    <string>two_five.roundB_lackB_ox.glif</string>
-    <key>two_five.roundBox</key>
-    <string>two_five.roundB_ox.glif</string>
-    <key>two_four.blackBox</key>
-    <string>two_four.blackB_ox.glif</string>
-    <key>two_four.box</key>
-    <string>two_four.box.glif</string>
-    <key>two_four.paren</key>
-    <string>two_four.paren.glif</string>
-    <key>two_four.roundBlackBox</key>
-    <string>two_four.roundB_lackB_ox.glif</string>
-    <key>two_four.roundBox</key>
-    <string>two_four.roundB_ox.glif</string>
     <key>two_fraction_five.nut</key>
     <string>two_fraction_five.nut.glif</string>
     <key>two_fraction_nine</key>
@@ -3624,26 +2466,6 @@
     <string>two_fraction_seven.nut.glif</string>
     <key>two_fraction_three.nut</key>
     <string>two_fraction_three.nut.glif</string>
-    <key>two_nine.blackBox</key>
-    <string>two_nine.blackB_ox.glif</string>
-    <key>two_nine.box</key>
-    <string>two_nine.box.glif</string>
-    <key>two_nine.paren</key>
-    <string>two_nine.paren.glif</string>
-    <key>two_nine.roundBlackBox</key>
-    <string>two_nine.roundB_lackB_ox.glif</string>
-    <key>two_nine.roundBox</key>
-    <string>two_nine.roundB_ox.glif</string>
-    <key>two_one.blackBox</key>
-    <string>two_one.blackB_ox.glif</string>
-    <key>two_one.box</key>
-    <string>two_one.box.glif</string>
-    <key>two_one.paren</key>
-    <string>two_one.paren.glif</string>
-    <key>two_one.roundBlackBox</key>
-    <string>two_one.roundB_lackB_ox.glif</string>
-    <key>two_one.roundBox</key>
-    <string>two_one.roundB_ox.glif</string>
     <key>two_parenlefthan.vert</key>
     <string>two_parenlefthan.vert.glif</string>
     <key>two_parenleftsmallhan.vert</key>
@@ -3654,54 +2476,6 @@
     <string>two_parenrighthan.vert.glif</string>
     <key>two_parenrightsmallhan.vert</key>
     <string>two_parenrightsmallhan.vert.glif</string>
-    <key>two_seven.blackBox</key>
-    <string>two_seven.blackB_ox.glif</string>
-    <key>two_seven.box</key>
-    <string>two_seven.box.glif</string>
-    <key>two_seven.paren</key>
-    <string>two_seven.paren.glif</string>
-    <key>two_seven.roundBlackBox</key>
-    <string>two_seven.roundB_lackB_ox.glif</string>
-    <key>two_seven.roundBox</key>
-    <string>two_seven.roundB_ox.glif</string>
-    <key>two_six.blackBox</key>
-    <string>two_six.blackB_ox.glif</string>
-    <key>two_six.box</key>
-    <string>two_six.box.glif</string>
-    <key>two_six.paren</key>
-    <string>two_six.paren.glif</string>
-    <key>two_six.roundBlackBox</key>
-    <string>two_six.roundB_lackB_ox.glif</string>
-    <key>two_six.roundBox</key>
-    <string>two_six.roundB_ox.glif</string>
-    <key>two_three.blackBox</key>
-    <string>two_three.blackB_ox.glif</string>
-    <key>two_three.box</key>
-    <string>two_three.box.glif</string>
-    <key>two_three.paren</key>
-    <string>two_three.paren.glif</string>
-    <key>two_three.roundBlackBox</key>
-    <string>two_three.roundB_lackB_ox.glif</string>
-    <key>two_three.roundBox</key>
-    <string>two_three.roundB_ox.glif</string>
-    <key>two_two.blackBox</key>
-    <string>two_two.blackB_ox.glif</string>
-    <key>two_two.box</key>
-    <string>two_two.box.glif</string>
-    <key>two_two.paren</key>
-    <string>two_two.paren.glif</string>
-    <key>two_two.roundBlackBox</key>
-    <string>two_two.roundB_lackB_ox.glif</string>
-    <key>two_two.roundBox</key>
-    <string>two_two.roundB_ox.glif</string>
-    <key>two_zero.blackBox</key>
-    <string>two_zero.blackB_ox.glif</string>
-    <key>two_zero.box</key>
-    <string>two_zero.box.glif</string>
-    <key>two_zero.roundBlackBox</key>
-    <string>two_zero.roundB_lackB_ox.glif</string>
-    <key>two_zero.roundBox</key>
-    <string>two_zero.roundB_ox.glif</string>
     <key>twodotenleader</key>
     <string>twodotenleader.glif</string>
     <key>twohan.half.vert</key>
@@ -4066,8 +2840,6 @@
     <string>u233C_C_.glif</string>
     <key>u233FE</key>
     <string>u233F_E_.glif</string>
-    <key>u235C4.vari2</key>
-    <string>u235C_4.vari2.glif</string>
     <key>u2363A</key>
     <string>u2363A_.glif</string>
     <key>u236EE</key>
@@ -4158,8 +2930,6 @@
     <string>u2624E_.glif</string>
     <key>u2626A</key>
     <string>u2626A_.glif</string>
-    <key>u26270.vari2</key>
-    <string>u26270.vari2.glif</string>
     <key>u26293</key>
     <string>u26293.glif</string>
     <key>u266B0</key>
@@ -4254,8 +3024,6 @@
     <string>u29E_19.glif</string>
     <key>u29E36</key>
     <string>u29E_36.glif</string>
-    <key>u29E3D.vari2</key>
-    <string>u29E_3D_.vari2.glif</string>
     <key>u29EF8</key>
     <string>u29E_F_8.glif</string>
     <key>u29F27</key>
@@ -4268,8 +3036,6 @@
     <string>u2A_590.glif</string>
     <key>u2A612</key>
     <string>u2A_612.glif</string>
-    <key>u2A61A.</key>
-    <string>u2A_61A_..glif</string>
     <key>u2A736</key>
     <string>u2A_736.glif</string>
     <key>u2A9E6</key>
@@ -4430,8 +3196,6 @@
     <string>underscore.half.glif</string>
     <key>underscore.italic</key>
     <string>underscore.italic.glif</string>
-    <key>uni00323007.paren</key>
-    <string>uni00323007.paren.glif</string>
     <key>uni0041030B</key>
     <string>uni0041030B_.glif</string>
     <key>uni0041030D</key>
@@ -4516,8 +3280,6 @@
     <string>uni0079030C_.glif</string>
     <key>uni00A0</key>
     <string>uni00A_0.glif</string>
-    <key>uni00AD</key>
-    <string>uni00A_D_.glif</string>
     <key>uni00B2</key>
     <string>uni00B_2.glif</string>
     <key>uni00B2.italic</key>
@@ -4528,8 +3290,6 @@
     <string>uni00B_3.italic.glif</string>
     <key>uni00B5</key>
     <string>uni00B_5.glif</string>
-    <key>uni00B5.full</key>
-    <string>uni00B_5.full.glif</string>
     <key>uni00B9</key>
     <string>uni00B_9.glif</string>
     <key>uni00B9.italic</key>
@@ -4954,8 +3714,6 @@
     <string>uni2048.glif</string>
     <key>uni2049</key>
     <string>uni2049.glif</string>
-    <key>uni2049.slant</key>
-    <string>uni2049.slant.glif</string>
     <key>uni205A</key>
     <string>uni205A_.glif</string>
     <key>uni205D</key>
@@ -5104,8 +3862,6 @@
     <string>uni2162.glif</string>
     <key>uni2162.paren</key>
     <string>uni2162.paren.glif</string>
-    <key>uni21622160</key>
-    <string>uni21622160.glif</string>
     <key>uni2163</key>
     <string>uni2163.glif</string>
     <key>uni2163.paren</key>
@@ -5134,18 +3890,6 @@
     <string>uni2169.glif</string>
     <key>uni2169.paren</key>
     <string>uni2169.paren.glif</string>
-    <key>uni21692162</key>
-    <string>uni21692162.glif</string>
-    <key>uni21692162.paren</key>
-    <string>uni21692162.paren.glif</string>
-    <key>uni21692163</key>
-    <string>uni21692163.glif</string>
-    <key>uni21692163.paren</key>
-    <string>uni21692163.paren.glif</string>
-    <key>uni21692164</key>
-    <string>uni21692164.glif</string>
-    <key>uni21692164.paren</key>
-    <string>uni21692164.paren.glif</string>
     <key>uni216A</key>
     <string>uni216A_.glif</string>
     <key>uni216A.paren</key>
@@ -5194,18 +3938,6 @@
     <string>uni2179.glif</string>
     <key>uni2179.paren</key>
     <string>uni2179.paren.glif</string>
-    <key>uni21792172</key>
-    <string>uni21792172.glif</string>
-    <key>uni21792172.paren</key>
-    <string>uni21792172.paren.glif</string>
-    <key>uni21792173</key>
-    <string>uni21792173.glif</string>
-    <key>uni21792173.paren</key>
-    <string>uni21792173.paren.glif</string>
-    <key>uni21792174</key>
-    <string>uni21792174.glif</string>
-    <key>uni21792174.paren</key>
-    <string>uni21792174.paren.glif</string>
     <key>uni217A</key>
     <string>uni217A_.glif</string>
     <key>uni217A.paren</key>
@@ -5284,12 +4016,8 @@
     <string>uni2267.glif</string>
     <key>uni226A</key>
     <string>uni226A_.glif</string>
-    <key>uni226A.alt</key>
-    <string>uni226A_.alt.glif</string>
     <key>uni226B</key>
     <string>uni226B_.glif</string>
-    <key>uni226B.alt</key>
-    <string>uni226B_.alt.glif</string>
     <key>uni2272</key>
     <string>uni2272.glif</string>
     <key>uni2273</key>
@@ -5306,8 +4034,6 @@
     <string>uni22A_0.glif</string>
     <key>uni22A5</key>
     <string>uni22A_5.glif</string>
-    <key>uni22A5.mac</key>
-    <string>uni22A_5.mac.glif</string>
     <key>uni22BF</key>
     <string>uni22B_F_.glif</string>
     <key>uni22C4</key>
@@ -5322,70 +4048,34 @@
     <string>uni2312.glif</string>
     <key>uni239B</key>
     <string>uni239B_.glif</string>
-    <key>uni239B.vert</key>
-    <string>uni239B_.vert.glif</string>
     <key>uni239C</key>
     <string>uni239C_.glif</string>
     <key>uni239D</key>
     <string>uni239D_.glif</string>
-    <key>uni239D.vert</key>
-    <string>uni239D_.vert.glif</string>
     <key>uni239E</key>
     <string>uni239E_.glif</string>
-    <key>uni239E.vert</key>
-    <string>uni239E_.vert.glif</string>
     <key>uni23A0</key>
     <string>uni23A_0.glif</string>
-    <key>uni23A0.vert</key>
-    <string>uni23A_0.vert.glif</string>
     <key>uni23A1</key>
     <string>uni23A_1.glif</string>
-    <key>uni23A1.vert</key>
-    <string>uni23A_1.vert.glif</string>
     <key>uni23A3</key>
     <string>uni23A_3.glif</string>
-    <key>uni23A3.vert</key>
-    <string>uni23A_3.vert.glif</string>
     <key>uni23A4</key>
     <string>uni23A_4.glif</string>
-    <key>uni23A4.vert</key>
-    <string>uni23A_4.vert.glif</string>
     <key>uni23A6</key>
     <string>uni23A_6.glif</string>
-    <key>uni23A6.vert</key>
-    <string>uni23A_6.vert.glif</string>
     <key>uni23A7</key>
     <string>uni23A_7.glif</string>
-    <key>uni23A7.vert</key>
-    <string>uni23A_7.vert.glif</string>
-    <key>uni23A723A9</key>
-    <string>uni23A_723A_9.glif</string>
-    <key>uni23A723A9.vert</key>
-    <string>uni23A_723A_9.vert.glif</string>
     <key>uni23A8</key>
     <string>uni23A_8.glif</string>
-    <key>uni23A8.vert</key>
-    <string>uni23A_8.vert.glif</string>
     <key>uni23A9</key>
     <string>uni23A_9.glif</string>
-    <key>uni23A9.vert</key>
-    <string>uni23A_9.vert.glif</string>
     <key>uni23AB</key>
     <string>uni23A_B_.glif</string>
-    <key>uni23AB.vert</key>
-    <string>uni23A_B_.vert.glif</string>
-    <key>uni23AB23AD</key>
-    <string>uni23A_B_23A_D_.glif</string>
-    <key>uni23AB23AD.vert</key>
-    <string>uni23A_B_23A_D_.vert.glif</string>
     <key>uni23AC</key>
     <string>uni23A_C_.glif</string>
-    <key>uni23AC.vert</key>
-    <string>uni23A_C_.vert.glif</string>
     <key>uni23AD</key>
     <string>uni23A_D_.glif</string>
-    <key>uni23AD.vert</key>
-    <string>uni23A_D_.vert.glif</string>
     <key>uni2460</key>
     <string>uni2460.glif</string>
     <key>uni2461</key>
@@ -5446,24 +4136,6 @@
     <string>uni247C_.glif</string>
     <key>uni247D</key>
     <string>uni247D_.glif</string>
-    <key>uni247E</key>
-    <string>uni247E_.glif</string>
-    <key>uni247F</key>
-    <string>uni247F_.glif</string>
-    <key>uni2480</key>
-    <string>uni2480.glif</string>
-    <key>uni2481</key>
-    <string>uni2481.glif</string>
-    <key>uni2482</key>
-    <string>uni2482.glif</string>
-    <key>uni2483</key>
-    <string>uni2483.glif</string>
-    <key>uni2484</key>
-    <string>uni2484.glif</string>
-    <key>uni2485</key>
-    <string>uni2485.glif</string>
-    <key>uni2486</key>
-    <string>uni2486.glif</string>
     <key>uni2487</key>
     <string>uni2487.glif</string>
     <key>uni2488</key>
@@ -5664,8 +4336,6 @@
     <string>uni24F_4.glif</string>
     <key>uni24FF</key>
     <string>uni24F_F_.glif</string>
-    <key>uni24FF24FF</key>
-    <string>uni24F_F_24F_F_.glif</string>
     <key>uni2500</key>
     <string>uni2500.glif</string>
     <key>uni2500.half</key>
@@ -6060,8 +4730,6 @@
     <string>uni25B_7.glif</string>
     <key>uni25BD</key>
     <string>uni25B_D_.glif</string>
-    <key>uni25BD.alt</key>
-    <string>uni25B_D_.alt.glif</string>
     <key>uni25C0</key>
     <string>uni25C_0.glif</string>
     <key>uni25C1</key>
@@ -6078,14 +4746,10 @@
     <string>uni25C_C_.glif</string>
     <key>uni25CE</key>
     <string>uni25C_E_.glif</string>
-    <key>uni25CE.alt</key>
-    <string>uni25C_E_.alt.glif</string>
     <key>uni25CE.ruby</key>
     <string>uni25C_E_.ruby.glif</string>
     <key>uni25CF</key>
     <string>uni25C_F_.glif</string>
-    <key>uni25CF.alt</key>
-    <string>uni25C_F_.alt.glif</string>
     <key>uni25E2</key>
     <string>uni25E_2.glif</string>
     <key>uni25E3</key>
@@ -6164,182 +4828,22 @@
     <string>uni2756.glif</string>
     <key>uni2776</key>
     <string>uni2776.glif</string>
-    <key>uni277624FF24FF</key>
-    <string>uni277624F_F_24F_F_.glif</string>
     <key>uni2777</key>
     <string>uni2777.glif</string>
-    <key>uni27772776</key>
-    <string>uni27772776.glif</string>
-    <key>uni27772777</key>
-    <string>uni27772777.glif</string>
-    <key>uni27772778</key>
-    <string>uni27772778.glif</string>
-    <key>uni27772779</key>
-    <string>uni27772779.glif</string>
-    <key>uni2777277A</key>
-    <string>uni2777277A_.glif</string>
-    <key>uni2777277B</key>
-    <string>uni2777277B_.glif</string>
-    <key>uni2777277C</key>
-    <string>uni2777277C_.glif</string>
-    <key>uni2777277D</key>
-    <string>uni2777277D_.glif</string>
-    <key>uni2777277E</key>
-    <string>uni2777277E_.glif</string>
     <key>uni2778</key>
     <string>uni2778.glif</string>
-    <key>uni277824FF</key>
-    <string>uni277824F_F_.glif</string>
-    <key>uni27782776</key>
-    <string>uni27782776.glif</string>
-    <key>uni27782777</key>
-    <string>uni27782777.glif</string>
-    <key>uni27782778</key>
-    <string>uni27782778.glif</string>
-    <key>uni27782779</key>
-    <string>uni27782779.glif</string>
-    <key>uni2778277A</key>
-    <string>uni2778277A_.glif</string>
-    <key>uni2778277B</key>
-    <string>uni2778277B_.glif</string>
-    <key>uni2778277C</key>
-    <string>uni2778277C_.glif</string>
-    <key>uni2778277D</key>
-    <string>uni2778277D_.glif</string>
-    <key>uni2778277E</key>
-    <string>uni2778277E_.glif</string>
     <key>uni2779</key>
     <string>uni2779.glif</string>
-    <key>uni277924FF</key>
-    <string>uni277924F_F_.glif</string>
-    <key>uni27792776</key>
-    <string>uni27792776.glif</string>
-    <key>uni27792777</key>
-    <string>uni27792777.glif</string>
-    <key>uni27792778</key>
-    <string>uni27792778.glif</string>
-    <key>uni27792779</key>
-    <string>uni27792779.glif</string>
-    <key>uni2779277A</key>
-    <string>uni2779277A_.glif</string>
-    <key>uni2779277B</key>
-    <string>uni2779277B_.glif</string>
-    <key>uni2779277C</key>
-    <string>uni2779277C_.glif</string>
-    <key>uni2779277D</key>
-    <string>uni2779277D_.glif</string>
-    <key>uni2779277E</key>
-    <string>uni2779277E_.glif</string>
     <key>uni277A</key>
     <string>uni277A_.glif</string>
-    <key>uni277A24FF</key>
-    <string>uni277A_24F_F_.glif</string>
-    <key>uni277A2776</key>
-    <string>uni277A_2776.glif</string>
-    <key>uni277A2777</key>
-    <string>uni277A_2777.glif</string>
-    <key>uni277A2778</key>
-    <string>uni277A_2778.glif</string>
-    <key>uni277A2779</key>
-    <string>uni277A_2779.glif</string>
-    <key>uni277A277A</key>
-    <string>uni277A_277A_.glif</string>
-    <key>uni277A277B</key>
-    <string>uni277A_277B_.glif</string>
-    <key>uni277A277C</key>
-    <string>uni277A_277C_.glif</string>
-    <key>uni277A277D</key>
-    <string>uni277A_277D_.glif</string>
-    <key>uni277A277E</key>
-    <string>uni277A_277E_.glif</string>
     <key>uni277B</key>
     <string>uni277B_.glif</string>
-    <key>uni277B24FF</key>
-    <string>uni277B_24F_F_.glif</string>
-    <key>uni277B2776</key>
-    <string>uni277B_2776.glif</string>
-    <key>uni277B2777</key>
-    <string>uni277B_2777.glif</string>
-    <key>uni277B2778</key>
-    <string>uni277B_2778.glif</string>
-    <key>uni277B2779</key>
-    <string>uni277B_2779.glif</string>
-    <key>uni277B277A</key>
-    <string>uni277B_277A_.glif</string>
-    <key>uni277B277B</key>
-    <string>uni277B_277B_.glif</string>
-    <key>uni277B277C</key>
-    <string>uni277B_277C_.glif</string>
-    <key>uni277B277D</key>
-    <string>uni277B_277D_.glif</string>
-    <key>uni277B277E</key>
-    <string>uni277B_277E_.glif</string>
     <key>uni277C</key>
     <string>uni277C_.glif</string>
-    <key>uni277C24FF</key>
-    <string>uni277C_24F_F_.glif</string>
-    <key>uni277C2776</key>
-    <string>uni277C_2776.glif</string>
-    <key>uni277C2777</key>
-    <string>uni277C_2777.glif</string>
-    <key>uni277C2778</key>
-    <string>uni277C_2778.glif</string>
-    <key>uni277C2779</key>
-    <string>uni277C_2779.glif</string>
-    <key>uni277C277A</key>
-    <string>uni277C_277A_.glif</string>
-    <key>uni277C277B</key>
-    <string>uni277C_277B_.glif</string>
-    <key>uni277C277C</key>
-    <string>uni277C_277C_.glif</string>
-    <key>uni277C277D</key>
-    <string>uni277C_277D_.glif</string>
-    <key>uni277C277E</key>
-    <string>uni277C_277E_.glif</string>
     <key>uni277D</key>
     <string>uni277D_.glif</string>
-    <key>uni277D24FF</key>
-    <string>uni277D_24F_F_.glif</string>
-    <key>uni277D2776</key>
-    <string>uni277D_2776.glif</string>
-    <key>uni277D2777</key>
-    <string>uni277D_2777.glif</string>
-    <key>uni277D2778</key>
-    <string>uni277D_2778.glif</string>
-    <key>uni277D2779</key>
-    <string>uni277D_2779.glif</string>
-    <key>uni277D277A</key>
-    <string>uni277D_277A_.glif</string>
-    <key>uni277D277B</key>
-    <string>uni277D_277B_.glif</string>
-    <key>uni277D277C</key>
-    <string>uni277D_277C_.glif</string>
-    <key>uni277D277D</key>
-    <string>uni277D_277D_.glif</string>
-    <key>uni277D277E</key>
-    <string>uni277D_277E_.glif</string>
     <key>uni277E</key>
     <string>uni277E_.glif</string>
-    <key>uni277E24FF</key>
-    <string>uni277E_24F_F_.glif</string>
-    <key>uni277E2776</key>
-    <string>uni277E_2776.glif</string>
-    <key>uni277E2777</key>
-    <string>uni277E_2777.glif</string>
-    <key>uni277E2778</key>
-    <string>uni277E_2778.glif</string>
-    <key>uni277E2779</key>
-    <string>uni277E_2779.glif</string>
-    <key>uni277E277A</key>
-    <string>uni277E_277A_.glif</string>
-    <key>uni277E277B</key>
-    <string>uni277E_277B_.glif</string>
-    <key>uni277E277C</key>
-    <string>uni277E_277C_.glif</string>
-    <key>uni277E277D</key>
-    <string>uni277E_277D_.glif</string>
-    <key>uni277E277E</key>
-    <string>uni277E_277E_.glif</string>
     <key>uni277F</key>
     <string>uni277F_.glif</string>
     <key>uni27A1</key>
@@ -6518,8 +5022,6 @@
     <string>uni3019.vert.glif</string>
     <key>uni301C</key>
     <string>uni301C_.glif</string>
-    <key>uni301C.vert</key>
-    <string>uni301C_.vert.glif</string>
     <key>uni301D</key>
     <string>uni301D_.glif</string>
     <key>uni301D.full.vert</key>
@@ -8204,10 +6706,6 @@
     <string>uni30A_2.ruby.glif</string>
     <key>uni30A2.vert</key>
     <string>uni30A_2.vert.glif</string>
-    <key>uni30A2_prolongedkata_uni30EB</key>
-    <string>uni30A_2_prolongedkata_uni30E_B_.glif</string>
-    <key>uni30A2_prolongedkata_uni30EB.vert</key>
-    <string>uni30A_2_prolongedkata_uni30E_B_.vert.glif</string>
     <key>uni30A3</key>
     <string>uni30A_3.glif</string>
     <key>uni30A3.hori</key>
@@ -8596,10 +7094,6 @@
     <string>uni30B_B_.ruby.glif</string>
     <key>uni30BB.vert</key>
     <string>uni30B_B_.vert.glif</string>
-    <key>uni30BB30F330C1</key>
-    <string>uni30B_B_30F_330C_1.glif</string>
-    <key>uni30BB30F330C1.vert</key>
-    <string>uni30B_B_30F_330C_1.vert.glif</string>
     <key>uni30BC</key>
     <string>uni30B_C_.glif</string>
     <key>uni30BC.half</key>
@@ -10178,10 +8672,6 @@
     <string>uni3317.vert.glif</string>
     <key>uni3318</key>
     <string>uni3318.glif</string>
-    <key>uni3318.alt</key>
-    <string>uni3318.alt.glif</string>
-    <key>uni3318.alt.vert</key>
-    <string>uni3318.alt.vert.glif</string>
     <key>uni3318.vert</key>
     <string>uni3318.vert.glif</string>
     <key>uni3319</key>
@@ -10474,16 +8964,10 @@
     <string>uni3390.glif</string>
     <key>uni3396</key>
     <string>uni3396.glif</string>
-    <key>uni3396.alt</key>
-    <string>uni3396.alt.glif</string>
     <key>uni3397</key>
     <string>uni3397.glif</string>
-    <key>uni3397.alt</key>
-    <string>uni3397.alt.glif</string>
     <key>uni3398</key>
     <string>uni3398.glif</string>
-    <key>uni3398.alt</key>
-    <string>uni3398.alt.glif</string>
     <key>uni339B</key>
     <string>uni339B_.glif</string>
     <key>uni339C</key>
@@ -31208,56 +29692,30 @@
     <string>uniF_F_0F_.glif</string>
     <key>uniFF10</key>
     <string>uniF_F_10.glif</string>
-    <key>uniFF10.ruby</key>
-    <string>uniF_F_10.ruby.glif</string>
     <key>uniFF11</key>
     <string>uniF_F_11.glif</string>
-    <key>uniFF11.ruby</key>
-    <string>uniF_F_11.ruby.glif</string>
     <key>uniFF12</key>
     <string>uniF_F_12.glif</string>
-    <key>uniFF12.ruby</key>
-    <string>uniF_F_12.ruby.glif</string>
     <key>uniFF13</key>
     <string>uniF_F_13.glif</string>
-    <key>uniFF13.ruby</key>
-    <string>uniF_F_13.ruby.glif</string>
     <key>uniFF14</key>
     <string>uniF_F_14.glif</string>
-    <key>uniFF14.ruby</key>
-    <string>uniF_F_14.ruby.glif</string>
     <key>uniFF15</key>
     <string>uniF_F_15.glif</string>
-    <key>uniFF15.ruby</key>
-    <string>uniF_F_15.ruby.glif</string>
     <key>uniFF16</key>
     <string>uniF_F_16.glif</string>
-    <key>uniFF16.ruby</key>
-    <string>uniF_F_16.ruby.glif</string>
     <key>uniFF17</key>
     <string>uniF_F_17.glif</string>
-    <key>uniFF17.ruby</key>
-    <string>uniF_F_17.ruby.glif</string>
     <key>uniFF18</key>
     <string>uniF_F_18.glif</string>
-    <key>uniFF18.ruby</key>
-    <string>uniF_F_18.ruby.glif</string>
     <key>uniFF19</key>
     <string>uniF_F_19.glif</string>
-    <key>uniFF19.ruby</key>
-    <string>uniF_F_19.ruby.glif</string>
     <key>uniFF1A</key>
     <string>uniF_F_1A_.glif</string>
-    <key>uniFF1A.vert</key>
-    <string>uniF_F_1A_.vert.glif</string>
     <key>uniFF1B</key>
     <string>uniF_F_1B_.glif</string>
-    <key>uniFF1B.vert</key>
-    <string>uniF_F_1B_.vert.glif</string>
     <key>uniFF1C</key>
     <string>uniF_F_1C_.glif</string>
-    <key>uniFF1C.alt</key>
-    <string>uniF_F_1C_.alt.glif</string>
     <key>uniFF1D</key>
     <string>uniF_F_1D_.glif</string>
     <key>uniFF1D.half</key>
@@ -31266,8 +29724,6 @@
     <string>uniF_F_1D_.vert.glif</string>
     <key>uniFF1E</key>
     <string>uniF_F_1E_.glif</string>
-    <key>uniFF1E.alt</key>
-    <string>uniF_F_1E_.alt.glif</string>
     <key>uniFF1F</key>
     <string>uniF_F_1F_.glif</string>
     <key>uniFF20</key>
@@ -31550,8 +30006,6 @@
     <string>uniF_F_E_5.glif</string>
     <key>uniFFE8</key>
     <string>uniF_F_E_8.glif</string>
-    <key>union.alt</key>
-    <string>union.alt.glif</string>
     <key>union.full</key>
     <string>union.full.glif</string>
     <key>universal.full</key>
@@ -31602,10 +30056,6 @@
     <string>w.roundB_lackB_ox.glif</string>
     <key>w.roundBox</key>
     <string>w.roundB_ox.glif</string>
-    <key>watto</key>
-    <string>watto.glif</string>
-    <key>watto.vert</key>
-    <string>watto.vert.glif</string>
     <key>whiteParenleft.half</key>
     <string>whiteP_arenleft.half.glif</string>
     <key>whiteParenright.half</key>
@@ -31644,10 +30094,6 @@
     <string>y.roundB_lackB_ox.glif</string>
     <key>y.roundBox</key>
     <string>y.roundB_ox.glif</string>
-    <key>yaado</key>
-    <string>yaado.glif</string>
-    <key>yaado.vert</key>
-    <string>yaado.vert.glif</string>
     <key>yacute</key>
     <string>yacute.glif</string>
     <key>yacute.italic</key>
@@ -31714,8 +30160,6 @@
     <string>zero.half.glif</string>
     <key>zero.italic</key>
     <string>zero.italic.glif</string>
-    <key>zero.narrow</key>
-    <string>zero.narrow.glif</string>
     <key>zero.paren</key>
     <string>zero.paren.glif</string>
     <key>zero.qartwidth</key>
@@ -31734,150 +30178,10 @@
     <string>zero.zero.half.glif</string>
     <key>zero.zero.italic</key>
     <string>zero.zero.italic.glif</string>
-    <key>zero.zero.narrow</key>
-    <string>zero.zero.narrow.glif</string>
-    <key>zero_eight.blackBox</key>
-    <string>zero_eight.blackB_ox.glif</string>
-    <key>zero_eight.blackCircled</key>
-    <string>zero_eight.blackC_ircled.glif</string>
-    <key>zero_eight.box</key>
-    <string>zero_eight.box.glif</string>
-    <key>zero_eight.circled</key>
-    <string>zero_eight.circled.glif</string>
-    <key>zero_eight.paren</key>
-    <string>zero_eight.paren.glif</string>
-    <key>zero_eight.roundBlackBox</key>
-    <string>zero_eight.roundB_lackB_ox.glif</string>
-    <key>zero_eight.roundBox</key>
-    <string>zero_eight.roundB_ox.glif</string>
-    <key>zero_five.blackBox</key>
-    <string>zero_five.blackB_ox.glif</string>
-    <key>zero_five.blackCircled</key>
-    <string>zero_five.blackC_ircled.glif</string>
-    <key>zero_five.box</key>
-    <string>zero_five.box.glif</string>
-    <key>zero_five.circled</key>
-    <string>zero_five.circled.glif</string>
-    <key>zero_five.paren</key>
-    <string>zero_five.paren.glif</string>
-    <key>zero_five.roundBlackBox</key>
-    <string>zero_five.roundB_lackB_ox.glif</string>
-    <key>zero_five.roundBox</key>
-    <string>zero_five.roundB_ox.glif</string>
-    <key>zero_four.blackBox</key>
-    <string>zero_four.blackB_ox.glif</string>
-    <key>zero_four.blackCircled</key>
-    <string>zero_four.blackC_ircled.glif</string>
-    <key>zero_four.box</key>
-    <string>zero_four.box.glif</string>
-    <key>zero_four.circled</key>
-    <string>zero_four.circled.glif</string>
-    <key>zero_four.paren</key>
-    <string>zero_four.paren.glif</string>
-    <key>zero_four.roundBlackBox</key>
-    <string>zero_four.roundB_lackB_ox.glif</string>
-    <key>zero_four.roundBox</key>
-    <string>zero_four.roundB_ox.glif</string>
     <key>zero_fraction_three.nut</key>
     <string>zero_fraction_three.nut.glif</string>
-    <key>zero_nine.blackBox</key>
-    <string>zero_nine.blackB_ox.glif</string>
-    <key>zero_nine.blackCircled</key>
-    <string>zero_nine.blackC_ircled.glif</string>
-    <key>zero_nine.box</key>
-    <string>zero_nine.box.glif</string>
-    <key>zero_nine.circled</key>
-    <string>zero_nine.circled.glif</string>
-    <key>zero_nine.paren</key>
-    <string>zero_nine.paren.glif</string>
-    <key>zero_nine.roundBlackBox</key>
-    <string>zero_nine.roundB_lackB_ox.glif</string>
-    <key>zero_nine.roundBox</key>
-    <string>zero_nine.roundB_ox.glif</string>
-    <key>zero_one.blackBox</key>
-    <string>zero_one.blackB_ox.glif</string>
-    <key>zero_one.blackCircled</key>
-    <string>zero_one.blackC_ircled.glif</string>
-    <key>zero_one.box</key>
-    <string>zero_one.box.glif</string>
-    <key>zero_one.circled</key>
-    <string>zero_one.circled.glif</string>
-    <key>zero_one.paren</key>
-    <string>zero_one.paren.glif</string>
-    <key>zero_one.roundBlackBox</key>
-    <string>zero_one.roundB_lackB_ox.glif</string>
-    <key>zero_one.roundBox</key>
-    <string>zero_one.roundB_ox.glif</string>
     <key>zero_parenright</key>
     <string>zero_parenright.glif</string>
-    <key>zero_seven.blackBox</key>
-    <string>zero_seven.blackB_ox.glif</string>
-    <key>zero_seven.blackCircled</key>
-    <string>zero_seven.blackC_ircled.glif</string>
-    <key>zero_seven.box</key>
-    <string>zero_seven.box.glif</string>
-    <key>zero_seven.circled</key>
-    <string>zero_seven.circled.glif</string>
-    <key>zero_seven.paren</key>
-    <string>zero_seven.paren.glif</string>
-    <key>zero_seven.roundBlackBox</key>
-    <string>zero_seven.roundB_lackB_ox.glif</string>
-    <key>zero_seven.roundBox</key>
-    <string>zero_seven.roundB_ox.glif</string>
-    <key>zero_six.blackBox</key>
-    <string>zero_six.blackB_ox.glif</string>
-    <key>zero_six.blackCircled</key>
-    <string>zero_six.blackC_ircled.glif</string>
-    <key>zero_six.box</key>
-    <string>zero_six.box.glif</string>
-    <key>zero_six.circled</key>
-    <string>zero_six.circled.glif</string>
-    <key>zero_six.paren</key>
-    <string>zero_six.paren.glif</string>
-    <key>zero_six.roundBlackBox</key>
-    <string>zero_six.roundB_lackB_ox.glif</string>
-    <key>zero_six.roundBox</key>
-    <string>zero_six.roundB_ox.glif</string>
-    <key>zero_three.blackBox</key>
-    <string>zero_three.blackB_ox.glif</string>
-    <key>zero_three.blackCircled</key>
-    <string>zero_three.blackC_ircled.glif</string>
-    <key>zero_three.box</key>
-    <string>zero_three.box.glif</string>
-    <key>zero_three.circled</key>
-    <string>zero_three.circled.glif</string>
-    <key>zero_three.paren</key>
-    <string>zero_three.paren.glif</string>
-    <key>zero_three.roundBlackBox</key>
-    <string>zero_three.roundB_lackB_ox.glif</string>
-    <key>zero_three.roundBox</key>
-    <string>zero_three.roundB_ox.glif</string>
-    <key>zero_two.blackBox</key>
-    <string>zero_two.blackB_ox.glif</string>
-    <key>zero_two.blackCircled</key>
-    <string>zero_two.blackC_ircled.glif</string>
-    <key>zero_two.box</key>
-    <string>zero_two.box.glif</string>
-    <key>zero_two.circled</key>
-    <string>zero_two.circled.glif</string>
-    <key>zero_two.paren</key>
-    <string>zero_two.paren.glif</string>
-    <key>zero_two.roundBlackBox</key>
-    <string>zero_two.roundB_lackB_ox.glif</string>
-    <key>zero_two.roundBox</key>
-    <string>zero_two.roundB_ox.glif</string>
-    <key>zero_zero.blackBox</key>
-    <string>zero_zero.blackB_ox.glif</string>
-    <key>zero_zero.box</key>
-    <string>zero_zero.box.glif</string>
-    <key>zero_zero.circled</key>
-    <string>zero_zero.circled.glif</string>
-    <key>zero_zero.paren</key>
-    <string>zero_zero.paren.glif</string>
-    <key>zero_zero.roundBlackBox</key>
-    <string>zero_zero.roundB_lackB_ox.glif</string>
-    <key>zero_zero.roundBox</key>
-    <string>zero_zero.roundB_ox.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
   </dict>

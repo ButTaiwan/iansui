@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five.thirdwidths" format="2">
-  <advance width="333" height="1000"/>
+  <advance height="1000" width="333"/>
   <outline>
     <contour>
       <point x="70" y="676"/>

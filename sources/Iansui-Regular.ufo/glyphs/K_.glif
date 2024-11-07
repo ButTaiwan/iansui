@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="630" height="1000"/>
+  <advance height="1000" width="630"/>
   <unicode hex="004B"/>
   <outline>
     <contour>

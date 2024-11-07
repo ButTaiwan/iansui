@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five_fraction_seven.nut" format="2">
-  <advance width="1000" height="1000"/>
+  <advance height="1000" width="1000"/>
   <outline>
     <contour>
       <point x="417" y="655"/>

@@ -7,19 +7,33 @@
     <key>capHeight</key>
     <integer>695</integer>
     <key>copyright</key>
-    <string>But Ko / The Klee Project (https://github.com/ButTaiwan/iansui)</string>
+    <string>Copyright 2022 The Iansui Project Authors (https://github.com/ButTaiwan/iansui), with Reserved Font Name Iansui.</string>
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
     <string>Iansui</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
+    <key>openTypeGaspRangeRecords</key>
+    <array>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>1</integer>
+          <integer>2</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>65535</integer>
+      </dict>
+    </array>
     <key>openTypeHeadCreated</key>
     <string>2023/06/13 12:00:55</string>
     <key>openTypeHeadLowestRecPPEM</key>
     <integer>7</integer>
     <key>openTypeHheaAscender</key>
-    <integer>1040</integer>
+    <integer>1160</integer>
     <key>openTypeHheaCaretOffset</key>
     <integer>0</integer>
     <key>openTypeHheaCaretSlopeRise</key>
@@ -27,9 +41,9 @@
     <key>openTypeHheaCaretSlopeRun</key>
     <integer>0</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-200</integer>
+    <integer>-288</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>100</integer>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>But Ko / Fontworks Inc.</string>
     <key>openTypeNameDesignerURL</key>
@@ -52,18 +66,6 @@
         <key>languageID</key>
         <integer>1033</integer>
         <key>nameID</key>
-        <integer>9</integer>
-        <key>platformID</key>
-        <integer>3</integer>
-        <key>string</key>
-        <string>But Ko / Fontworks Inc.</string>
-      </dict>
-      <dict>
-        <key>encodingID</key>
-        <integer>1</integer>
-        <key>languageID</key>
-        <integer>1033</integer>
-        <key>nameID</key>
         <integer>8</integer>
         <key>platformID</key>
         <integer>3</integer>
@@ -76,11 +78,11 @@
         <key>languageID</key>
         <integer>1033</integer>
         <key>nameID</key>
-        <integer>0</integer>
+        <integer>9</integer>
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>But Ko / The Klee Project (https://github.com/ButTaiwan/iansui)</string>
+        <string>But Ko / Fontworks Inc.</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -104,17 +106,13 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>我愛芫荽，芫荽愛我。
-南去經三國，東來過五湖。
-無路，咱蹽溪過嶺。
-壹貳叁肆伍陸柒捌玖拾。
-It kiam jī kòo, bong lâ-á kiam sé khòo.</string>
+        <string>我愛芫荽，芫荽愛我。南去經三國，東來過五湖。無路，咱蹽溪過嶺。壹貳叁肆伍陸柒捌玖拾。It kiam jī kòo, bong lâ-á kiam sé khòo.</string>
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
     <string>1.002;zihi;Iansui-Regular</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.002</string>
+    <string>Version 1.003</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -188,15 +186,15 @@ It kiam jī kòo, bong lâ-á kiam sé khòo.</string>
       <integer>70</integer>
     </array>
     <key>openTypeOS2VendorID</key>
-    <string>zihi</string>
+    <string>ZIHI</string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1040</integer>
+    <integer>1160</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>200</integer>
+    <integer>288</integer>
     <key>openTypeVheaCaretOffset</key>
     <integer>0</integer>
     <key>openTypeVheaCaretSlopeRise</key>
@@ -209,10 +207,22 @@ It kiam jī kòo, bong lâ-á kiam sé khòo.</string>
     <integer>-500</integer>
     <key>openTypeVheaVertTypoLineGap</key>
     <integer>0</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptFontName</key>
     <string>Iansui-Regular</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
@@ -226,7 +236,7 @@ It kiam jī kòo, bong lâ-á kiam sé khòo.</string>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>3</integer>
     <key>xHeight</key>
     <integer>468</integer>
   </dict>

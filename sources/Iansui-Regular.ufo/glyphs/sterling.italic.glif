@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sterling.italic" format="2">
-  <advance width="713" height="1000"/>
+  <advance height="1000" width="713"/>
   <outline>
     <contour>
       <point x="580" y="370"/>

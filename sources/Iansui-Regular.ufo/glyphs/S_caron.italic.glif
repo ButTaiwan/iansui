@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scaron.italic" format="2">
-  <advance width="617" height="1000"/>
+  <advance height="1000" width="617"/>
   <outline>
     <contour>
       <point x="475" y="820" type="line"/>

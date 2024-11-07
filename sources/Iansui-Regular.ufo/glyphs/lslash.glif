@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-  <advance width="304" height="1000"/>
+  <advance height="1000" width="304"/>
   <unicode hex="0142"/>
   <outline>
     <contour>

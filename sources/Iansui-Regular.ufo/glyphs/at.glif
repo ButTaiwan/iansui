@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="at" format="2">
-  <advance width="784" height="1000"/>
+  <advance height="1000" width="784"/>
   <unicode hex="0040"/>
   <outline>
     <contour>

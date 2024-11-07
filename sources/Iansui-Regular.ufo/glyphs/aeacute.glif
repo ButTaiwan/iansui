@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aeacute" format="2">
-  <advance width="900" height="1000"/>
+  <advance height="1000" width="900"/>
   <unicode hex="01FD"/>
   <outline>
     <contour>

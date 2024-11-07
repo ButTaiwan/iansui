@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="second" format="2">
-  <advance width="388" height="1000"/>
+  <advance height="1000" width="388"/>
   <unicode hex="2033"/>
   <outline>
     <contour>

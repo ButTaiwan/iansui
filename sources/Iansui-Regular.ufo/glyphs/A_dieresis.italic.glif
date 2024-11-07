@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Adieresis.italic" format="2">
-  <advance width="690" height="1000"/>
+  <advance height="1000" width="690"/>
   <outline>
     <contour>
       <point x="133" y="139"/>

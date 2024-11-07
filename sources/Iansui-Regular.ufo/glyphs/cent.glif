@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cent" format="2">
-  <advance width="556" height="1000"/>
+  <advance height="1000" width="556"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>

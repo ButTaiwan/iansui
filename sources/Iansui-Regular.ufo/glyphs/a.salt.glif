@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a.salt" format="2">
-  <advance width="563" height="1000"/>
+  <advance height="1000" width="563"/>
   <outline>
     <contour>
       <point x="339" y="248"/>

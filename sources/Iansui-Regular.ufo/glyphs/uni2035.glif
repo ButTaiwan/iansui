@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2035" format="2">
-  <advance width="201" height="1000"/>
+  <advance height="1000" width="201"/>
   <unicode hex="2035"/>
   <outline>
     <contour>

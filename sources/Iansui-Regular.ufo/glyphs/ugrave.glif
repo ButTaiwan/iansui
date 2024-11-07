@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ugrave" format="2">
-  <advance width="590" height="1000"/>
+  <advance height="1000" width="590"/>
   <unicode hex="00F9"/>
   <outline>
     <contour>

@@ -1,3 +1,7 @@
 sources:
   - Iansui-Regular.ufo
 familyName: Iansui
+autohintTTF: False
+buildOTF: False
+buildWebfont: False
+removeOutlineOverlaps: False

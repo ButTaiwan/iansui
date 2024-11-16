@@ -1,10 +1,15 @@
+@class1 = [ eight five four nine one seven six three two zero ];
+
+@markFilteringSet1 = [ uni0308 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni0304 uni030D ];
+
+# Prefix: Prefix
 table GDEF {
     GlyphClassDef [], [], [], [];
 } GDEF;
 
     markClass uni0308 <anchor 249 471> @Anchor11__Anchor11;
     markClass gravecomb <anchor -217 471> @Anchor11__Anchor11;
-    markClass [acutecomb uni0306] <anchor -247 471> @Anchor11__Anchor11;
+    
     markClass uni030B <anchor -257 471> @Anchor11__Anchor11;
     markClass uni0302 <anchor -207 471> @Anchor11__Anchor11;
     markClass uni030C <anchor -248 471> @Anchor11__Anchor11;
@@ -15,15 +20,12 @@ table GDEF {
 
     markClass uni0308 <anchor 249 471> @Anchor14_Anchor14_;
     markClass gravecomb <anchor -217 471> @Anchor14_Anchor14_;
-    markClass [acutecomb uni0306] <anchor -247 471> @Anchor14_Anchor14_;
+    
     markClass uni030B <anchor -257 471> @Anchor14_Anchor14_;
     markClass uni0302 <anchor -207 471> @Anchor14_Anchor14_;
     markClass uni030C <anchor -248 471> @Anchor14_Anchor14_;
     markClass uni0304 <anchor -227 471> @Anchor14_Anchor14_;
     markClass uni030D <anchor -245 471> @Anchor14_Anchor14_;
-
-@class1 = [eight five four nine one seven six three two zero];
-@markFilteringSet1 = [uni0308 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni0304 uni030D];
 
 lookup AlternateSubstitution1 {
     lookupflag 0;
@@ -142,7 +144,6 @@ lookup AlternateSubstitution1 {
     sub AE from [AE.italic];
     sub Ccedilla from [Ccedilla.half Ccedilla.italic];
     sub Eth from [Eth.italic];
-    sub E_ring from [E_ring.italic];
     sub Eacute from [Eacute.italic];
     sub Ecaron from [Ecaron.italic];
     sub Ecircumflex from [Ecircumflex.italic];
@@ -150,7 +151,6 @@ lookup AlternateSubstitution1 {
     sub Egrave from [Egrave.italic];
     sub Emacron from [Emacron.italic];
     sub uni1EBC from [uni1EBC.italic];
-    sub I_ring from [I_ring.italic];
     sub Iacute from [Iacute.italic];
     sub uni01CF from [uni01CF.italic];
     sub Icircumflex from [Icircumflex.italic];
@@ -160,7 +160,6 @@ lookup AlternateSubstitution1 {
     sub Itilde from [Itilde.italic];
     sub Lslash from [Lslash.italic];
     sub Ntilde from [Ntilde.half Ntilde.italic];
-    sub O_ring from [O_ring.italic];
     sub Oacute from [Oacute.italic];
     sub uni01D1 from [uni01D1.italic];
     sub Ocircumflex from [Ocircumflex.italic];
@@ -251,7 +250,6 @@ lookup AlternateSubstitution1 {
     sub ae from [ae.italic];
     sub ccedilla from [ccedilla.half ccedilla.italic];
     sub eth from [eth.italic];
-    sub e_ring from [e_ring.italic];
     sub eacute from [eacute.half eacute.italic];
     sub ecaron from [ecaron.italic];
     sub ecircumflex from [ecircumflex.half ecircumflex.italic];
@@ -261,7 +259,6 @@ lookup AlternateSubstitution1 {
     sub uni0283 from [integral.full];
     sub uni1EBD from [uni1EBD.italic];
     sub dotlessi from [dotlessi.italic];
-    sub i_ring from [i_ring.italic];
     sub iacute from [iacute.half iacute.italic];
     sub uni01D0 from [uni01D0.italic];
     sub icircumflex from [icircumflex.half icircumflex.italic];
@@ -271,7 +268,6 @@ lookup AlternateSubstitution1 {
     sub itilde from [itilde.italic];
     sub lslash from [lslash.italic];
     sub ntilde from [ntilde.half ntilde.italic];
-    sub o_ring from [o_ring.italic];
     sub oacute from [oacute.half oacute.italic];
     sub uni01D2 from [uni01D2.italic];
     sub ocircumflex from [ocircumflex.half ocircumflex.italic];
@@ -482,7 +478,6 @@ lookup AlternateSubstitution1 {
     sub uni3052 from [uni3052.hori uni3052.half uni3052.ruby uni3052.vert];
     sub uni3096 from [uni3096.hori uni3096.ruby uni3096.vert];
     sub uni3053 from [uni3053.hori uni3053.half uni3053.paren uni3053.circled uni3053.blackCircled uni3053.box uni3053.blackBox uni3053.roundBox uni3053.roundBlackBox uni3053.ruby uni3053.vert];
-    sub kosmallhira from [kosmallhira.hori kosmallhira.vert];
     sub uni3054 from [uni3054.hori uni3054.half uni3054.ruby uni3054.vert];
     sub uni3055 from [uni3055.hori uni3055.half uni3055.paren uni3055.circled uni3055.blackCircled uni3055.box uni3055.blackBox uni3055.roundBox uni3055.roundBlackBox uni3055.ruby uni3055.vert];
     sub uni3056 from [uni3056.hori uni3056.half uni3056.ruby uni3056.vert];
@@ -569,7 +564,6 @@ lookup AlternateSubstitution1 {
     sub uni30F6 from [uni30F6.hori uni30F6.half uni30F6.ruby uni30F6.vert];
     sub uni30B2 from [uni30B2.hori uni30B2.half uni30B2.ruby uni30B2.vert];
     sub uni30B3 from [uni30B3.hori uniFF7A uni30B3.paren uni30B3FE5A.vert uni32D9 uni30B3.blackCircled uni30B3.box uni30B3.blackBox uni30B3.roundBox uni30B3.roundBlackBox uni30B3.ruby uni30B3.vert];
-    sub kosmallkata from [kosmallkata.hori kosmallkata.vert];
     sub uni30B4 from [uni30B4.hori uni30B4.half uni30B4.ruby uni30B4.vert];
     sub uni30B5 from [uni30B5.hori uniFF7B uni30B5.paren uni32DA uni30B5.blackCircled u1F202 uni30B5.blackBox uni30B5.roundBox uni30B5.roundBlackBox uni30B5.ruby uni30B5.vert];
     sub uni30B6 from [uni30B6.hori uni30B6.half uni30B6.ruby uni30B6.vert];
@@ -839,7 +833,6 @@ lookup AlternateSubstitution1 {
     sub uni3049.vert from [uni3049.ruby.vert uni3049.vert.001];
     sub uni3095.vert from [uni3095.ruby.vert uni3095.vert.001];
     sub uni3096.vert from [uni3096.ruby.vert uni3096.vert.001];
-    sub kosmallhira.vert from [kosmallhira.vert.001];
     sub uni3063.vert from [uni3063.ruby.vert uni3063.vert.001];
     sub uni3083.vert from [uni3083.ruby.vert uni3083.vert.001];
     sub uni3085.vert from [uni3085.ruby.vert uni3085.vert.001];
@@ -852,20 +845,11 @@ lookup AlternateSubstitution1 {
     sub uni30A9.vert from [uni30A9.ruby.vert uni30A9.vert.001];
     sub uni30F5.vert from [uni30F5.ruby.vert uni30F5.vert.001];
     sub uni30F6.vert from [uni30F6.ruby.vert uni30F6.vert.001];
-    sub kosmallkata.vert from [kosmallkata.vert.001];
     sub uni30C3.vert from [uni30C3.ruby.vert uni30C3.vert.001];
     sub uni30E3.vert from [uni30E3.ruby.vert uni30E3.vert.001];
     sub uni30E5.vert from [uni30E5.ruby.vert uni30E5.vert.001];
     sub uni30E7.vert from [uni30E7.ruby.vert uni30E7.vert.001];
     sub uni30EE.vert from [uni30EE.ruby.vert uni30EE.vert.001];
-    sub uni30A2_prolongedkata_uni30EB from [uni30A2_prolongedkata_uni30EB.vert];
-    sub uni30BB30F330C1 from [uni30BB30F330C1.vert];
-    sub uni21692162 from [uni21692162.paren];
-    sub uni21692163 from [uni21692163.paren];
-    sub uni21692164 from [uni21692164.paren];
-    sub uni21792172 from [uni21792172.paren];
-    sub uni21792173 from [uni21792173.paren];
-    sub uni21792174 from [uni21792174.paren];
     sub uni2160 from [uni2160.paren];
     sub uni2161 from [uni2161.paren];
     sub uni2162 from [uni2162.paren];
@@ -922,16 +906,6 @@ lookup AlternateSubstitution1 {
     sub seven.italic from [uni2087.italic uni2077.italic seven.qartwidth seven.thirdwidths];
     sub eight.italic from [uni2088.italic uni2078.italic eight.qartwidth eight.thirdwidths];
     sub nine.italic from [uni2089.italic uni2079.italic nine.qartwidth nine.thirdwidths];
-    sub zero.narrow from [zero.qartwidth uni2080 uni2070 zero.thirdwidths zero.zero.narrow];
-    sub one.narrow from [one.qartwidth uni2081 uni00B9 one.thirdwidths];
-    sub two.narrow from [two.qartwidth uni2082 uni00B2 two.thirdwidths];
-    sub three.narrow from [three.qartwidth uni2083 uni00B3 three.thirdwidths];
-    sub four.narrow from [four.qartwidth uni2084 uni2074 four.thirdwidths];
-    sub five.narrow from [five.qartwidth uni2085 uni2075 five.thirdwidths];
-    sub six.narrow from [six.qartwidth uni2086 uni2076 six.thirdwidths];
-    sub seven.narrow from [seven.qartwidth uni2087 uni2077 seven.thirdwidths];
-    sub eight.narrow from [eight.qartwidth uni2088 uni2078 eight.thirdwidths];
-    sub nine.narrow from [nine.qartwidth uni2089 uni2079 nine.thirdwidths];
     sub zero.qartwidth from [zero.half zero.thirdwidths];
     sub one.qartwidth from [one.half one.thirdwidths];
     sub two.qartwidth from [two.half two.thirdwidths];
@@ -1058,17 +1032,16 @@ lookup AlternateSubstitution1 {
     sub bullet.thirdwidths from [uniFF65];
     sub slash.thirdwidths from [slash.half slash.qartwidth];
     sub uniFF3F from [underscore.half underscore uniFE33];
-    sub uni00AD from [uniFF0D endash.half minus.italic uni2296];
     sub emdash from [uni2015 endash.half emdash.italic emdash.qartwidth emdash.thirdwidths uniFE31];
     sub endash from [uni2015 endash.half endash.italic emdash.qartwidth emdash.thirdwidths];
     sub uni2015 from [uni2015.half emdash emdash.qartwidth emdash.thirdwidths uniFE31];
     sub uni2E3A from [uni2E3A.vert];
     sub uni301C from [asciitilde.half asciitilde uniFF5E.vert];
     sub hyphen.half from [uni2010 hyphen hyphen.qartwidth hyphen.thirdwidths];
-    sub endash.half from [uniFF0D uni00AD];
+    sub endash.half from [uniFF0D];
     sub uni2015.half from [uni2015];
     sub underscore.half from [uniFF3F underscore];
-    sub uniFF0D from [endash.half uni2296 uni00AD];
+    sub uniFF0D from [endash.half uni2296];
     sub hyphen.italic from [hyphen.qartwidth hyphen.thirdwidths];
     sub endash.italic from [emdash.qartwidth emdash.thirdwidths];
     sub emdash.italic from [emdash.qartwidth emdash.thirdwidths];
@@ -1258,7 +1231,6 @@ lookup AlternateSubstitution1 {
     sub uni334E from [uni334E.vert];
     sub uni334F from [uni334F.vert];
     sub uni3350 from [uni3350.vert];
-    sub uni3318.alt from [uni3318.alt.vert];
     sub uniFF3E from [asciicircum.half circumflex];
     sub uniFF40 from [grave.half grave];
     sub uniFFE3 from [macron.half uni0305 uniFFE3.vert];
@@ -1576,39 +1548,28 @@ lookup AlternateSubstitution1 {
     sub goomei from [goomei.vert];
     sub gooshi from [gooshi.vert];
     sub gusuumu from [gusuumu.vert];
-    sub haitsu from [haitsu.vert];
     sub hekutoleftjust from [hekutoleftjust.vert];
     sub hekutopasukaru from [hekutopasukaru.vert];
-    sub herutsu from [herutsu.vert];
-    sub hoon from [hoon.vert];
-    sub inchi from [inchi.vert];
     sub iryoo from [iryoo.vert];
     sub kappuleftjust from [kappuleftjust.vert];
     sub kirorittoru from [kirorittoru.vert];
-    sub koopo from [koopo.vert];
     sub kuruzaado from [kuruzaado.vert];
     sub kyoodoo from [kyoodoo.vert];
     sub kyoodoo2 from [kyoodoo2.vert];
     sub ongusutoroomu from [ongusutoroomu.vert];
     sub ontoro from [ontoro.vert];
     sub pasukaru from [pasukaru.vert];
-    sub peeji from [peeji.vert];
     sub pesetaleftjust from [pesetaleftjust.vert];
     sub peta from [peta.vert];
     sub quotedblsharpleft from [quotedblsharpleft.half uni301D.full.vert];
-    sub quotesharpleft from [quotesharpleft.vert];
-    sub quotesharpright from [quotesharpright.vert];
     sub rado from [rado.vert];
     sub rukusuleftjust from [rukusuleftjust.vert];
     sub rupialeftjust from [rupialeftjust.vert];
     sub saji from [saji.vert];
-    sub sento from [sento.vert];
     sub shadan from [shadan.vert];
     sub shuukyoo from [shuukyoo.vert];
     sub tera from [tera.vert];
     sub urushileftjust from [urushileftjust.vert];
-    sub watto from [watto.vert];
-    sub yaado from [yaado.vert];
     sub yuubin from [yuubin.vert];
     sub yuugen from [yuugen.vert];
     sub yuuroleftjust from [yuuroleftjust.vert];
@@ -2815,7 +2776,6 @@ lookup SingleSubstitution7 {
     sub numbersign.half by uniFF03;
     sub slash.half by uniFF0F;
     sub backslash.half by uniFF3C;
-    sub uni00AD by uniFF0D;
     sub emdash by uni2015;
     sub endash by uni2015;
     sub hyphen.half by uni2010;
@@ -3025,7 +2985,6 @@ lookup SingleSubstitution8 {
     sub uni3052 by uni3052.hori;
     sub uni3096 by uni3096.hori;
     sub uni3053 by uni3053.hori;
-    sub kosmallhira by kosmallhira.hori;
     sub uni3054 by uni3054.hori;
     sub uni3055 by uni3055.hori;
     sub uni3056 by uni3056.hori;
@@ -3112,7 +3071,6 @@ lookup SingleSubstitution8 {
     sub uni30F6 by uni30F6.hori;
     sub uni30B2 by uni30B2.hori;
     sub uni30B3 by uni30B3.hori;
-    sub kosmallkata by kosmallkata.hori;
     sub uni30B4 by uni30B4.hori;
     sub uni30B5 by uni30B5.hori;
     sub uni30B6 by uni30B6.hori;
@@ -3611,7 +3569,6 @@ lookup SingleSubstitution9 {
     sub bullet.thirdwidths by uniFF65;
     sub slash.thirdwidths by slash.half;
     sub uniFF3F by underscore.half;
-    sub uni00AD by endash.half;
     sub emdash by endash.half;
     sub endash by endash.half;
     sub uni2015 by uni2015.half;
@@ -3898,7 +3855,6 @@ lookup SingleSubstitution10 {
     sub AE by AE.italic;
     sub Ccedilla by Ccedilla.italic;
     sub Eth by Eth.italic;
-    sub E_ring by E_ring.italic;
     sub Eacute by Eacute.italic;
     sub Ecaron by Ecaron.italic;
     sub Ecircumflex by Ecircumflex.italic;
@@ -3906,7 +3862,6 @@ lookup SingleSubstitution10 {
     sub Egrave by Egrave.italic;
     sub Emacron by Emacron.italic;
     sub uni1EBC by uni1EBC.italic;
-    sub I_ring by I_ring.italic;
     sub Iacute by Iacute.italic;
     sub uni01CF by uni01CF.italic;
     sub Icircumflex by Icircumflex.italic;
@@ -3916,7 +3871,6 @@ lookup SingleSubstitution10 {
     sub Itilde by Itilde.italic;
     sub Lslash by Lslash.italic;
     sub Ntilde by Ntilde.italic;
-    sub O_ring by O_ring.italic;
     sub Oacute by Oacute.italic;
     sub uni01D1 by uni01D1.italic;
     sub Ocircumflex by Ocircumflex.italic;
@@ -3950,7 +3904,6 @@ lookup SingleSubstitution10 {
     sub ae by ae.italic;
     sub ccedilla by ccedilla.italic;
     sub eth by eth.italic;
-    sub e_ring by e_ring.italic;
     sub eacute by eacute.italic;
     sub ecaron by ecaron.italic;
     sub ecircumflex by ecircumflex.italic;
@@ -3959,7 +3912,6 @@ lookup SingleSubstitution10 {
     sub emacron by emacron.italic;
     sub uni1EBD by uni1EBD.italic;
     sub dotlessi by dotlessi.italic;
-    sub i_ring by i_ring.italic;
     sub iacute by iacute.italic;
     sub uni01D0 by uni01D0.italic;
     sub icircumflex by icircumflex.italic;
@@ -3969,7 +3921,6 @@ lookup SingleSubstitution10 {
     sub itilde by itilde.italic;
     sub lslash by lslash.italic;
     sub ntilde by ntilde.italic;
-    sub o_ring by o_ring.italic;
     sub oacute by oacute.italic;
     sub uni01D2 by uni01D2.italic;
     sub ocircumflex by ocircumflex.italic;
@@ -4033,7 +3984,6 @@ lookup SingleSubstitution10 {
     sub periodcentered by periodcentered.italic;
     sub bullet by bullet.italic;
     sub ellipsis.full by ellipsis.italic;
-    sub uni00AD by minus.italic;
     sub emdash by emdash.italic;
     sub endash by endash.italic;
     sub quotesinglbase by quotesinglbase.italic;
@@ -4154,12 +4104,6 @@ lookup SingleSubstitution12 {
     sub uni6B20 by uni6B20.circled;
     sub uni81EA by uni3242;
     sub uni81F3 by uni3243;
-    sub uni21692162 by uni21692162.paren;
-    sub uni21692163 by uni21692163.paren;
-    sub uni21692164 by uni21692164.paren;
-    sub uni21792172 by uni21792172.paren;
-    sub uni21792173 by uni21792173.paren;
-    sub uni21792174 by uni21792174.paren;
     sub uni2160 by uni2160.paren;
     sub uni2161 by uni2161.paren;
     sub uni2162 by uni2162.paren;
@@ -4186,7 +4130,6 @@ lookup SingleSubstitution12 {
     sub uni217B by uni217B.paren;
     sub slash.half by uni2298;
     sub uniFF0F by uni2298;
-    sub uni00AD by uni2296;
     sub uniFF0D by uni2296;
 } SingleSubstitution12;
 
@@ -4764,9 +4707,7 @@ lookup SingleSubstitution15 {
     sub uni2015 by emdash;
     sub uni301C by asciitilde;
     sub hyphen.half by hyphen;
-    sub endash.half by uni00AD;
     sub underscore.half by underscore;
-    sub uniFF0D by uni00AD;
     sub uni2010 by hyphen;
     sub angleleft by guilsinglleft;
     sub angleright by guilsinglright;
@@ -4901,16 +4842,6 @@ lookup SingleSubstitution16 {
     sub seven.italic by seven.qartwidth;
     sub eight.italic by eight.qartwidth;
     sub nine.italic by nine.qartwidth;
-    sub zero.narrow by zero.qartwidth;
-    sub one.narrow by one.qartwidth;
-    sub two.narrow by two.qartwidth;
-    sub three.narrow by three.qartwidth;
-    sub four.narrow by four.qartwidth;
-    sub five.narrow by five.qartwidth;
-    sub six.narrow by six.qartwidth;
-    sub seven.narrow by seven.qartwidth;
-    sub eight.narrow by eight.qartwidth;
-    sub nine.narrow by nine.qartwidth;
     sub zero.thirdwidths by zero.qartwidth;
     sub one.thirdwidths by one.qartwidth;
     sub two.thirdwidths by two.qartwidth;
@@ -5236,16 +5167,6 @@ lookup SingleSubstitution18 {
     sub seven.italic by uni2087.italic;
     sub eight.italic by uni2088.italic;
     sub nine.italic by uni2089.italic;
-    sub zero.narrow by uni2080;
-    sub one.narrow by uni2081;
-    sub two.narrow by uni2082;
-    sub three.narrow by uni2083;
-    sub four.narrow by uni2084;
-    sub five.narrow by uni2085;
-    sub six.narrow by uni2086;
-    sub seven.narrow by uni2087;
-    sub eight.narrow by uni2088;
-    sub nine.narrow by uni2089;
 } SingleSubstitution18;
 
 lookup SingleSubstitution19 {
@@ -5292,16 +5213,6 @@ lookup SingleSubstitution19 {
     sub seven.italic by uni2087.italic;
     sub eight.italic by uni2088.italic;
     sub nine.italic by uni2089.italic;
-    sub zero.narrow by uni2080;
-    sub one.narrow by uni2081;
-    sub two.narrow by uni2082;
-    sub three.narrow by uni2083;
-    sub four.narrow by uni2084;
-    sub five.narrow by uni2085;
-    sub six.narrow by uni2086;
-    sub seven.narrow by uni2087;
-    sub eight.narrow by uni2088;
-    sub nine.narrow by uni2089;
 } SingleSubstitution19;
 
 lookup SingleSubstitution20 {
@@ -5348,16 +5259,6 @@ lookup SingleSubstitution20 {
     sub seven.italic by uni2077.italic;
     sub eight.italic by uni2078.italic;
     sub nine.italic by uni2079.italic;
-    sub zero.narrow by uni2070;
-    sub one.narrow by uni00B9;
-    sub two.narrow by uni00B2;
-    sub three.narrow by uni00B3;
-    sub four.narrow by uni2074;
-    sub five.narrow by uni2075;
-    sub six.narrow by uni2076;
-    sub seven.narrow by uni2077;
-    sub eight.narrow by uni2078;
-    sub nine.narrow by uni2079;
 } SingleSubstitution20;
 
 lookup SingleSubstitution21 {
@@ -5413,16 +5314,6 @@ lookup SingleSubstitution21 {
     sub seven.italic by seven.thirdwidths;
     sub eight.italic by eight.thirdwidths;
     sub nine.italic by nine.thirdwidths;
-    sub zero.narrow by zero.thirdwidths;
-    sub one.narrow by one.thirdwidths;
-    sub two.narrow by two.thirdwidths;
-    sub three.narrow by three.thirdwidths;
-    sub four.narrow by four.thirdwidths;
-    sub five.narrow by five.thirdwidths;
-    sub six.narrow by six.thirdwidths;
-    sub seven.narrow by seven.thirdwidths;
-    sub eight.narrow by eight.thirdwidths;
-    sub nine.narrow by nine.thirdwidths;
     sub zero.qartwidth by zero.thirdwidths;
     sub one.qartwidth by one.thirdwidths;
     sub two.qartwidth by two.thirdwidths;
@@ -5494,7 +5385,6 @@ lookup SingleSubstitution22 {
     sub uni3049 by uni3049.vert;
     sub uni3095 by uni3095.vert;
     sub uni3096 by uni3096.vert;
-    sub kosmallhira by kosmallhira.vert;
     sub uni3063 by uni3063.vert;
     sub uni3083 by uni3083.vert;
     sub uni3085 by uni3085.vert;
@@ -5507,7 +5397,6 @@ lookup SingleSubstitution22 {
     sub uni30A9 by uni30A9.vert;
     sub uni30F5 by uni30F5.vert;
     sub uni30F6 by uni30F6.vert;
-    sub kosmallkata by kosmallkata.vert;
     sub uni30C3 by uni30C3.vert;
     sub uni30E3 by uni30E3.vert;
     sub uni30E5 by uni30E5.vert;
@@ -5537,8 +5426,6 @@ lookup SingleSubstitution22 {
     sub uni30E5.ruby by uni30E5.ruby.vert;
     sub uni30E7.ruby by uni30E7.ruby.vert;
     sub uni30EE.ruby by uni30EE.ruby.vert;
-    sub uni30A2_prolongedkata_uni30EB by uni30A2_prolongedkata_uni30EB.vert;
-    sub uni30BB30F330C1 by uni30BB30F330C1.vert;
     sub ellipsis by uni205D;
     sub uni2016 by uni2016.vert;
     sub twodotenleader by uni205A;
@@ -5679,7 +5566,6 @@ lookup SingleSubstitution22 {
     sub uni334E by uni334E.vert;
     sub uni334F by uni334F.vert;
     sub uni3350 by uni3350.vert;
-    sub uni3318.alt by uni3318.alt.vert;
     sub uniFFE3 by uniFFE3.vert;
     sub uni261C by uni261D;
     sub uni261D by uni261E;
@@ -5813,39 +5699,28 @@ lookup SingleSubstitution22 {
     sub goomei by goomei.vert;
     sub gooshi by gooshi.vert;
     sub gusuumu by gusuumu.vert;
-    sub haitsu by haitsu.vert;
     sub hekutoleftjust by hekutoleftjust.vert;
     sub hekutopasukaru by hekutopasukaru.vert;
-    sub herutsu by herutsu.vert;
-    sub hoon by hoon.vert;
-    sub inchi by inchi.vert;
     sub iryoo by iryoo.vert;
     sub kappuleftjust by kappuleftjust.vert;
     sub kirorittoru by kirorittoru.vert;
-    sub koopo by koopo.vert;
     sub kuruzaado by kuruzaado.vert;
     sub kyoodoo by kyoodoo.vert;
     sub kyoodoo2 by kyoodoo2.vert;
     sub ongusutoroomu by ongusutoroomu.vert;
     sub ontoro by ontoro.vert;
     sub pasukaru by pasukaru.vert;
-    sub peeji by peeji.vert;
     sub pesetaleftjust by pesetaleftjust.vert;
     sub peta by peta.vert;
     sub quotedblsharpleft by uni301D.full.vert;
-    sub quotesharpleft by quotesharpleft.vert;
-    sub quotesharpright by quotesharpright.vert;
     sub rado by rado.vert;
     sub rukusuleftjust by rukusuleftjust.vert;
     sub rupialeftjust by rupialeftjust.vert;
     sub saji by saji.vert;
-    sub sento by sento.vert;
     sub shadan by shadan.vert;
     sub shuukyoo by shuukyoo.vert;
     sub tera by tera.vert;
     sub urushileftjust by urushileftjust.vert;
-    sub watto by watto.vert;
-    sub yaado by yaado.vert;
     sub yuubin by yuubin.vert;
     sub yuugen by yuugen.vert;
     sub yuuroleftjust by yuuroleftjust.vert;
@@ -6017,7 +5892,6 @@ lookup SingleSubstitution23 {
     sub uni3049.vert by uni3049.vert.001;
     sub uni3095.vert by uni3095.vert.001;
     sub uni3096.vert by uni3096.vert.001;
-    sub kosmallhira.vert by kosmallhira.vert.001;
     sub uni3063.vert by uni3063.vert.001;
     sub uni3083.vert by uni3083.vert.001;
     sub uni3085.vert by uni3085.vert.001;
@@ -6030,7 +5904,6 @@ lookup SingleSubstitution23 {
     sub uni30A9.vert by uni30A9.vert.001;
     sub uni30F5.vert by uni30F5.vert.001;
     sub uni30F6.vert by uni30F6.vert.001;
-    sub kosmallkata.vert by kosmallkata.vert.001;
     sub uni30C3.vert by uni30C3.vert.001;
     sub uni30E3.vert by uni30E3.vert.001;
     sub uni30E5.vert by uni30E5.vert.001;
@@ -6051,7 +5924,6 @@ lookup SingleSubstitution24 {
     sub uniFF10 by zero.zero.full;
     sub zero.half by zero.zero.half;
     sub zero.italic by zero.zero.italic;
-    sub zero.narrow by zero.zero.narrow;
 } SingleSubstitution24;
 
 lookup SingleSubstitution28 {
@@ -6090,7 +5962,7 @@ lookup SingleSubstitution27 {
 lookup SinglePositioning1 {
     lookupflag 0;
     ;
-    pos [eight.narrow five.narrow four.narrow nine.narrow one.narrow seven.narrow six.narrow three.narrow two.narrow uni3001 uni3002 uni30FB uniFF01 uniFF0C uniFF1A uniFF1B zero.narrow zero.zero.narrow] <-250 0 -500 0>;
+    pos [uni3001 uni3002 uni30FB uniFF01 uniFF0C uniFF1A uniFF1B] <-250 0 -500 0>;
     pos uniFF0E -500;
     pos uniFF5F <-500 0 -500 0>;
     pos uniFF60 -500;
@@ -6129,8 +6001,6 @@ lookup SinglePositioning1 {
     pos minute.full -500;
     pos second.full -500;
     pos quotedblsharpleft <-500 0 -500 0>;
-    pos quotesharpleft <-500 0 -500 0>;
-    pos quotesharpright -500;
     pos bracketdblleft.full <-500 0 -500 0>;
     pos bracketdblright.full -500;
 } SinglePositioning1;
@@ -6213,7 +6083,6 @@ lookup SinglePositioning2 {
     pos uni3052 <-100 0 -120 0>;
     pos uni3096 <-130 0 -310 0>;
     pos uni3053 <-120 0 -210 0>;
-    pos kosmallhira <-180 0 -340 0>;
     pos uni3054 <-120 0 -190 0>;
     pos uni3055 <-50 0 -130 0>;
     pos uni3056 <-50 0 -80 0>;
@@ -6299,7 +6168,6 @@ lookup SinglePositioning2 {
     pos uni30F6 <-160 0 -320 0>;
     pos uni30B2 <-20 0 -20 0>;
     pos uni30B3 <-80 0 -130 0>;
-    pos kosmallkata <-150 0 -250 0>;
     pos uni30B4 <-80 0 -110 0>;
     pos uni30B5 -30;
     pos uni30B7 <-40 0 -70 0>;
@@ -6388,7 +6256,6 @@ lookup SinglePositioning2 {
     pos uni3052.hori <-100 0 -120 0>;
     pos uni3096.hori <-130 0 -310 0>;
     pos uni3053.hori <-120 0 -210 0>;
-    pos kosmallhira.hori <-180 0 -340 0>;
     pos uni3054.hori <-120 0 -190 0>;
     pos uni3055.hori <-50 0 -130 0>;
     pos uni3056.hori <-50 0 -80 0>;
@@ -6474,7 +6341,6 @@ lookup SinglePositioning2 {
     pos uni30F6.hori <-160 0 -320 0>;
     pos uni30B2.hori <-20 0 -20 0>;
     pos uni30B3.hori <-80 0 -130 0>;
-    pos kosmallkata.hori <-150 0 -250 0>;
     pos uni30B4.hori <-80 0 -110 0>;
     pos uni30B5.hori -30;
     pos uni30B7.hori <-40 0 -70 0>;
@@ -6761,8 +6627,6 @@ lookup SinglePositioning2 {
     pos uni30FE.vert <-230 0 -360 0>;
     pos uni30FD.vert.001 <-230 0 -450 0>;
     pos quotedblsharpleft <-500 0 -500 0>;
-    pos quotesharpleft <-500 0 -500 0>;
-    pos quotesharpright -500;
     pos bracketdblleft.full <-500 0 -500 0>;
     pos bracketdblright.full -500;
 } SinglePositioning2;
@@ -6808,13 +6672,6 @@ lookup SinglePositioning3 {
     pos degree.full.vert <0 500 0 -500>;
     pos minute.full.vert <0 500 0 -500>;
     pos second.full.vert <0 500 0 -500>;
-    pos quotebottomleft <0 0 0 -500>;
-    pos quotebottomright <0 0 0 -500>;
-    pos quotedblbottomleft <0 0 0 -500>;
-    pos quotedblbottomright <0 0 0 -500>;
-    pos quotedbltopleft <0 500 0 -500>;
-    pos quotetopleft <0 500 0 -500>;
-    pos quotetopright <0 500 0 -500>;
     pos quotesharpleft.vert <0 500 0 -500>;
     pos quotesharpright.vert <0 0 0 -500>;
     pos bracketdblleft.full.vert <0 500 0 -500>;
@@ -7209,7 +7066,6 @@ lookup SinglePositioning4 {
     pos uni3052.vert <0 10 0 -10>;
     pos uni3096.vert <0 150 0 -240>;
     pos uni3053.vert <0 150 0 -200>;
-    pos kosmallhira.vert <0 200 0 -340>;
     pos uni3054.vert <0 90 0 -140>;
     pos uni3055.vert <0 80 0 -80>;
     pos uni3057.vert <0 120 0 -120>;
@@ -7295,7 +7151,6 @@ lookup SinglePositioning4 {
     pos uni30F6.vert <0 160 0 -270>;
     pos uni30B2.vert <0 10 0 -50>;
     pos uni30B3.vert <0 200 0 -270>;
-    pos kosmallkata.vert <0 250 0 -380>;
     pos uni30B4.vert <0 110 0 -180>;
     pos uni30B5.vert <0 60 0 -60>;
     pos uni30B6.vert <0 50 0 -50>;
@@ -7373,7 +7228,6 @@ lookup SinglePositioning4 {
     pos uni3049.vert.001 <0 180 0 -280>;
     pos uni3095.vert.001 <0 170 0 -280>;
     pos uni3096.vert.001 <0 150 0 -240>;
-    pos kosmallhira.vert.001 <0 200 0 -340>;
     pos uni3063.vert.001 <0 220 0 -340>;
     pos uni3083.vert.001 <0 170 0 -240>;
     pos uni3085.vert.001 <0 150 0 -210>;
@@ -7386,7 +7240,6 @@ lookup SinglePositioning4 {
     pos uni30A9.vert.001 <0 160 0 -230>;
     pos uni30F5.vert.001 <0 140 0 -210>;
     pos uni30F6.vert.001 <0 160 0 -270>;
-    pos kosmallkata.vert.001 <0 250 0 -380>;
     pos uni30C3.vert.001 <0 220 0 -320>;
     pos uni30E3.vert.001 <0 180 0 -240>;
     pos uni30E5.vert.001 <0 280 0 -420>;
@@ -7458,13 +7311,6 @@ lookup SinglePositioning4 {
     pos uni30FE.vert <0 170 0 -380>;
     pos uni30FC.hori.vert <0 90 0 -110>;
     pos uni30FD.vert.001 <0 260 0 -470>;
-    pos quotebottomleft <0 0 0 -500>;
-    pos quotebottomright <0 0 0 -500>;
-    pos quotedblbottomleft <0 0 0 -500>;
-    pos quotedblbottomright <0 0 0 -500>;
-    pos quotedbltopleft <0 500 0 -500>;
-    pos quotetopleft <0 500 0 -500>;
-    pos quotetopright <0 500 0 -500>;
     pos quotesharpleft.vert <0 500 0 -500>;
     pos quotesharpright.vert <0 0 0 -500>;
     pos bracketdblleft.full.vert <0 500 0 -500>;
@@ -9150,13 +8996,13 @@ lookup PairPositioning6 {
     pos quoteleft.italic i.italic 20;
     pos quoteleft.italic j.italic 20;
     pos quoteleft.italic t.italic 20;
-    pos braceleft [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] 20;
-    pos braceleft [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
-    pos bracketleft [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] 20;
-    pos bracketleft [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
-    pos parenleft [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
-    pos quotedblleft [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] 20;
-    pos quotedblleft [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
+    pos braceleft [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] 20;
+    pos braceleft [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
+    pos bracketleft [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] 20;
+    pos bracketleft [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
+    pos parenleft [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
+    pos quotedblleft [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] 20;
+    pos quotedblleft [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
     pos quotedblleft [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -20;
 } PairPositioning6;
 
@@ -9430,7 +9276,6 @@ lookup PairPositioning7 {
     pos L.italic C.italic -20;
     pos L.italic G.italic -20;
     pos L.italic O.italic -20;
-    pos L.italic O_ring.italic -20;
     pos L.italic Oacute.italic -20;
     pos L.italic uni01D1.italic -20;
     pos L.italic Ocircumflex.italic -20;
@@ -9456,7 +9301,6 @@ lookup PairPositioning7 {
     pos L.italic hyphen.italic -20;
     pos L.italic quotedblright.italic -20;
     pos L.italic quoteright.italic -20;
-    pos Lslash.italic O_ring.italic -20;
     pos Lslash.italic Oacute.italic -20;
     pos Lslash.italic uni01D1.italic -20;
     pos Lslash.italic Ocircumflex.italic -20;
@@ -9477,8 +9321,6 @@ lookup PairPositioning7 {
     pos O.italic Y.italic -20;
     pos O.italic Yacute.italic -20;
     pos O.italic Ydieresis.italic -20;
-    pos O_ring.italic Yacute.italic -20;
-    pos O_ring.italic Ydieresis.italic -20;
     pos Oacute.italic Yacute.italic -20;
     pos Oacute.italic Ydieresis.italic -20;
     pos uni01D1.italic Yacute.italic -20;
@@ -9641,7 +9483,6 @@ lookup PairPositioning7 {
     pos Y.italic C.italic -20;
     pos Y.italic G.italic -20;
     pos Y.italic O.italic -20;
-    pos Y.italic O_ring.italic -20;
     pos Y.italic Oacute.italic -20;
     pos Y.italic uni01D1.italic -20;
     pos Y.italic Ocircumflex.italic -20;
@@ -9661,7 +9502,6 @@ lookup PairPositioning7 {
     pos Y.italic atilde.italic -50;
     pos Y.italic d.italic -50;
     pos Y.italic e.italic -50;
-    pos Y.italic e_ring.italic -50;
     pos Y.italic eacute.italic -50;
     pos Y.italic ecaron.italic -50;
     pos Y.italic ecircumflex.italic -50;
@@ -9669,7 +9509,6 @@ lookup PairPositioning7 {
     pos Y.italic egrave.italic -50;
     pos Y.italic emacron.italic -50;
     pos Y.italic uni1EBD.italic -50;
-    pos Y.italic i_ring.italic 40;
     pos Y.italic iacute.italic 20;
     pos Y.italic uni01D0.italic 40;
     pos Y.italic icircumflex.italic 40;
@@ -9678,7 +9517,6 @@ lookup PairPositioning7 {
     pos Y.italic imacron.italic 40;
     pos Y.italic itilde.italic 40;
     pos Y.italic o.italic -50;
-    pos Y.italic o_ring.italic -50;
     pos Y.italic oacute.italic -50;
     pos Y.italic uni01D2.italic -50;
     pos Y.italic ocircumflex.italic -50;
@@ -9706,7 +9544,6 @@ lookup PairPositioning7 {
     pos Yacute.italic Amacron.italic -20;
     pos Yacute.italic Aring.italic -20;
     pos Yacute.italic Atilde.italic -20;
-    pos Yacute.italic O_ring.italic -20;
     pos Yacute.italic Oacute.italic -20;
     pos Yacute.italic uni01D1.italic -20;
     pos Yacute.italic Ocircumflex.italic -20;
@@ -9722,7 +9559,6 @@ lookup PairPositioning7 {
     pos Yacute.italic amacron.italic -50;
     pos Yacute.italic aring.italic -50;
     pos Yacute.italic atilde.italic -50;
-    pos Yacute.italic e_ring.italic -50;
     pos Yacute.italic eacute.italic -50;
     pos Yacute.italic ecaron.italic -50;
     pos Yacute.italic ecircumflex.italic -50;
@@ -9730,7 +9566,6 @@ lookup PairPositioning7 {
     pos Yacute.italic egrave.italic -50;
     pos Yacute.italic emacron.italic -50;
     pos Yacute.italic uni1EBD.italic -50;
-    pos Yacute.italic i_ring.italic 40;
     pos Yacute.italic iacute.italic 20;
     pos Yacute.italic uni01D0.italic 40;
     pos Yacute.italic icircumflex.italic 40;
@@ -9738,7 +9573,6 @@ lookup PairPositioning7 {
     pos Yacute.italic igrave.italic 20;
     pos Yacute.italic imacron.italic 40;
     pos Yacute.italic itilde.italic 40;
-    pos Yacute.italic o_ring.italic -50;
     pos Yacute.italic oacute.italic -50;
     pos Yacute.italic uni01D2.italic -50;
     pos Yacute.italic ocircumflex.italic -50;
@@ -9762,7 +9596,6 @@ lookup PairPositioning7 {
     pos Ydieresis.italic Amacron.italic -20;
     pos Ydieresis.italic Aring.italic -20;
     pos Ydieresis.italic Atilde.italic -20;
-    pos Ydieresis.italic O_ring.italic -20;
     pos Ydieresis.italic Oacute.italic -20;
     pos Ydieresis.italic uni01D1.italic -20;
     pos Ydieresis.italic Ocircumflex.italic -20;
@@ -9778,7 +9611,6 @@ lookup PairPositioning7 {
     pos Ydieresis.italic amacron.italic -50;
     pos Ydieresis.italic aring.italic -50;
     pos Ydieresis.italic atilde.italic -50;
-    pos Ydieresis.italic e_ring.italic -50;
     pos Ydieresis.italic eacute.italic -50;
     pos Ydieresis.italic ecaron.italic -50;
     pos Ydieresis.italic ecircumflex.italic -50;
@@ -9786,7 +9618,6 @@ lookup PairPositioning7 {
     pos Ydieresis.italic egrave.italic -50;
     pos Ydieresis.italic emacron.italic -50;
     pos Ydieresis.italic uni1EBD.italic -50;
-    pos Ydieresis.italic i_ring.italic 40;
     pos Ydieresis.italic iacute.italic 20;
     pos Ydieresis.italic uni01D0.italic 40;
     pos Ydieresis.italic icircumflex.italic 40;
@@ -9794,7 +9625,6 @@ lookup PairPositioning7 {
     pos Ydieresis.italic igrave.italic 20;
     pos Ydieresis.italic imacron.italic 40;
     pos Ydieresis.italic itilde.italic 40;
-    pos Ydieresis.italic o_ring.italic -50;
     pos Ydieresis.italic oacute.italic -50;
     pos Ydieresis.italic uni01D2.italic -50;
     pos Ydieresis.italic ocircumflex.italic -50;
@@ -9875,77 +9705,77 @@ lookup PairPositioning7 {
     pos [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] Ydieresis -30;
     pos [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] quotedblright -20;
     pos [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] uni02BC -20;
-    pos [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] quotedblright 20;
-    pos [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] braceright 20;
-    pos [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] bracketright 20;
-    pos [I I_ring Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] parenright 20;
-    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] Y -10;
-    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] Yacute -10;
-    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] Ydieresis -10;
-    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] comma -20;
-    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] period -20;
+    pos [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] quotedblright 20;
+    pos [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] braceright 20;
+    pos [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] bracketright 20;
+    pos [I Iacute Ibreve Icircumflex Idieresis Igrave Imacron Itilde uni0049030B uni0049030D uni0197 uni01CF] parenright 20;
+    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] Y -10;
+    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] Yacute -10;
+    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] Ydieresis -10;
+    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] comma -20;
+    pos [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] period -20;
     pos [U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uring Utilde uni0055030D uni01D3 uni0244] comma -30;
     pos [U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uring Utilde uni0055030D uni01D3 uni0244] period -30;
     pos F [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -20;
     pos F [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -20;
-    pos F [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -20;
-    pos F [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -20;
+    pos F [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -20;
+    pos F [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -20;
     pos K [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] 30;
     pos P [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -30;
     pos P [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -60;
-    pos P [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -60;
-    pos P [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -60;
+    pos P [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -60;
+    pos P [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -60;
     pos P [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0075030D uni01D4 uni0289 utilde] -20;
     pos Q [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] 30;
     pos T [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -20;
     pos T [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -40;
-    pos T [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -40;
-    pos T [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -40;
+    pos T [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -40;
+    pos T [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -40;
     pos T [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0075030D uni01D4 uni0289 utilde] -20;
     pos V [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -20;
     pos V [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -40;
-    pos V [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -40;
-    pos V [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -40;
+    pos V [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -40;
+    pos V [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -40;
     pos V [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0075030D uni01D4 uni0289 utilde] -20;
-    pos V [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 40;
+    pos V [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 40;
     pos W [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -30;
-    pos W [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -30;
-    pos W [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -30;
-    pos W [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 15;
+    pos W [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -30;
+    pos W [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -30;
+    pos W [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 15;
     pos Y [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -30;
     pos Y [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -70;
-    pos Y [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -70;
-    pos Y [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -70;
+    pos Y [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -70;
+    pos Y [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -70;
     pos Y [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0075030D uni01D4 uni0289 utilde] -30;
-    pos Y [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
-    pos Y [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] -20;
+    pos Y [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
+    pos Y [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] -20;
     pos Yacute [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -30;
     pos Yacute [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -70;
-    pos Yacute [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -70;
-    pos Yacute [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -70;
+    pos Yacute [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -70;
+    pos Yacute [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -70;
     pos Yacute [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0075030D uni01D4 uni0289 utilde] -30;
-    pos Yacute [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 40;
-    pos Yacute [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] -20;
+    pos Yacute [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 40;
+    pos Yacute [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] -20;
     pos Ydieresis [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -30;
     pos Ydieresis [a aacute abreve acircumflex adieresis agrave amacron aring atilde uni0061030B uni0061030D uni01CE] -70;
-    pos Ydieresis [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -70;
-    pos Ydieresis [o o_ring oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -70;
+    pos Ydieresis [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] -70;
+    pos Ydieresis [o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oopoj oopoj_acutecomb oopoj_gravecomb oopoj_uni0302 oopoj_uni0304 oopoj_uni0306 oopoj_uni030B oopoj_uni030C oopoj_uni030D otilde uni006F030D uni01D2 uni0275] -70;
     pos Ydieresis [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0075030D uni01D4 uni0289 utilde] -30;
-    pos Ydieresis [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 40;
-    pos Ydieresis [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D O_ring Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] -20;
+    pos Ydieresis [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 40;
+    pos Ydieresis [O OOpoj OOpoj_acutecomb OOpoj_gravecomb OOpoj_uni0302 OOpoj_uni0304 OOpoj_uni0306 OOpoj_uni030B OOpoj_uni030C OOpoj_uni030D Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde uni004F030D uni01D1] -20;
     pos Z [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] 20;
     pos Zcaron [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] 20;
-    pos [e e_ring eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] j -10;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] V 25;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] Y 20;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] quotedblright 20;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] uni02BC 20;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] braceright 20;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] bracketright 20;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] parenright 20;
-    pos [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] W 25;
+    pos [e eacute ebreve ecaron ecircumflex edieresis egrave emacron uni0065030B uni0065030D uni1EBD] j -10;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] V 25;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] Y 20;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] quotedblright 20;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] uni02BC 20;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] braceright 20;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] bracketright 20;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] parenright 20;
+    pos [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] W 25;
     pos uni02BB [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde uni0041030B uni0041030D uni01CD] -20;
-    pos uni02BB [dotlessi i i_hungarumlautcomb i_ring i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
+    pos uni02BB [dotlessi i i_hungarumlautcomb i_verticallineabovecomb iacute ibreve icircumflex idieresis igrave imacron itilde uni01D0 uni0268] 20;
 } PairPositioning7;
 
 lookup PairPositioning8 {
@@ -14106,7 +13936,7 @@ lookup MarkToBase10 {
             <anchor 354 653> mark @Anchor11__Anchor11;
         pos base [E uni0045030B uni0045030D Ebreve uni1EC0]
             <anchor 334 653> mark @Anchor11__Anchor11;
-        pos base [I uni0049030B uni0049030D I_ring Iacute Ibreve uni01CF Icircumflex Igrave Imacron uni0197 Itilde]
+        pos base [I uni0049030B uni0049030D Iacute Ibreve uni01CF Icircumflex Igrave Imacron uni0197 Itilde]
             <anchor 184 652> mark @Anchor11__Anchor11;
         pos base [M M_gravecomb uni004D030B uni004D0302 uni004D030C uni004D0306 uni004D0304 uni004D030D uni1E3E]
             <anchor 414 653> mark @Anchor11__Anchor11;
@@ -14134,16 +13964,13 @@ lookup MarkToBase10 {
             <anchor 239 486> mark @Anchor11__Anchor11;
         pos base [Ecircumflex uni00CA030C uni00CA0304 uni1EBE]
             <anchor 334 823> mark @Anchor11__Anchor11;
-        pos base Idieresis
-            <anchor 184 804> mark @Anchor11__Anchor11;
+        
         pos base [uni01D7 uni01D9 uni01DB uni01D5]
             <anchor 355 805> mark @Anchor11__Anchor11;
         pos base [i_verticallineabovecomb dotlessi i_hungarumlautcomb ibreve]
             <anchor 133 484> mark @Anchor11__Anchor11;
-        pos base uniFF29
-            <anchor 495 652> mark @Anchor11__Anchor11;
-        pos base I.half
-            <anchor 246 652> mark @Anchor11__Anchor11;
+        
+        
         pos base [ecircumflex uni00EA030C uni00EA0304]
             <anchor 284 653> mark @Anchor11__Anchor11;
         pos base [uni01D8 uni01DA uni01DC uni01D6]
@@ -14162,19 +13989,10 @@ lookup MarkToMark13 {
     lookupflag UseMarkFilteringSet @markFilteringSet1;
     ;
     # Original source: 10 
-            pos mark [uni0308 dieresis]
+            pos mark [uni0308]
             <anchor 249 623> mark @Anchor14_Anchor14_;
 
 } MarkToMark13;
-
-feature aalt {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup AlternateSubstitution1;
-
-} aalt;
 
 feature afrc {
     script DFLT;
@@ -14182,7 +14000,6 @@ feature afrc {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution2;
-
 } afrc;
 
 feature ccmp {
@@ -14191,7 +14008,6 @@ feature ccmp {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution3;
-
 } ccmp;
 
 feature dlig {
@@ -14200,7 +14016,6 @@ feature dlig {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution4;
-
 } dlig;
 
 feature dnom {
@@ -14209,7 +14024,6 @@ feature dnom {
             script DFLT;
         language dflt;
         lookup SingleSubstitution5;
-
 } dnom;
 
 feature frac {
@@ -14218,7 +14032,6 @@ feature frac {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution6;
-
 } frac;
 
 feature fwid {
@@ -14227,7 +14040,6 @@ feature fwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution7;
-
 } fwid;
 
 feature hkna {
@@ -14236,7 +14048,6 @@ feature hkna {
             script DFLT;
         language dflt;
         lookup SingleSubstitution8;
-
 } hkna;
 
 feature hwid {
@@ -14245,7 +14056,6 @@ feature hwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution9;
-
 } hwid;
 
 feature ital {
@@ -14254,7 +14064,6 @@ feature ital {
             script DFLT;
         language dflt;
         lookup SingleSubstitution10;
-
 } ital;
 
 feature liga {
@@ -14263,25 +14072,11 @@ feature liga {
             script DFLT;
         language dflt;
         lookup LigatureSubstitution11;
-
 } liga;
 
 feature nalt {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup SingleSubstitution12;
-
-} nalt;
-
-feature nalt {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup AlternateSubstitution13;
-
+lookup AlternateSubstitution13;
+lookup SingleSubstitution12;
 } nalt;
 
 feature numr {
@@ -14290,25 +14085,11 @@ feature numr {
             script DFLT;
         language dflt;
         lookup SingleSubstitution14;
-
 } numr;
 
 feature ordn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup ChainedContextualGSUB25;
-
-} ordn;
-
-feature ordn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution26;
-
+lookup ChainedContextualGSUB25;
+lookup LigatureSubstitution26;
 } ordn;
 
 feature pwid {
@@ -14317,7 +14098,6 @@ feature pwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution15;
-
 } pwid;
 
 feature qwid {
@@ -14326,7 +14106,6 @@ feature qwid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution16;
-
 } qwid;
 
 feature ruby {
@@ -14335,7 +14114,6 @@ feature ruby {
             script DFLT;
         language dflt;
         lookup SingleSubstitution17;
-
 } ruby;
 
 feature salt {
@@ -14344,7 +14122,6 @@ feature salt {
             script DFLT;
         language dflt;
         lookup SingleSubstitution27;
-
 } salt;
 
 feature sinf {
@@ -14353,7 +14130,6 @@ feature sinf {
             script DFLT;
         language dflt;
         lookup SingleSubstitution18;
-
 } sinf;
 
 feature subs {
@@ -14362,7 +14138,6 @@ feature subs {
             script DFLT;
         language dflt;
         lookup SingleSubstitution19;
-
 } subs;
 
 feature sups {
@@ -14371,7 +14146,6 @@ feature sups {
             script DFLT;
         language dflt;
         lookup SingleSubstitution20;
-
 } sups;
 
 feature twid {
@@ -14380,7 +14154,6 @@ feature twid {
             script DFLT;
         language dflt;
         lookup SingleSubstitution21;
-
 } twid;
 
 feature vert {
@@ -14389,7 +14162,6 @@ feature vert {
             script DFLT;
         language dflt;
         lookup SingleSubstitution22;
-
 } vert;
 
 feature vkna {
@@ -14398,7 +14170,6 @@ feature vkna {
             script DFLT;
         language dflt;
         lookup SingleSubstitution23;
-
 } vkna;
 
 feature zero {
@@ -14407,7 +14178,6 @@ feature zero {
             script DFLT;
         language dflt;
         lookup SingleSubstitution24;
-
 } zero;
 
 feature halt {
@@ -14416,35 +14186,7 @@ feature halt {
             script DFLT;
         language dflt;
         lookup SinglePositioning1;
-
 } halt;
-
-feature kern {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning6;
-
-} kern;
-
-feature kern {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning7;
-
-} kern;
-
-feature kern {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning8;
-
-} kern;
 
 feature mark {
     script DFLT;
@@ -14452,7 +14194,6 @@ feature mark {
             script DFLT;
         language dflt;
         lookup MarkToBase10;
-
 } mark;
 
 feature mkmk {
@@ -14461,7 +14202,6 @@ feature mkmk {
             script DFLT;
         language dflt;
         lookup MarkToMark13;
-
 } mkmk;
 
 feature palt {
@@ -14470,7 +14210,6 @@ feature palt {
             script DFLT;
         language dflt;
         lookup SinglePositioning2;
-
 } palt;
 
 feature vhal {
@@ -14479,25 +14218,11 @@ feature vhal {
             script DFLT;
         language dflt;
         lookup SinglePositioning3;
-
 } vhal;
 
 feature vkrn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning5;
-
-} vkrn;
-
-feature vkrn {
-    script DFLT;
-    language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning9;
-
+lookup PairPositioning5;
+lookup PairPositioning9;
 } vkrn;
 
 feature vpal {
@@ -14506,5 +14231,5 @@ feature vpal {
             script DFLT;
         language dflt;
         lookup SinglePositioning4;
-
 } vpal;
+

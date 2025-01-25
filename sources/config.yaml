@@ -1,7 +1,7 @@
-sources:
-  - Iansui-Regular.ufo
+buildVariable: false
 familyName: Iansui
+sources:
+- Iansui.glyphspackage
 autohintTTF: False
 buildOTF: False
 buildWebfont: False
-removeOutlineOverlaps: False

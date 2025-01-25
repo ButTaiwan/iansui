@@ -68,7 +68,7 @@ orjson==3.10.3
 outcome==1.3.0.post0
 packaging==24.0
 picosvg==0.22.1
-pillow==10.3.0
+pillow==11.0.0
 pip-api==0.0.33
 pngquant-cli==2.17.0.post5
 protobuf==3.20.3

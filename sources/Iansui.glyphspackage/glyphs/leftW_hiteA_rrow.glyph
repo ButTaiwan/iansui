@@ -1,0 +1,57 @@
+{
+glyphname = leftWhiteArrow;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (249,45);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (465,45);
+type = Stem;
+},
+{
+place = (365,45);
+type = Stem;
+},
+{
+place = (849,45);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(894,234,l),
+(894,495,l),
+(410,495,l),
+(410,673,l),
+(46,365,l),
+(410,56,l),
+(410,234,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(849,279,l),
+(365,279,l),
+(365,154,l),
+(114,365,l),
+(365,577,l),
+(365,450,l),
+(849,450,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid08013;
+unicode = 8678;
+}

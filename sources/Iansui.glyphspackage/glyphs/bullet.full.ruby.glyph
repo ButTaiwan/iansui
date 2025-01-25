@@ -1,0 +1,40 @@
+{
+glyphname = bullet.full.ruby;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (48,662);
+type = Stem;
+},
+{
+place = (169,662);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(831,548,o),
+(684,695,o),
+(500,695,cs),
+(316,695,o),
+(169,548,o),
+(169,364,cs),
+(169,180,o),
+(316,33,o),
+(500,33,cs),
+(684,33,o),
+(831,180,o),
+(831,364,cs)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12641;
+}

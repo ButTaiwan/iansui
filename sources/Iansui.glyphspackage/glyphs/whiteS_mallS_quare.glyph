@@ -1,0 +1,51 @@
+{
+glyphname = whiteSmallSquare;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (240,45);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (471,45);
+type = Stem;
+},
+{
+place = (361,45);
+type = Stem;
+},
+{
+place = (593,45);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(638,225,l),
+(638,501,l),
+(361,501,l),
+(361,225,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(593,270,l),
+(406,270,l),
+(406,456,l),
+(593,456,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12237;
+unicode = 9643;
+}

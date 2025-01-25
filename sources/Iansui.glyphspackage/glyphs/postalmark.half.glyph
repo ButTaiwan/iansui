@@ -1,0 +1,50 @@
+{
+glyphname = postalmark.half;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (416,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (666,65);
+type = Stem;
+},
+{
+place = (215,71);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,-33,l),
+(286,401,l),
+(471,401,l),
+(471,466,l),
+(29,466,l),
+(29,401,l),
+(215,401,l),
+(215,-33,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(471,651,l),
+(471,716,l),
+(29,716,l),
+(29,651,l)
+);
+}
+);
+width = 500;
+}
+);
+note = cid12069;
+}

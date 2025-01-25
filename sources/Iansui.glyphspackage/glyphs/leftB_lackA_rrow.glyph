@@ -1,0 +1,36 @@
+{
+glyphname = leftBlackArrow;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (249,261);
+type = Stem;
+},
+{
+place = (46,848);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(894,234,l),
+(894,495,l),
+(410,495,l),
+(410,673,l),
+(46,365,l),
+(410,56,l),
+(410,234,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid08207;
+unicode = 11013;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = parenrightupperhook;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-120,999);
+type = Stem;
+},
+{
+place = (460,84);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(544,-135,l),
+(544,286,o),
+(326,663,o),
+(45,856,cs),
+(36,862,o),
+(29,864,o),
+(22,864,cs),
+(11,864,o),
+(3,856,o),
+(3,846,cs),
+(3,839,o),
+(7,830,o),
+(17,822,cs),
+(268,614,o),
+(460,256,o),
+(460,-135,c)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12145;
+unicode = 9118;
+}

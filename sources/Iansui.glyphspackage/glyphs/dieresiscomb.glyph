@@ -1,0 +1,74 @@
+{
+category = Mark;
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (249,471);
+},
+{
+name = top;
+pos = (249,623);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (592,109);
+type = Stem;
+},
+{
+place = (109,101);
+type = Stem;
+},
+{
+place = (292,101);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(375,577,o),
+(393,596,o),
+(393,624,cs),
+(393,654,o),
+(364,686,o),
+(338,686,cs),
+(309,686,o),
+(292,667,o),
+(292,638,cs),
+(292,611,o),
+(318,577,o),
+(348,577,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(192,577,o),
+(210,596,o),
+(210,624,cs),
+(210,654,o),
+(181,686,o),
+(155,686,cs),
+(126,686,o),
+(109,667,o),
+(109,638,cs),
+(109,611,o),
+(135,577,o),
+(165,577,cs)
+);
+}
+);
+width = 500;
+}
+);
+note = cid00132;
+subCategory = Nonspacing;
+unicode = 776;
+}

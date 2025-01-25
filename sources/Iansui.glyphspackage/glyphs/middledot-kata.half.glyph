@@ -1,0 +1,41 @@
+{
+glyphname = "middledot-kata.half";
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (274,191);
+type = Stem;
+},
+{
+place = (161,176);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,259,o),
+(337,290,o),
+(337,341,cs),
+(337,393,o),
+(286,450,o),
+(241,450,cs),
+(190,450,o),
+(161,416,o),
+(161,365,cs),
+(161,318,o),
+(208,259,o),
+(258,259,cs)
+);
+}
+);
+width = 500;
+}
+);
+note = cid00331;
+unicode = 65381;
+}

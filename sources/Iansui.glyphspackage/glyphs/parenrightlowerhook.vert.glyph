@@ -1,0 +1,44 @@
+{
+glyphname = parenrightlowerhook.vert;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (336,84);
+type = Stem;
+},
+{
+place = (1,999);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,405,l),
+(609,405,o),
+(251,597,o),
+(43,848,cs),
+(35,858,o),
+(26,862,o),
+(18,862,cs),
+(8,862,o),
+(1,855,o),
+(1,843,cs),
+(1,837,o),
+(3,829,o),
+(9,820,cs),
+(202,539,o),
+(579,321,o),
+(1000,321,c)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12149;
+}

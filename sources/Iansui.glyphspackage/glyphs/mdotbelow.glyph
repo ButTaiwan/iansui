@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = mdotbelow;
+layers = (
+{
+color = 1;
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+ref = m;
+},
+{
+pos = (511,0);
+ref = dotbelowcomb;
+}
+);
+width = 816;
+}
+);
+unicode = 7747;
+}

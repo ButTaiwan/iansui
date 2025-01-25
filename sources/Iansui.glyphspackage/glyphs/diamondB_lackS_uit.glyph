@@ -1,0 +1,41 @@
+{
+glyphname = diamondBlackSuit;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-85,927);
+type = Stem;
+},
+{
+place = (64,872);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(266,219,o),
+(397,94,o),
+(500,-100,c),
+(603,94,o),
+(734,219,o),
+(936,364,c),
+(734,509,o),
+(603,633,o),
+(500,827,c),
+(397,633,o),
+(266,509,o),
+(64,364,c)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid08214;
+unicode = 9830;
+}

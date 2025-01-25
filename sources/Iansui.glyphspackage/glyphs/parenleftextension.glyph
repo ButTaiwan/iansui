@@ -1,0 +1,33 @@
+{
+glyphname = parenleftextension;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-120,1000);
+type = Stem;
+},
+{
+place = (469,62);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,-135,l),
+(531,865,l),
+(469,865,l),
+(469,-135,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12167;
+unicode = (9116,9119,9122,9125,9130);
+}

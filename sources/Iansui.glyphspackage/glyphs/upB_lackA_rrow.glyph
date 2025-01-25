@@ -1,0 +1,36 @@
+{
+glyphname = upBlackArrow;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-15,848);
+type = Stem;
+},
+{
+place = (368,261);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(629,-30,l),
+(629,454,l),
+(807,454,l),
+(499,818,l),
+(190,454,l),
+(368,454,l),
+(368,-30,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid08208;
+unicode = 11014;
+}

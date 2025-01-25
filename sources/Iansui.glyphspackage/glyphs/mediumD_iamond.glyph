@@ -1,0 +1,42 @@
+{
+glyphname = mediumDiamond;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (102,550);
+type = Stem;
+},
+{
+place = (224,550);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(774,363,l),
+(500,637,l),
+(224,361,l),
+(498,87,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(710,363,l),
+(498,151,l),
+(288,361,l),
+(500,573,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12247;
+unicode = 11046;
+}

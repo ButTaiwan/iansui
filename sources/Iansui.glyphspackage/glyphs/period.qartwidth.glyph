@@ -1,0 +1,40 @@
+{
+glyphname = period.qartwidth;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-14,124);
+type = Stem;
+},
+{
+place = (49,115);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,61,o),
+(133,95,o),
+(106,95,cs),
+(74,95,o),
+(49,70,o),
+(49,40,cs),
+(49,6,o),
+(77,-29,o),
+(106,-29,cs),
+(134,-29,o),
+(164,-3,o),
+(164,26,cs)
+);
+}
+);
+width = 250;
+}
+);
+note = cid09754;
+}

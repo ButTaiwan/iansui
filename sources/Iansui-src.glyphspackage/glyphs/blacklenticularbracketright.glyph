@@ -1,0 +1,39 @@
+{
+color = 4;
+glyphname = blacklenticularbracketright;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (75,1037);
+type = Stem;
+},
+{
+place = (347,232);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(429,-75,l),
+(429,812,l),
+(189,812,l),
+(288,720,o),
+(347,626,o),
+(347,416,cs),
+(347,206,o),
+(288,17,o),
+(189,-75,c)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid00691;
+unicode = 12305;
+}

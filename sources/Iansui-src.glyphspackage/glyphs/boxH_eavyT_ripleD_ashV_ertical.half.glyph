@@ -1,0 +1,102 @@
+{
+glyphname = boxHeavyTripleDashVertical.half;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-65,111);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (102,111);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (269,111);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (435,111);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (602,111);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (769,111);
+type = Stem;
+},
+{
+place = (205,90);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(295,754,l),
+(295,865,l),
+(205,865,l),
+(205,754,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,-80,l),
+(295,31,l),
+(205,31,l),
+(205,-80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,87,l),
+(295,198,l),
+(205,198,l),
+(205,87,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,254,l),
+(295,365,l),
+(205,365,l),
+(205,254,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,420,l),
+(295,531,l),
+(205,531,l),
+(205,420,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,587,l),
+(295,698,l),
+(205,698,l),
+(205,587,l)
+);
+}
+);
+width = 500;
+}
+);
+note = cid00432;
+}

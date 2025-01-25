@@ -1,0 +1,29 @@
+{
+color = 4;
+glyphname = I.half;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,715);
+type = Stem;
+},
+{
+place = (214,74);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+alignment = -1;
+pos = (62,0);
+ref = I;
+}
+);
+width = 500;
+}
+);
+note = cid00272;
+}

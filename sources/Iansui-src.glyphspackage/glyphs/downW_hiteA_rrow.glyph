@@ -1,0 +1,57 @@
+{
+glyphname = downWhiteArrow;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (244,45);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (728,45);
+type = Stem;
+},
+{
+place = (368,45);
+type = Stem;
+},
+{
+place = (584,45);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(499,-90,l),
+(807,274,l),
+(629,274,l),
+(629,758,l),
+(368,758,l),
+(368,274,l),
+(190,274,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(499,-22,l),
+(287,229,l),
+(413,229,l),
+(413,713,l),
+(584,713,l),
+(584,229,l),
+(711,229,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid08011;
+unicode = 8681;
+}

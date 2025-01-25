@@ -1,0 +1,68 @@
+{
+glyphname = cid12245;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (163,45);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (546,45);
+type = Stem;
+},
+{
+place = (284,46);
+type = Stem;
+},
+{
+place = (668,46);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(994,363,l),
+(500,857,l),
+(4,361,l),
+(498,-133,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(931,363,l),
+(498,-70,l),
+(67,361,l),
+(500,794,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(714,148,l),
+(714,576,l),
+(284,576,l),
+(284,148,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(668,193,l),
+(330,193,l),
+(330,531,l),
+(668,531,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12245;
+}

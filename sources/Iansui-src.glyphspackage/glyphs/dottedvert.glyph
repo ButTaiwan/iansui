@@ -1,0 +1,60 @@
+{
+glyphname = dottedvert;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-38,171);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (295,170);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (627,171);
+type = Stem;
+},
+{
+place = (472,59);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,612,l),
+(531,783,l),
+(472,783,l),
+(472,612,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(531,-53,l),
+(531,118,l),
+(472,118,l),
+(472,-53,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(531,280,l),
+(531,450,l),
+(472,450,l),
+(472,280,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12217;
+}

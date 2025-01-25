@@ -1,0 +1,20 @@
+{
+glyphname = e_hungarumlautcomb;
+kernLeft = e;
+kernRight = e;
+layers = (
+{
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (556,15);
+ref = hungarumlautcomb;
+}
+);
+width = 543;
+}
+);
+}

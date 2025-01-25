@@ -1,0 +1,20 @@
+{
+glyphname = u_verticallineabovecomb;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (539,15);
+ref = verticallineabovecomb;
+}
+);
+width = 590;
+}
+);
+}

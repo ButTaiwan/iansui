@@ -1,7 +1,7 @@
-buildVariable: false
 familyName: Iansui
 sources:
-- Iansui.glyphspackage
+- Iansui-build.glyphspackage
+buildVariable: False
 autohintTTF: False
 buildOTF: False
 buildWebfont: False

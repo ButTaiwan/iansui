@@ -1,0 +1,32 @@
+{
+glyphname = downBlackTriangle;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (10,717);
+type = Stem;
+},
+{
+place = (29,942);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,10,l),
+(971,727,l),
+(29,727,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid00733;
+unicode = 9660;
+}

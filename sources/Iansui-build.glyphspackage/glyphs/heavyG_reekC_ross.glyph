@@ -1,0 +1,41 @@
+{
+glyphname = heavyGreekCross;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (278,200);
+type = Stem;
+},
+{
+place = (400,200);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(900,263,l),
+(900,463,l),
+(600,463,l),
+(600,763,l),
+(400,763,l),
+(400,463,l),
+(100,463,l),
+(100,263,l),
+(400,263,l),
+(400,-37,l),
+(600,-37,l),
+(600,263,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12241;
+unicode = 10010;
+}

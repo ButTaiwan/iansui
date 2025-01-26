@@ -1,0 +1,40 @@
+{
+glyphname = colontriangularmod;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-3,512);
+type = Stem;
+},
+{
+place = (105,140);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(245,-18,l),
+(176,111,l),
+(105,-18,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,366,l),
+(245,494,l),
+(105,494,l)
+);
+}
+);
+width = 350;
+}
+);
+note = cid09443;
+unicode = 720;
+}

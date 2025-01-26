@@ -1,0 +1,18 @@
+{
+glyphname = N_brevecomb;
+layers = (
+{
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (628,182);
+ref = brevecomb;
+}
+);
+width = 738;
+}
+);
+}

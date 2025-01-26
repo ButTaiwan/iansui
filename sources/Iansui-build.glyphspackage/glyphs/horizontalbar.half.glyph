@@ -1,0 +1,42 @@
+{
+glyphname = horizontalbar.half;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (349,63);
+type = Stem;
+},
+{
+place = (-7,515);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(492,334,ls),
+(503,334,o),
+(508,350,o),
+(508,366,cs),
+(508,381,o),
+(503,397,o),
+(492,397,cs),
+(8,397,ls),
+(-2,397,o),
+(-7,381,o),
+(-7,366,cs),
+(-7,350,o),
+(-2,334,o),
+(8,334,cs)
+);
+}
+);
+width = 500;
+}
+);
+note = cid12063;
+}

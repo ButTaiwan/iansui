@@ -1,0 +1,32 @@
+{
+glyphname = boxLightVertical.half;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-120,1000);
+type = Stem;
+},
+{
+place = (233,34);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(267,-135,l),
+(267,865,l),
+(233,865,l),
+(233,-135,l)
+);
+}
+);
+width = 500;
+}
+);
+note = cid00427;
+}

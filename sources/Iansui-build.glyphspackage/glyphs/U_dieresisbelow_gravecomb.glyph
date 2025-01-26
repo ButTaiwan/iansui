@@ -1,0 +1,18 @@
+{
+glyphname = Udieresisbelow_gravecomb;
+layers = (
+{
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+ref = Udieresisbelow;
+},
+{
+pos = (572,182);
+ref = gravecomb;
+}
+);
+width = 710;
+}
+);
+}

@@ -1,0 +1,67 @@
+{
+glyphname = leftFacingSvasti;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-52,60);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (337,60);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (726,60);
+type = Stem;
+},
+{
+place = (81,60);
+type = Stem;
+},
+{
+place = (470,60);
+type = Stem;
+},
+{
+place = (859,60);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(920,-67,l),
+(920,-7,l),
+(530,-7,l),
+(530,322,l),
+(919,322,l),
+(919,773,l),
+(859,773,l),
+(859,382,l),
+(530,382,l),
+(530,771,l),
+(80,771,l),
+(80,711,l),
+(470,711,l),
+(470,382,l),
+(81,382,l),
+(81,-69,l),
+(141,-69,l),
+(141,322,l),
+(470,322,l),
+(470,-67,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12182;
+unicode = 4054;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = upDownTriangleArrow;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-134,943);
+type = Stem;
+},
+{
+place = (473,54);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,-149,l),
+(651,140,l),
+(527,140,l),
+(527,505,l),
+(651,505,l),
+(500,794,l),
+(349,505,l),
+(473,505,l),
+(473,140,l),
+(349,140,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12215;
+unicode = 11109;
+}

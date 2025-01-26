@@ -1,0 +1,41 @@
+{
+glyphname = leftTriangleArrow;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (310,54);
+type = Stem;
+},
+{
+place = (49,917);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(950,295,ls),
+(961,295,o),
+(966,309,o),
+(966,322,cs),
+(966,336,o),
+(961,349,o),
+(950,349,cs),
+(338,349,l),
+(338,473,l),
+(49,322,l),
+(338,171,l),
+(338,295,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = cid12210;
+unicode = 11104;
+}

@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = acutecomb.italic;
 layers = (
 {
@@ -47,5 +46,4 @@ width = 500;
 }
 );
 note = cid09570;
-subCategory = Nonspacing;
 }

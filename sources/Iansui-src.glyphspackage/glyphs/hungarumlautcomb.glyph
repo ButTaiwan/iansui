@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = hungarumlautcomb;
 layers = (
 {
@@ -79,6 +78,5 @@ width = 0;
 }
 );
 note = cid00135;
-subCategory = Nonspacing;
 unicode = 779;
 }

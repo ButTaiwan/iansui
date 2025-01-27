@@ -139,9 +139,8 @@ value = (
 );
 },
 {
-disabled = 1;
 name = "Use Typo Metrics";
-value = 0;
+value = 1;
 },
 {
 name = "gasp Table";
@@ -8006,11 +8005,11 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 880;
+value = 940;
 },
 {
 name = typoDescender;
-value = -120;
+value = -180;
 },
 {
 name = typoLineGap;
@@ -8018,19 +8017,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 960;
+value = 1066;
 },
 {
 name = winDescent;
-value = 200;
+value = 273;
 },
 {
 name = hheaAscender;
-value = 960;
+value = 940;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -180;
 },
 {
 name = hheaLineGap;

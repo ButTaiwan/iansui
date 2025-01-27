@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = dieresiscomb.italic;
 layers = (
 {
@@ -71,5 +70,4 @@ width = 500;
 }
 );
 note = cid09575;
-subCategory = Nonspacing;
 }

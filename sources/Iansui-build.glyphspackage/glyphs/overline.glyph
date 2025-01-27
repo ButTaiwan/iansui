@@ -1,5 +1,5 @@
 {
-category = Mark;
+category = Punctuation;
 glyphname = overline;
 layers = (
 {
@@ -40,6 +40,6 @@ width = 500;
 }
 );
 note = cid00226;
-subCategory = Nonspacing;
+subCategory = Spacing;
 unicode = 8254;
 }

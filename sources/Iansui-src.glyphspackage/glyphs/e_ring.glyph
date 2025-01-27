@@ -1,4 +1,6 @@
 {
+color = 11;
+export = 0;
 glyphname = e_ring;
 kernLeft = e;
 kernRight = e;

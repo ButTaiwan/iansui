@@ -1,4 +1,6 @@
 {
+color = 11;
+export = 0;
 glyphname = eight_one.blackCircled;
 layers = (
 {

@@ -2,6 +2,16 @@
 glyphname = dottedCircle;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (500,-127);
+},
+{
+name = top;
+pos = (500,832);
+}
+);
 hints = (
 {
 horizontal = 1;

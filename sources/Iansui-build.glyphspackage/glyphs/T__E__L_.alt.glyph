@@ -1,4 +1,6 @@
 {
+color = 11;
+export = 0;
 glyphname = T_E_L.alt;
 layers = (
 {

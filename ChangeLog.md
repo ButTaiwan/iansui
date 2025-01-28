@@ -1,5 +1,12 @@
 # 異動紀錄
 
+## 2025/1/28 v1.011
+- 基於 Google Fonts Guidelines 的調整
+  - Changed metrics to follow GF guidelines
+  - Append `.glyphspackage` source
+  - Build `.ttf` file by `fontmake`
+- 新增3個字（鿬鿫䴉）、調整1字寫法（魔）
+
 ## 2024/11/7 v1.003
 - Changed metrics to follow GF guidelines
 - Updated config.yaml and added makefile build system

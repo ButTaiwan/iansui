@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = brevecomb.italic;
 layers = (
 {
@@ -50,5 +49,4 @@ width = 500;
 }
 );
 note = cid09573;
-subCategory = Nonspacing;
 }

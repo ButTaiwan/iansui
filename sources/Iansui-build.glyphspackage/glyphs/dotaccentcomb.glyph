@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = dotaccentcomb;
 layers = (
 {
@@ -38,6 +37,5 @@ width = 500;
 }
 );
 note = cid00131;
-subCategory = Nonspacing;
 unicode = 775;
 }

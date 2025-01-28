@@ -179,7 +179,7 @@ name = "Name Table Entry";
 value = "17 3 1 1033; Regular";
 }
 );
-date = "2025-01-25 04:00:37 +0000";
+date = "2025-01-28 04:00:37 +0000";
 familyName = Iansui;
 featurePrefixes = (
 {
@@ -8058,9 +8058,9 @@ pos = -120;
 );
 name = Regular;
 userData = {
-GSOffsetHorizontal = 0;
+GSOffsetHorizontal = 5;
 GSOffsetKeepCompatible = 1;
-GSOffsetVertical = 1;
+GSOffsetVertical = 3;
 };
 }
 );
@@ -14654,5 +14654,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 9;
+versionMinor = 11;
 }

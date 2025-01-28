@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = caroncomb;
 layers = (
 {
@@ -62,6 +61,5 @@ width = 0;
 }
 );
 note = cid00137;
-subCategory = Nonspacing;
 unicode = 780;
 }

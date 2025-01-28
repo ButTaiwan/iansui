@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = ogonekcomb;
 layers = (
 {
@@ -51,6 +50,5 @@ width = 500;
 }
 );
 note = cid00136;
-subCategory = Nonspacing;
 unicode = 808;
 }

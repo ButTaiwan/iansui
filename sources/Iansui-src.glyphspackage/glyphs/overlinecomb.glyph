@@ -1,5 +1,4 @@
 {
-category = Mark;
 glyphname = overlinecomb;
 layers = (
 {
@@ -40,6 +39,5 @@ width = 500;
 }
 );
 note = cid00226;
-subCategory = Nonspacing;
-unicode = (773,8254);
+unicode = 773;
 }

@@ -1,7 +1,5 @@
 SOURCES=$(shell python3 scripts/read-config.py --sources )
 FAMILY=$(shell python3 scripts/read-config.py --family )
-DRAWBOT_SCRIPTS=$(shell ls documentation/*.py)
-DRAWBOT_OUTPUT=$(shell ls documentation/*.py | sed 's/\.py/.png/g')
 
 help:
 	@echo "###"
@@ -42,11 +40,6 @@ test: venv-test build.stamp
 
 proof: venv build.stamp
 	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof; diffenator2 proof $$TOCHECK -o out/proof
-
-images: venv $(DRAWBOT_OUTPUT)
-
-%.png: %.py build.stamp
-	. venv/bin/activate; python3 $< --output $@
 
 clean:
 	rm -rf venv

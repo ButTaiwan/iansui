@@ -1,0 +1,45 @@
+{
+category = Punctuation;
+glyphname = overline;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (778,63);
+type = Stem;
+},
+{
+place = (-14,528);
+type = Stem;
+}
+);
+layerId = "481A290F-76EE-4968-957F-52614F4635C1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(495,763,ls),
+(508,763,o),
+(514,779,o),
+(514,795,cs),
+(514,810,o),
+(508,826,o),
+(495,826,cs),
+(5,826,ls),
+(-8,826,o),
+(-14,810,o),
+(-14,795,cs),
+(-14,779,o),
+(-8,763,o),
+(5,763,cs)
+);
+}
+);
+width = 500;
+}
+);
+note = cid00226;
+subCategory = Spacing;
+unicode = 8254;
+}

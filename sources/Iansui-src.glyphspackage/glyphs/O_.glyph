@@ -8,6 +8,10 @@ anchors = (
 {
 name = top;
 pos = (389,653);
+},
+{
+name = topright;
+pos = (637,616);
 }
 );
 hints = (

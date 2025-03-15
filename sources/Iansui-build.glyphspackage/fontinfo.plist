@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3400";
 .formatVersion = 3;
 customParameters = (
 {
@@ -14654,5 +14654,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 11;
+versionMinor = 12;
 }

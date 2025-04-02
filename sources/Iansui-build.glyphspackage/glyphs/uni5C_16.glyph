@@ -15,7 +15,7 @@ type = Stem;
 },
 {
 origin = (0,16);
-place = (472,66);
+place = (467,66);
 type = Stem;
 }
 );

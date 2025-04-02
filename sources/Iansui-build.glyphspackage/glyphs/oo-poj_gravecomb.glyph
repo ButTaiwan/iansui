@@ -1,4 +1,5 @@
 {
+category = Letter;
 glyphname = "oo-poj_gravecomb";
 kernLeft = o;
 kernRight = o;
@@ -17,4 +18,6 @@ ref = gravecomb;
 width = 562;
 }
 );
+script = latin;
+subCategory = Spacing;
 }

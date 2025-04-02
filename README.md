@@ -1,9 +1,9 @@
 ![芫荽/iansui](img/iansui_cover.jpg)
 
 # 芫荽 / iansui
-An open source Chinese font derived from Klee One (Fontworks). 
+An open source Chinese font derived from Klee One (Fontworks).
 
-基於 Fontworks 的 Klee One 衍生的開源繁體中文字型。  
+基於 Fontworks 的 Klee One 衍生的開源繁體中文字型。
 
 ## 簡介
 
@@ -25,16 +25,16 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 
 * Big5範圍內約8,170字。**注意並沒有包含Big5完整的13,560字。**
 * 支援jf當務字集基本包與擴充包所有文字。
-* 台、客語漢字（教育部《[臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/)》《[臺灣客家語常用詞辭典](https://hakkadict.moe.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&cache=1641872312920)》內所有推薦用字。原則上不收錄異用字。）、常用粵語字。
+* 台、客語漢字（教育部《[臺灣台語常用詞辭典](https://sutian.moe.edu.tw/zh-hant/)》《[臺灣客家語常用詞辭典](https://hakkadict.moe.edu.tw/home/)》內所有推薦用字。原則上不收錄異用字。）、常用粵語字。
 * 注音符號與方音符號。
 * 支援台羅拼音、台語白話字拼音、客語拼音、客語白話字拼音、原住名族語拼音、漢語拼音、馬祖福州話拼音編排。
 * 依繁體中文習慣，全形標點符號置中。括弧引號類亦調整為稍比日文原形向中靠攏。
 * 數字 ７、英文大寫字母 I 亦調整為更貼近台灣教科書的寫法。
-* 支援 KK 音標、DJ 音標 KK 音標、DJ 音標需要之所有字母、重音標號，可從下表複製使用： 
+* 支援 KK 音標、DJ 音標 KK 音標、DJ 音標需要之所有字母、重音標號，可從下表複製使用：
 	- KK: ɑæɛəɪɔᴜʌɚɝ aɪaᴜ θʃðʒŋḷṃṇ ‵ʹ͵
 	- DJ: ɑæəɜɪɔʊʌː aɪaʊ θʃðʒŋ ˈˌ
 	- 注意因為芫荽的 a 預設是單層，而 Unicode 沒有兩層 a 的字碼，故以標準連字方式來實作。當 a 出現在 ɪᴜʊ 之前時顯示為兩層。故單層 a 也可以不用刻意輸入 ɑ。
-	
+
 ![芫荽範例字/iansui](img/iansui_sample.jpg)
 
 ## 字形調整原則
@@ -53,7 +53,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 * Klee One 原有收錄的字，但在 Big5 範圍外且非台客語漢字者，原則上先視為日文異體，保留原字形不進行調整。
 
 即本專案以較寬鬆的方式解釋教育部標準字體的規定，如同思源宋體、思源黑體、蘋方等其他字型。
-這樣的寫法是否已足夠應付學齡教學使用，盼大眾能提供反饋。
+這樣的寫法是否已足夠應付學齡教學使用，盼大眾能提供回饋。
 
 ## 備註
 

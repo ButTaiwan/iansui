@@ -1,5 +1,5 @@
 {
-.appVersion = "3400";
+.appVersion = "3337";
 .formatVersion = 3;
 customParameters = (
 {
@@ -115,7 +115,7 @@ asciitilde
 },
 {
 name = "Sample Fonts";
-value = "標楷體, 楷體-繁, 蘋方-繁";
+value = "楷體-繁, 標楷體-繁, 蘋方-繁, クレー";
 },
 {
 disabled = 1;
@@ -124,7 +124,7 @@ value = "66AA00,FFaa00";
 },
 {
 name = "CharBG Fonts";
-value = "Klee DemiBold;標楷體, -30; 楷體-繁, -140; 源石黑體 M";
+value = "Klee DemiBold;標楷體-繁, -30; 楷體-繁, -140; 源石黑體 M";
 },
 {
 disabled = 1;
@@ -179,7 +179,7 @@ name = "Name Table Entry";
 value = "17 3 1 1033; Regular";
 }
 );
-date = "2025-01-28 04:00:37 +0000";
+date = "2025-05-30 07:00:07 +0000";
 familyName = Iansui;
 featurePrefixes = (
 {
@@ -8058,9 +8058,9 @@ pos = -120;
 );
 name = Regular;
 userData = {
-GSOffsetHorizontal = 5;
+GSOffsetHorizontal = -1;
 GSOffsetKeepCompatible = 1;
-GSOffsetVertical = 3;
+GSOffsetVertical = -1;
 };
 }
 );
@@ -14654,5 +14654,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 12;
+versionMinor = 20;
 }

@@ -1,5 +1,11 @@
 # 異動紀錄
 
+## 2025/5/30 v1.020
+- 新增文字：妸珢浠侰栚乭蘼煐慜臒玧暏莑敒炡𤨒泜瑉杋磪栟螄窨觭厴倕𰻞
+- 修改漢字寫法5字（標準字體遵循與外觀調整）：斃竊𧊅憨饜
+
+![v1.020](img/v1020.png)
+
 ## 2025/1/28 v1.011
 - 基於 Google Fonts Guidelines 的調整
   - Changed metrics to follow GF guidelines

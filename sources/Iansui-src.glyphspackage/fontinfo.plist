@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3436";
 .formatVersion = 3;
 customParameters = (
 {
@@ -402,7 +402,7 @@ sub vturned acutecomb by vturned_acute;
 # 2th tone of TL, POJ
 sub a acutecomb by aacute;
 sub e acutecomb by eacute;
-sub i acutecomb by iacute;
+sub [i idotless] acutecomb by iacute;
 sub o acutecomb by oacute;
 sub u acutecomb by uacute;
 sub m acutecomb by macute;
@@ -420,7 +420,7 @@ sub O dotaboverightcomb acutecomb by OO-poj_acutecomb;
 # 3th tone of TL, POJ
 sub a gravecomb by agrave;
 sub e gravecomb by egrave;
-sub i gravecomb by igrave;
+sub [i idotless] gravecomb by igrave;
 sub o gravecomb by ograve;
 sub u gravecomb by ugrave;
 sub m gravecomb by m_gravecomb;
@@ -438,7 +438,7 @@ sub O dotaboverightcomb gravecomb by OO-poj_gravecomb;
 # 5th tone of TL, POJ
 sub a circumflexcomb by acircumflex;
 sub e circumflexcomb by ecircumflex;
-sub i circumflexcomb by icircumflex;
+sub [i idotless] circumflexcomb by icircumflex;
 sub o circumflexcomb by ocircumflex;
 sub u circumflexcomb by ucircumflex;
 sub m circumflexcomb by m_circumflexcomb;
@@ -456,7 +456,7 @@ sub O dotaboverightcomb circumflexcomb by OO-poj_circumflexcomb;
 # 6th tone of TL
 sub a caroncomb by acaron;
 sub e caroncomb by ecaron;
-sub i caroncomb by icaron;
+sub [i idotless] caroncomb by icaron;
 sub o caroncomb by ocaron;
 sub u caroncomb by ucaron;
 sub m caroncomb by m_caroncomb;
@@ -474,7 +474,7 @@ sub O dotaboverightcomb caroncomb by OO-poj_caroncomb;
 # 7th tone of TL, POJ
 sub a macroncomb by amacron;
 sub e macroncomb by emacron;
-sub i macroncomb by imacron;
+sub [i idotless] macroncomb by imacron;
 sub o macroncomb by omacron;
 sub u macroncomb by umacron;
 sub m macroncomb by m_macroncomb;
@@ -492,7 +492,7 @@ sub O dotaboverightcomb macroncomb by OO-poj_macroncomb;
 # 8th tone of TL, POJ
 sub a verticallineabovecomb by a_verticallineabovecomb;
 sub e verticallineabovecomb by e_verticallineabovecomb;
-sub i verticallineabovecomb by i_verticallineabovecomb;
+sub [i idotless] verticallineabovecomb by i_verticallineabovecomb;
 sub o verticallineabovecomb by o_verticallineabovecomb;
 sub u verticallineabovecomb by u_verticallineabovecomb;
 sub m verticallineabovecomb by m_verticallineabovecomb;
@@ -510,7 +510,7 @@ sub O dotaboverightcomb verticallineabovecomb by OO-poj_verticallineabovecomb;
 # 9th tone of TL
 sub a hungarumlautcomb by a_hungarumlautcomb;
 sub e hungarumlautcomb by e_hungarumlautcomb;
-sub i hungarumlautcomb by i_hungarumlautcomb;
+sub [i idotless] hungarumlautcomb by i_hungarumlautcomb;
 sub o hungarumlautcomb by ohungarumlaut;
 sub u hungarumlautcomb by uhungarumlaut;
 sub m hungarumlautcomb by m_hungarumlautcomb;
@@ -528,7 +528,7 @@ sub O dotaboverightcomb hungarumlautcomb by OO-poj_hungarumlautcomb;
 # 9th tone of POJ
 sub a brevecomb by abreve;
 sub e brevecomb by ebreve;
-sub i brevecomb by ibreve;
+sub [i idotless] brevecomb by ibreve;
 sub o brevecomb by obreve;
 sub u brevecomb by ubreve;
 sub m brevecomb by m_brevecomb;
@@ -14614,13 +14614,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -14654,5 +14654,5 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 20;
+versionMinor = 202;
 }
